@@ -32,6 +32,7 @@
 
 - [ ] 完成一次 [backend-general.md](/Users/wizout/op/interview/practice/mock-interviews/backend-general.md)
 - [ ] 完成一次 [senior-backend.md](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
+- [ ] 完成一次 [reliability-and-infra.md](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
 - [ ] 完成一次 [ai-infra.md](/Users/wizout/op/interview/practice/mock-interviews/ai-infra.md)
 - [ ] 用 [scorecard.md](/Users/wizout/op/interview/practice/mock-interviews/scorecard.md) 给自己打分
 

@@ -3,10 +3,10 @@
     "topic_docs": 33,
     "question_sets": 15,
     "track_docs": 23,
-    "practice_docs": 11,
+    "practice_docs": 12,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 88
+    "total_markdown_files": 89
   },
   "domains": {
     "topics": {
@@ -26,7 +26,7 @@
     "practice": {
       "drills": 3,
       "flashcards": 1,
-      "mock-interviews": 5,
+      "mock-interviews": 6,
       "weekly-reviews": 2
     },
     "projects": {
@@ -148,6 +148,7 @@
       "practice/mock-interviews/ai-compiler-deep-dive.md",
       "practice/mock-interviews/ai-infra.md",
       "practice/mock-interviews/backend-general.md",
+      "practice/mock-interviews/reliability-and-infra.md",
       "practice/mock-interviews/scorecard.md",
       "practice/mock-interviews/senior-backend.md",
       "practice/weekly-reviews/monthly-review.md",

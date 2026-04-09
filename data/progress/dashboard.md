@@ -5,10 +5,10 @@
 | 主题文档 | 33 |
 | 题集文档 | 15 |
 | 训练路径 | 23 |
-| Practice 文档 | 11 |
+| Practice 文档 | 12 |
 | 项目案例 | 6 |
 | 来源条目 | 22 |
-| Markdown 总数 | 88 |
+| Markdown 总数 | 89 |
 
 ## 领域覆盖
 
@@ -40,7 +40,7 @@
 
 - `drills`: 3
 - `flashcards`: 1
-- `mock-interviews`: 5
+- `mock-interviews`: 6
 - `weekly-reviews`: 2
 
 ## 项目案例分布

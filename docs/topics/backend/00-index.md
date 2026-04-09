@@ -50,3 +50,4 @@
 
 - 刷 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
 - 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
+- 做 [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
