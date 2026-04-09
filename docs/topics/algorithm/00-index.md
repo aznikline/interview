@@ -19,6 +19,7 @@
 - [01-algorithm-methodology.md](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
 - [02-common-patterns.md](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
 - [03-frameworks-and-drills.md](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
+- [04-dp-and-state-design.md](/Users/wizout/op/interview/docs/topics/algorithm/04-dp-and-state-design.md)
 
 ### 学完这一组内容后应该具备什么能力
 
@@ -31,6 +32,7 @@
 - 什么问题适合滑动窗口？
 - 双指针和滑动窗口怎么区分？
 - DP 怎么从暴力推到状态转移？
+- 状态设计为什么是 DP 的核心？
 - BFS、DFS、回溯分别什么时候用？
 
 ## 深挖与误区

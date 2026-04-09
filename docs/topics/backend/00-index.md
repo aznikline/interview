@@ -23,6 +23,7 @@
 - [04-mq-reliability-and-idempotency.md](/Users/wizout/op/interview/docs/topics/backend/04-mq-reliability-and-idempotency.md)
 - [05-network-and-protocols.md](/Users/wizout/op/interview/docs/topics/backend/05-network-and-protocols.md)
 - [06-storage-engines-and-logs.md](/Users/wizout/op/interview/docs/topics/backend/06-storage-engines-and-logs.md)
+- [07-distributed-transactions-and-compensation.md](/Users/wizout/op/interview/docs/topics/backend/07-distributed-transactions-and-compensation.md)
 - [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
 
 ### 学完这一组内容后应该具备什么能力

@@ -20,6 +20,7 @@
 - [03-seckill-and-high-concurrency.md](/Users/wizout/op/interview/docs/topics/system-design/03-seckill-and-high-concurrency.md)
 - [04-search-and-messaging.md](/Users/wizout/op/interview/docs/topics/system-design/04-search-and-messaging.md)
 - [05-message-queue-and-serialization.md](/Users/wizout/op/interview/docs/topics/system-design/05-message-queue-and-serialization.md)
+- [06-rate-limiting-degradation-and-recovery.md](/Users/wizout/op/interview/docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md)
 
 ## 高频问法
 

@@ -1,20 +1,20 @@
 {
   "counts": {
-    "topic_docs": 29,
+    "topic_docs": 33,
     "question_sets": 15,
     "track_docs": 23,
-    "practice_docs": 10,
+    "practice_docs": 11,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 83
+    "total_markdown_files": 88
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
-      "algorithm": 4,
-      "backend": 7,
-      "operating-system": 5,
-      "system-design": 6
+      "algorithm": 5,
+      "backend": 8,
+      "operating-system": 6,
+      "system-design": 7
     },
     "questions": {
       "ai-compiler": 3,
@@ -24,7 +24,7 @@
       "system-design": 3
     },
     "practice": {
-      "drills": 2,
+      "drills": 3,
       "flashcards": 1,
       "mock-interviews": 5,
       "weekly-reviews": 2
@@ -42,22 +42,22 @@
       "projects": 3
     },
     "algorithm": {
-      "topics": 4,
-      "questions": 3,
-      "projects": 0
-    },
-    "backend": {
-      "topics": 7,
-      "questions": 3,
-      "projects": 1
-    },
-    "operating-system": {
       "topics": 5,
       "questions": 3,
       "projects": 0
     },
-    "system-design": {
+    "backend": {
+      "topics": 8,
+      "questions": 3,
+      "projects": 1
+    },
+    "operating-system": {
       "topics": 6,
+      "questions": 3,
+      "projects": 0
+    },
+    "system-design": {
+      "topics": 7,
       "questions": 3,
       "projects": 2
     }
@@ -75,6 +75,7 @@
       "docs/topics/algorithm/01-algorithm-methodology.md",
       "docs/topics/algorithm/02-common-patterns.md",
       "docs/topics/algorithm/03-frameworks-and-drills.md",
+      "docs/topics/algorithm/04-dp-and-state-design.md",
       "docs/topics/backend/00-index.md",
       "docs/topics/backend/01-backend-fundamentals.md",
       "docs/topics/backend/02-mysql-transactions-and-locks.md",
@@ -82,17 +83,20 @@
       "docs/topics/backend/04-mq-reliability-and-idempotency.md",
       "docs/topics/backend/05-network-and-protocols.md",
       "docs/topics/backend/06-storage-engines-and-logs.md",
+      "docs/topics/backend/07-distributed-transactions-and-compensation.md",
       "docs/topics/operating-system/00-index.md",
       "docs/topics/operating-system/01-os-core.md",
       "docs/topics/operating-system/02-memory-and-io.md",
       "docs/topics/operating-system/03-concurrency-and-scheduling.md",
       "docs/topics/operating-system/04-linux-observability-and-tuning.md",
+      "docs/topics/operating-system/05-network-io-and-epoll.md",
       "docs/topics/system-design/00-index.md",
       "docs/topics/system-design/01-system-design-methodology.md",
       "docs/topics/system-design/02-cache-consistency-and-traffic.md",
       "docs/topics/system-design/03-seckill-and-high-concurrency.md",
       "docs/topics/system-design/04-search-and-messaging.md",
-      "docs/topics/system-design/05-message-queue-and-serialization.md"
+      "docs/topics/system-design/05-message-queue-and-serialization.md",
+      "docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md"
     ],
     "questions": [
       "questions/ai-compiler/00-must-know.md",
@@ -139,6 +143,7 @@
     "practice": [
       "practice/drills/7-day-rescue-plan.md",
       "practice/drills/daily-drill.md",
+      "practice/drills/reliability-deep-dive.md",
       "practice/flashcards/high-frequency.md",
       "practice/mock-interviews/ai-compiler-deep-dive.md",
       "practice/mock-interviews/ai-infra.md",

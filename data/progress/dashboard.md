@@ -2,31 +2,31 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 主题文档 | 29 |
+| 主题文档 | 33 |
 | 题集文档 | 15 |
 | 训练路径 | 23 |
-| Practice 文档 | 10 |
+| Practice 文档 | 11 |
 | 项目案例 | 6 |
 | 来源条目 | 22 |
-| Markdown 总数 | 83 |
+| Markdown 总数 | 88 |
 
 ## 领域覆盖
 
 | 领域 | Topic | Question | Project |
 | --- | ---: | ---: | ---: |
 | `ai-compiler` | 7 | 3 | 3 |
-| `algorithm` | 4 | 3 | 0 |
-| `backend` | 7 | 3 | 1 |
-| `operating-system` | 5 | 3 | 0 |
-| `system-design` | 6 | 3 | 2 |
+| `algorithm` | 5 | 3 | 0 |
+| `backend` | 8 | 3 | 1 |
+| `operating-system` | 6 | 3 | 0 |
+| `system-design` | 7 | 3 | 2 |
 
 ## Topic 领域分布
 
 - `ai-compiler`: 7
-- `algorithm`: 4
-- `backend`: 7
-- `operating-system`: 5
-- `system-design`: 6
+- `algorithm`: 5
+- `backend`: 8
+- `operating-system`: 6
+- `system-design`: 7
 
 ## 题目领域分布
 
@@ -38,7 +38,7 @@
 
 ## Practice 分布
 
-- `drills`: 2
+- `drills`: 3
 - `flashcards`: 1
 - `mock-interviews`: 5
 - `weekly-reviews`: 2

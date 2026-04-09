@@ -148,6 +148,11 @@
 3. 消息、序列化与队列系统
 4. Linux 工具链与排障
 
+建议继续延伸：
+
+- [分布式事务、补偿与一致性取舍](/Users/wizout/op/interview/docs/topics/backend/07-distributed-transactions-and-compensation.md)
+- [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
+
 ### 如果你偏 AI Infra / AI 编译器
 
 1. 编译原理基础
