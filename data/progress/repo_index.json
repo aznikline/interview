@@ -1,94 +1,104 @@
 {
   "counts": {
-    "topic_docs": 15,
-    "question_sets": 10,
+    "topic_docs": 20,
+    "question_sets": 15,
     "track_docs": 6,
-    "practice_docs": 8,
-    "project_docs": 5,
+    "practice_docs": 10,
+    "project_docs": 6,
     "source_entries": 16,
-    "total_markdown_files": 44
+    "total_markdown_files": 57
   },
   "domains": {
     "topics": {
+      "ai-compiler": 4,
+      "algorithm": 3,
+      "backend": 5,
+      "operating-system": 4,
+      "system-design": 4
+    },
+    "questions": {
       "ai-compiler": 3,
-      "algorithm": 2,
-      "backend": 4,
+      "algorithm": 3,
+      "backend": 3,
       "operating-system": 3,
       "system-design": 3
     },
-    "questions": {
-      "ai-compiler": 2,
-      "algorithm": 2,
-      "backend": 2,
-      "operating-system": 2,
-      "system-design": 2
-    },
     "practice": {
-      "drills": 1,
+      "drills": 2,
       "flashcards": 1,
       "mock-interviews": 5,
-      "weekly-reviews": 1
+      "weekly-reviews": 2
     },
     "projects": {
-      "ai-compiler-case-studies": 2,
+      "ai-compiler-case-studies": 3,
       "backend-case-studies": 1,
       "design-case-studies": 2
     }
   },
   "coverage": {
     "ai-compiler": {
-      "topics": 3,
-      "questions": 2,
-      "projects": 2
+      "topics": 4,
+      "questions": 3,
+      "projects": 3
     },
     "algorithm": {
-      "topics": 2,
-      "questions": 2,
+      "topics": 3,
+      "questions": 3,
       "projects": 0
     },
     "backend": {
-      "topics": 4,
-      "questions": 2,
+      "topics": 5,
+      "questions": 3,
       "projects": 1
     },
     "operating-system": {
-      "topics": 3,
-      "questions": 2,
+      "topics": 4,
+      "questions": 3,
       "projects": 0
     },
     "system-design": {
-      "topics": 3,
-      "questions": 2,
+      "topics": 4,
+      "questions": 3,
       "projects": 2
     }
   },
   "files": {
     "docs_topics": [
+      "docs/topics/ai-compiler/00-index.md",
       "docs/topics/ai-compiler/01-ai-compiler-core.md",
       "docs/topics/ai-compiler/02-ir-lowering-and-dialects.md",
       "docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md",
+      "docs/topics/algorithm/00-index.md",
       "docs/topics/algorithm/01-algorithm-methodology.md",
       "docs/topics/algorithm/02-common-patterns.md",
+      "docs/topics/backend/00-index.md",
       "docs/topics/backend/01-backend-fundamentals.md",
       "docs/topics/backend/02-mysql-transactions-and-locks.md",
       "docs/topics/backend/03-redis-and-cache-consistency.md",
       "docs/topics/backend/04-mq-reliability-and-idempotency.md",
+      "docs/topics/operating-system/00-index.md",
       "docs/topics/operating-system/01-os-core.md",
       "docs/topics/operating-system/02-memory-and-io.md",
       "docs/topics/operating-system/03-concurrency-and-scheduling.md",
+      "docs/topics/system-design/00-index.md",
       "docs/topics/system-design/01-system-design-methodology.md",
       "docs/topics/system-design/02-cache-consistency-and-traffic.md",
       "docs/topics/system-design/03-seckill-and-high-concurrency.md"
     ],
     "questions": [
+      "questions/ai-compiler/00-must-know.md",
       "questions/ai-compiler/deep-dive.md",
       "questions/ai-compiler/high-frequency.md",
+      "questions/algorithm/00-must-know.md",
       "questions/algorithm/high-frequency.md",
       "questions/algorithm/patterns-and-dp.md",
+      "questions/backend/00-must-know.md",
       "questions/backend/distributed-and-db.md",
       "questions/backend/high-frequency.md",
+      "questions/operating-system/00-must-know.md",
       "questions/operating-system/concurrency-and-memory.md",
       "questions/operating-system/high-frequency.md",
+      "questions/system-design/00-must-know.md",
       "questions/system-design/design-cases.md",
       "questions/system-design/high-frequency.md"
     ],
@@ -101,6 +111,7 @@
       "tracks/sprint-60d/README.md"
     ],
     "practice": [
+      "practice/drills/7-day-rescue-plan.md",
       "practice/drills/daily-drill.md",
       "practice/flashcards/high-frequency.md",
       "practice/mock-interviews/ai-compiler-deep-dive.md",
@@ -108,10 +119,12 @@
       "practice/mock-interviews/backend-general.md",
       "practice/mock-interviews/scorecard.md",
       "practice/mock-interviews/senior-backend.md",
+      "practice/weekly-reviews/monthly-review.md",
       "practice/weekly-reviews/review-template.md"
     ],
     "projects": [
       "projects/ai-compiler-case-studies/llm-inference-compiler.md",
+      "projects/ai-compiler-case-studies/project-storytelling.md",
       "projects/ai-compiler-case-studies/runtime-scheduling.md",
       "projects/backend-case-studies/url-shortener.md",
       "projects/design-case-studies/feed-system.md",
