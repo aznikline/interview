@@ -54,6 +54,10 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 建议时长：`10-14 天`
 
+阶段指南：
+
+- [Phase 1: Backend Core](/Users/wizout/op/interview/tracks/interview-university/phase-1-backend-core.md)
+
 - [ ] 阅读 [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
 - [ ] 阅读 [后端基础总览](/Users/wizout/op/interview/docs/topics/backend/01-backend-fundamentals.md)
 - [ ] 阅读 [MySQL 事务、锁与 MVCC](/Users/wizout/op/interview/docs/topics/backend/02-mysql-transactions-and-locks.md)
@@ -76,6 +80,10 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 建议时长：`10-14 天`
 
+阶段指南：
+
+- [Phase 2: Algorithms And Data Structures](/Users/wizout/op/interview/tracks/interview-university/phase-2-algorithms.md)
+
 - [ ] 阅读 [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
 - [ ] 阅读 [算法方法论](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
 - [ ] 阅读 [高频模式](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
@@ -97,6 +105,10 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 建议时长：`7-10 天`
 
+阶段指南：
+
+- [Phase 3: Operating Systems And Concurrency](/Users/wizout/op/interview/tracks/interview-university/phase-3-operating-systems.md)
+
 - [ ] 阅读 [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
 - [ ] 阅读 [OS 核心](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
 - [ ] 阅读 [内存与 I/O](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
@@ -116,6 +128,10 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 目标：建立“拆题 -> 估算 -> 架构 -> trade-off -> 故障处理”的答题框架。
 
 建议时长：`10-14 天`
+
+阶段指南：
+
+- [Phase 4: System Design And Distributed Trade-offs](/Users/wizout/op/interview/tracks/interview-university/phase-4-system-design.md)
 
 - [ ] 阅读 [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
 - [ ] 阅读 [系统设计方法论](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
@@ -140,6 +156,10 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 目标：建立差异化专题，不把 AI 编译器准备成术语背诵。
 
 建议时长：`7-10 天`
+
+阶段指南：
+
+- [Phase 5: AI Compiler And AI Infra](/Users/wizout/op/interview/tracks/interview-university/phase-5-ai-compiler.md)
 
 - [ ] 阅读 [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
 - [ ] 阅读 [AI 编译器整体链路](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)

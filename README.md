@@ -147,6 +147,11 @@
 完整课程在这里：
 
 - [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)
+- [Phase 1: Backend Core](/Users/wizout/op/interview/tracks/interview-university/phase-1-backend-core.md)
+- [Phase 2: Algorithms And Data Structures](/Users/wizout/op/interview/tracks/interview-university/phase-2-algorithms.md)
+- [Phase 3: Operating Systems And Concurrency](/Users/wizout/op/interview/tracks/interview-university/phase-3-operating-systems.md)
+- [Phase 4: System Design And Distributed Trade-offs](/Users/wizout/op/interview/tracks/interview-university/phase-4-system-design.md)
+- [Phase 5: AI Compiler And AI Infra](/Users/wizout/op/interview/tracks/interview-university/phase-5-ai-compiler.md)
 - [Optional Topics](/Users/wizout/op/interview/tracks/interview-university/optional-topics.md)
 
 它是这套仓库的核心，总共分成 7 个阶段：
