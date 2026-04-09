@@ -18,6 +18,7 @@
 - [01-os-core.md](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
 - [02-memory-and-io.md](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
 - [03-concurrency-and-scheduling.md](/Users/wizout/op/interview/docs/topics/operating-system/03-concurrency-and-scheduling.md)
+- [04-linux-observability-and-tuning.md](/Users/wizout/op/interview/docs/topics/operating-system/04-linux-observability-and-tuning.md)
 
 ## 高频问法
 
@@ -36,4 +37,3 @@
 
 - 刷 [OS 核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
 - 配合 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md) 一起练
-

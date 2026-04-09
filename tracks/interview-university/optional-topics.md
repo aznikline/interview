@@ -27,6 +27,10 @@
 - 重传、流量控制、拥塞控制
 - HTTP/1.1、HTTP/2、HTTP/3 的差异
 
+建议入口：
+
+- [网络与协议基础](/Users/wizout/op/interview/docs/topics/backend/05-network-and-protocols.md)
+
 ## Topic 2: 搜索与索引
 
 为什么值得补：
@@ -40,6 +44,10 @@
 - 分词和查询解析
 - 分页与排序
 - 实时索引与离线构建
+
+建议入口：
+
+- [搜索、索引与消息系统设计](/Users/wizout/op/interview/docs/topics/system-design/04-search-and-messaging.md)
 
 ## Topic 3: 更深入的数据库内部机制
 
@@ -97,6 +105,10 @@
 - perf / flame graph
 - netstat / ss / lsof
 
+建议入口：
+
+- [Linux 可观测性与性能排障](/Users/wizout/op/interview/docs/topics/operating-system/04-linux-observability-and-tuning.md)
+
 ## Topic 7: Runtime 调度与 Serving
 
 为什么值得补：
@@ -110,6 +122,10 @@
 - prefill / decode 分离
 - scheduler 与 admission control
 - TTFT / TPOT / throughput 的 trade-off
+
+建议入口：
+
+- [Serving Runtime 与在线调度](/Users/wizout/op/interview/docs/topics/ai-compiler/05-serving-and-runtime-systems.md)
 
 ## 学 Optional Topics 的顺序建议
 

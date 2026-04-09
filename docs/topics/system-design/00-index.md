@@ -18,6 +18,7 @@
 - [01-system-design-methodology.md](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
 - [02-cache-consistency-and-traffic.md](/Users/wizout/op/interview/docs/topics/system-design/02-cache-consistency-and-traffic.md)
 - [03-seckill-and-high-concurrency.md](/Users/wizout/op/interview/docs/topics/system-design/03-seckill-and-high-concurrency.md)
+- [04-search-and-messaging.md](/Users/wizout/op/interview/docs/topics/system-design/04-search-and-messaging.md)
 
 ## 高频问法
 
@@ -36,4 +37,3 @@
 
 - 刷 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
 - 看 [系统设计案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
-
