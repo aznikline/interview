@@ -1,17 +1,17 @@
 {
   "counts": {
-    "topic_docs": 20,
+    "topic_docs": 22,
     "question_sets": 15,
     "track_docs": 6,
     "practice_docs": 10,
     "project_docs": 6,
-    "source_entries": 16,
-    "total_markdown_files": 57
+    "source_entries": 21,
+    "total_markdown_files": 59
   },
   "domains": {
     "topics": {
-      "ai-compiler": 4,
-      "algorithm": 3,
+      "ai-compiler": 5,
+      "algorithm": 4,
       "backend": 5,
       "operating-system": 4,
       "system-design": 4
@@ -37,12 +37,12 @@
   },
   "coverage": {
     "ai-compiler": {
-      "topics": 4,
+      "topics": 5,
       "questions": 3,
       "projects": 3
     },
     "algorithm": {
-      "topics": 3,
+      "topics": 4,
       "questions": 3,
       "projects": 0
     },
@@ -68,9 +68,11 @@
       "docs/topics/ai-compiler/01-ai-compiler-core.md",
       "docs/topics/ai-compiler/02-ir-lowering-and-dialects.md",
       "docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md",
+      "docs/topics/ai-compiler/04-getting-started-and-chapters.md",
       "docs/topics/algorithm/00-index.md",
       "docs/topics/algorithm/01-algorithm-methodology.md",
       "docs/topics/algorithm/02-common-patterns.md",
+      "docs/topics/algorithm/03-frameworks-and-drills.md",
       "docs/topics/backend/00-index.md",
       "docs/topics/backend/01-backend-fundamentals.md",
       "docs/topics/backend/02-mysql-transactions-and-locks.md",
