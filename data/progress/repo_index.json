@@ -2,11 +2,11 @@
   "counts": {
     "topic_docs": 22,
     "question_sets": 15,
-    "track_docs": 20,
+    "track_docs": 23,
     "practice_docs": 10,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 73
+    "total_markdown_files": 76
   },
   "domains": {
     "topics": {
@@ -109,17 +109,20 @@
       "tracks/campus/README.md",
       "tracks/interview-university/README.md",
       "tracks/interview-university/ai-compiler-week-plan.md",
+      "tracks/interview-university/algorithm-week-plan.md",
       "tracks/interview-university/backend-week-plan.md",
       "tracks/interview-university/closer-to-interview.md",
       "tracks/interview-university/final-review.md",
       "tracks/interview-university/interview-day.md",
       "tracks/interview-university/last-3-days.md",
       "tracks/interview-university/optional-topics.md",
+      "tracks/interview-university/os-week-plan.md",
       "tracks/interview-university/phase-1-backend-core.md",
       "tracks/interview-university/phase-2-algorithms.md",
       "tracks/interview-university/phase-3-operating-systems.md",
       "tracks/interview-university/phase-4-system-design.md",
       "tracks/interview-university/phase-5-ai-compiler.md",
+      "tracks/interview-university/phase-6-final-review.md",
       "tracks/interview-university/system-design-week-plan.md",
       "tracks/social-hire/README.md",
       "tracks/sprint-30d/README.md",

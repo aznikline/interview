@@ -84,6 +84,7 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 阶段指南：
 
 - [Phase 2: Algorithms And Data Structures](/Users/wizout/op/interview/tracks/interview-university/phase-2-algorithms.md)
+- [Algorithm Week Plan](/Users/wizout/op/interview/tracks/interview-university/algorithm-week-plan.md)
 
 - [ ] 阅读 [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
 - [ ] 阅读 [算法方法论](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
@@ -109,6 +110,7 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 阶段指南：
 
 - [Phase 3: Operating Systems And Concurrency](/Users/wizout/op/interview/tracks/interview-university/phase-3-operating-systems.md)
+- [Operating Systems Week Plan](/Users/wizout/op/interview/tracks/interview-university/os-week-plan.md)
 
 - [ ] 阅读 [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
 - [ ] 阅读 [OS 核心](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
@@ -190,6 +192,10 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 目标：把知识从“知道”压到“能过面试”。
 
 建议时长：`5-7 天`
+
+阶段指南：
+
+- [Phase 6: Final Review](/Users/wizout/op/interview/tracks/interview-university/phase-6-final-review.md)
 
 - [ ] 执行 [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
 - [ ] 完成一次 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
