@@ -79,3 +79,10 @@ pytest
 - 微信文章中的题目用于补充初版问题池，已纳入题目组织结构
 
 来源见 [data/sources/source-index.md](/Users/wizout/op/interview/data/sources/source-index.md)。
+
+## 导航入口
+
+- 仓库地图：[docs/guides/repo-map.md](/Users/wizout/op/interview/docs/guides/repo-map.md)
+- 复习检查清单：[docs/guides/review-checklists.md](/Users/wizout/op/interview/docs/guides/review-checklists.md)
+- 后端角色入口：[docs/interviews/role-tags/backend.md](/Users/wizout/op/interview/docs/interviews/role-tags/backend.md)
+- AI Infra 角色入口：[docs/interviews/role-tags/ai-infra.md](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)

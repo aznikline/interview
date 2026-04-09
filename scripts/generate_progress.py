@@ -10,6 +10,8 @@ OUTPUT = ROOT / "data" / "progress" / "dashboard.md"
 
 def generate_dashboard(index: dict) -> str:
     counts = index["counts"]
+    domains = index["domains"]
+    coverage = index["coverage"]
     lines = [
         "# Repo Dashboard",
         "",
@@ -20,13 +22,66 @@ def generate_dashboard(index: dict) -> str:
         f"| 训练路径 | {counts['track_docs']} |",
         f"| Practice 文档 | {counts['practice_docs']} |",
         f"| 项目案例 | {counts['project_docs']} |",
+        f"| 来源条目 | {counts['source_entries']} |",
+        f"| Markdown 总数 | {counts['total_markdown_files']} |",
         "",
-        "## 题目领域分布",
+        "## 领域覆盖",
         "",
+        "| 领域 | Topic | Question | Project |",
+        "| --- | ---: | ---: | ---: |",
     ]
-    for domain, value in sorted(index["question_domains"].items()):
+    for domain, metrics in coverage.items():
+        lines.append(
+            f"| `{domain}` | {metrics['topics']} | {metrics['questions']} | {metrics['projects']} |"
+        )
+    lines.extend(
+        [
+            "",
+            "## Topic 领域分布",
+            "",
+        ]
+    )
+    for domain, value in domains["topics"].items():
         lines.append(f"- `{domain}`: {value}")
-    lines.append("")
+    lines.extend(
+        [
+            "",
+            "## 题目领域分布",
+            "",
+        ]
+    )
+    for domain, value in domains["questions"].items():
+        lines.append(f"- `{domain}`: {value}")
+    lines.extend(
+        [
+            "",
+            "## Practice 分布",
+            "",
+        ]
+    )
+    for group, value in domains["practice"].items():
+        lines.append(f"- `{group}`: {value}")
+    lines.extend(
+        [
+            "",
+            "## 项目案例分布",
+            "",
+        ]
+    )
+    for group, value in domains["projects"].items():
+        lines.append(f"- `{group}`: {value}")
+    lines.extend(
+        [
+            "",
+            "## 快速入口",
+            "",
+            "- 总路线图：`docs/roadmap/00-overview.md`",
+            "- 30 天计划：`tracks/sprint-30d/day-by-day.md`",
+            "- 后端 Mock：`practice/mock-interviews/senior-backend.md`",
+            "- AI Infra Mock：`practice/mock-interviews/ai-compiler-deep-dive.md`",
+            "",
+        ]
+    )
     return "\n".join(lines)
 
 
@@ -38,4 +93,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

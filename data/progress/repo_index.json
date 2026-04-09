@@ -3,15 +3,64 @@
     "topic_docs": 15,
     "question_sets": 10,
     "track_docs": 6,
-    "practice_docs": 7,
-    "project_docs": 4
+    "practice_docs": 8,
+    "project_docs": 5,
+    "source_entries": 16,
+    "total_markdown_files": 44
   },
-  "question_domains": {
-    "ai-compiler": 2,
-    "algorithm": 2,
-    "backend": 2,
-    "operating-system": 2,
-    "system-design": 2
+  "domains": {
+    "topics": {
+      "ai-compiler": 3,
+      "algorithm": 2,
+      "backend": 4,
+      "operating-system": 3,
+      "system-design": 3
+    },
+    "questions": {
+      "ai-compiler": 2,
+      "algorithm": 2,
+      "backend": 2,
+      "operating-system": 2,
+      "system-design": 2
+    },
+    "practice": {
+      "drills": 1,
+      "flashcards": 1,
+      "mock-interviews": 5,
+      "weekly-reviews": 1
+    },
+    "projects": {
+      "ai-compiler-case-studies": 2,
+      "backend-case-studies": 1,
+      "design-case-studies": 2
+    }
+  },
+  "coverage": {
+    "ai-compiler": {
+      "topics": 3,
+      "questions": 2,
+      "projects": 2
+    },
+    "algorithm": {
+      "topics": 2,
+      "questions": 2,
+      "projects": 0
+    },
+    "backend": {
+      "topics": 4,
+      "questions": 2,
+      "projects": 1
+    },
+    "operating-system": {
+      "topics": 3,
+      "questions": 2,
+      "projects": 0
+    },
+    "system-design": {
+      "topics": 3,
+      "questions": 2,
+      "projects": 2
+    }
   },
   "files": {
     "docs_topics": [
@@ -57,11 +106,13 @@
       "practice/mock-interviews/ai-compiler-deep-dive.md",
       "practice/mock-interviews/ai-infra.md",
       "practice/mock-interviews/backend-general.md",
+      "practice/mock-interviews/scorecard.md",
       "practice/mock-interviews/senior-backend.md",
       "practice/weekly-reviews/review-template.md"
     ],
     "projects": [
       "projects/ai-compiler-case-studies/llm-inference-compiler.md",
+      "projects/ai-compiler-case-studies/runtime-scheduling.md",
       "projects/backend-case-studies/url-shortener.md",
       "projects/design-case-studies/feed-system.md",
       "projects/design-case-studies/seckill-system.md"
