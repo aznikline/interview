@@ -21,6 +21,7 @@ AI 编译器方向的关键不是框架名，而是你是否理解 `IR`、`lower
 - [03-kernel-fusion-and-runtime.md](/Users/wizout/op/interview/docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
 - [04-getting-started-and-chapters.md](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
 - [05-serving-and-runtime-systems.md](/Users/wizout/op/interview/docs/topics/ai-compiler/05-serving-and-runtime-systems.md)
+- [06-compiler-fundamentals-and-ssa.md](/Users/wizout/op/interview/docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
 - [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
 
 ### 学完这一组内容后应该具备什么能力

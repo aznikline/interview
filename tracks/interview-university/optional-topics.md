@@ -63,6 +63,10 @@
 - flush 与 fsync
 - 锁和隔离级别实现
 
+建议入口：
+
+- [存储引擎、日志与刷盘机制](/Users/wizout/op/interview/docs/topics/backend/06-storage-engines-and-logs.md)
+
 ## Topic 4: 消息、序列化与队列系统
 
 为什么值得补：
@@ -77,6 +81,10 @@
 - 死信队列
 - 序列化格式与兼容性
 
+建议入口：
+
+- [消息队列、消费模型与序列化](/Users/wizout/op/interview/docs/topics/system-design/05-message-queue-and-serialization.md)
+
 ## Topic 5: 编译原理基础
 
 为什么值得补：
@@ -89,6 +97,10 @@
 - SSA
 - dataflow analysis
 - 指令选择、寄存器分配的基本概念
+
+建议入口：
+
+- [编译原理基础、SSA 与数据流](/Users/wizout/op/interview/docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
 
 ## Topic 6: Linux 工具链与排障
 
