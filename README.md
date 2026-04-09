@@ -152,6 +152,9 @@
 - [Phase 3: Operating Systems And Concurrency](/Users/wizout/op/interview/tracks/interview-university/phase-3-operating-systems.md)
 - [Phase 4: System Design And Distributed Trade-offs](/Users/wizout/op/interview/tracks/interview-university/phase-4-system-design.md)
 - [Phase 5: AI Compiler And AI Infra](/Users/wizout/op/interview/tracks/interview-university/phase-5-ai-compiler.md)
+- [Backend Week Plan](/Users/wizout/op/interview/tracks/interview-university/backend-week-plan.md)
+- [System Design Week Plan](/Users/wizout/op/interview/tracks/interview-university/system-design-week-plan.md)
+- [AI Compiler Week Plan](/Users/wizout/op/interview/tracks/interview-university/ai-compiler-week-plan.md)
 - [Optional Topics](/Users/wizout/op/interview/tracks/interview-university/optional-topics.md)
 
 它是这套仓库的核心，总共分成 7 个阶段：
@@ -241,6 +244,8 @@
 
 - [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
 - [Closer To The Interview](/Users/wizout/op/interview/tracks/interview-university/closer-to-interview.md)
+- [Last 3 Days](/Users/wizout/op/interview/tracks/interview-university/last-3-days.md)
+- [Interview Day Checklist](/Users/wizout/op/interview/tracks/interview-university/interview-day.md)
 - [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)
 
 这个阶段最重要的不是再学新知识，而是：

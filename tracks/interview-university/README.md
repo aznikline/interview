@@ -57,6 +57,7 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 阶段指南：
 
 - [Phase 1: Backend Core](/Users/wizout/op/interview/tracks/interview-university/phase-1-backend-core.md)
+- [Backend Week Plan](/Users/wizout/op/interview/tracks/interview-university/backend-week-plan.md)
 
 - [ ] 阅读 [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
 - [ ] 阅读 [后端基础总览](/Users/wizout/op/interview/docs/topics/backend/01-backend-fundamentals.md)
@@ -132,6 +133,7 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 阶段指南：
 
 - [Phase 4: System Design And Distributed Trade-offs](/Users/wizout/op/interview/tracks/interview-university/phase-4-system-design.md)
+- [System Design Week Plan](/Users/wizout/op/interview/tracks/interview-university/system-design-week-plan.md)
 
 - [ ] 阅读 [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
 - [ ] 阅读 [系统设计方法论](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
@@ -160,6 +162,7 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 阶段指南：
 
 - [Phase 5: AI Compiler And AI Infra](/Users/wizout/op/interview/tracks/interview-university/phase-5-ai-compiler.md)
+- [AI Compiler Week Plan](/Users/wizout/op/interview/tracks/interview-university/ai-compiler-week-plan.md)
 
 - [ ] 阅读 [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
 - [ ] 阅读 [AI 编译器整体链路](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)
@@ -215,4 +218,6 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 ## Once You're Closer To The Interview
 
 - [ ] 阅读 [Closer To The Interview](/Users/wizout/op/interview/tracks/interview-university/closer-to-interview.md)
+- [ ] 阅读 [Last 3 Days](/Users/wizout/op/interview/tracks/interview-university/last-3-days.md)
+- [ ] 阅读 [Interview Day Checklist](/Users/wizout/op/interview/tracks/interview-university/interview-day.md)
 - [ ] 只围绕弱项清单和 mock 结果做最后修补
