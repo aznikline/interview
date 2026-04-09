@@ -4,6 +4,22 @@
 
 使用方式很简单：按顺序推进，完成一项就打勾，不要跳跃式学习。
 
+## 建议时长
+
+- `6-8 周`：比较完整地走完一轮
+- `4 周`：压缩版，保主线
+- `1 周`：只做救火和最终复习
+
+如果你时间不足，优先保证：
+
+1. 后端主链路
+2. 算法高频模式
+3. OS 与并发
+4. 系统设计答题框架
+5. 项目表达
+
+AI 编译器是差异化模块，不是拿来替代主线短板的。
+
 ## Before You Start
 
 - [ ] 明确你的目标岗位：通用后端 / 基础架构 / AI Infra / AI 编译器
@@ -20,9 +36,23 @@
 - [ ] 每周至少做一次复盘
 - [ ] 只背知识点不够，必须把知识点连到问题、系统、项目、指标
 
+### 每个阶段的最低交付
+
+- [ ] 至少完成 `1` 份阶段性弱项清单
+- [ ] 至少完成 `1` 次 mock 或口述录音
+- [ ] 至少完成 `1` 份项目/案例复盘
+
+### 进入下一阶段的标准
+
+- [ ] 不是“看完了”，而是“能讲出来”
+- [ ] 每个阶段至少能稳定讲 `5-10` 个高频问题
+- [ ] 对该阶段至少有 `1` 次输出记录，而不是只读材料
+
 ## Phase 1: Backend Core
 
 目标：把后端主链路讲顺。
+
+建议时长：`10-14 天`
 
 - [ ] 阅读 [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
 - [ ] 阅读 [后端基础总览](/Users/wizout/op/interview/docs/topics/backend/01-backend-fundamentals.md)
@@ -38,10 +68,13 @@
 
 - [ ] 能讲 `MySQL -> Redis -> MQ -> 一致性 -> 高并发` 的完整链路
 - [ ] 能从你的项目里举出一个真实工程案例
+- [ ] 能在追问下继续讲锁、日志、幂等、热 key、消息积压
 
 ## Phase 2: Algorithms and Data Structures
 
 目标：把算法从“会做”推进到“会讲”。
+
+建议时长：`10-14 天`
 
 - [ ] 阅读 [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
 - [ ] 阅读 [算法方法论](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
@@ -56,10 +89,13 @@
 
 - [ ] 能口述滑动窗口、双指针、二叉树、回溯、DP 的核心模板
 - [ ] 能在写代码前先说出思路、复杂度和边界条件
+- [ ] 能稳定完成中等难度题的白板表达
 
 ## Phase 3: Operating Systems and Concurrency
 
 目标：把 OS 和并发问题讲成工程语境里的答案，而不是课本摘录。
+
+建议时长：`7-10 天`
 
 - [ ] 阅读 [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
 - [ ] 阅读 [OS 核心](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
@@ -73,10 +109,13 @@
 
 - [ ] 能解释进程、线程、虚拟内存、缺页、中断、零拷贝、锁与调度
 - [ ] 能把 OS 问题连到服务稳定性和性能瓶颈
+- [ ] 能回答“为什么这个机制会导致性能问题”
 
 ## Phase 4: System Design and Distributed Trade-offs
 
 目标：建立“拆题 -> 估算 -> 架构 -> trade-off -> 故障处理”的答题框架。
+
+建议时长：`10-14 天`
 
 - [ ] 阅读 [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
 - [ ] 阅读 [系统设计方法论](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
@@ -94,10 +133,13 @@
 
 - [ ] 能完整讲 2 道系统设计题
 - [ ] 每道题都能覆盖需求、估算、链路、瓶颈、trade-off、故障处理
+- [ ] 不会一上来就堆 Redis / MQ / 分库分表
 
 ## Phase 5: AI Compiler and AI Infra
 
 目标：建立差异化专题，不把 AI 编译器准备成术语背诵。
+
+建议时长：`7-10 天`
 
 - [ ] 阅读 [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
 - [ ] 阅读 [AI 编译器整体链路](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)
@@ -118,10 +160,13 @@
 
 - [ ] 能讲清 `模型/图 -> IR -> lowering -> fusion -> kernel -> runtime -> 指标`
 - [ ] 能把一个优化案例讲成“瓶颈、方案、收益、边界”
+- [ ] 能解释为什么这个模块该放在 compiler 或 runtime
 
 ## Phase 6: Final Review
 
 目标：把知识从“知道”压到“能过面试”。
+
+建议时长：`5-7 天`
 
 - [ ] 执行 [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
 - [ ] 完成一次 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
@@ -133,6 +178,7 @@
 
 - [ ] 你能稳定完成 3 轮不同方向的 mock
 - [ ] 你有一份明确的弱项清单和冲刺清单
+- [ ] 你能在高压状态下维持答题结构
 
 ## If You Only Have 1 Month
 
@@ -144,9 +190,9 @@
 
 ## Optional Topics
 
-- [ ] 网络与协议
-- [ ] 搜索与索引
-- [ ] 编译原理基础
-- [ ] 更深入的数据库内核
-- [ ] 消息、序列化、队列系统
-- [ ] Linux 工具链和排障
+- [ ] 阅读 [Optional Topics](/Users/wizout/op/interview/tracks/interview-university/optional-topics.md)
+
+## Once You're Closer To The Interview
+
+- [ ] 阅读 [Closer To The Interview](/Users/wizout/op/interview/tracks/interview-university/closer-to-interview.md)
+- [ ] 只围绕弱项清单和 mock 结果做最后修补

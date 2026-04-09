@@ -20,6 +20,7 @@
 - [The Study Plan](#the-study-plan)
 - [Final Review](#final-review)
 - [Optional Topics](#optional-topics)
+- [Closer To The Interview](#closer-to-the-interview)
 - [Repo Structure](#repo-structure)
 - [Sources and Inspiration](#sources-and-inspiration)
 - [Maintenance](#maintenance)
@@ -146,6 +147,7 @@
 完整课程在这里：
 
 - [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)
+- [Optional Topics](/Users/wizout/op/interview/tracks/interview-university/optional-topics.md)
 
 它是这套仓库的核心，总共分成 7 个阶段：
 
@@ -225,6 +227,23 @@
 - 消息、序列化、队列系统
 
 这些内容后面可以继续扩，但不会先于主线阶段。
+
+详细列表见 [Optional Topics](/Users/wizout/op/interview/tracks/interview-university/optional-topics.md)。
+
+## Closer To The Interview
+
+如果你已经进入投递或面试周，不要继续漫无目的扩资料，直接切到：
+
+- [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
+- [Closer To The Interview](/Users/wizout/op/interview/tracks/interview-university/closer-to-interview.md)
+- [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)
+
+这个阶段最重要的不是再学新知识，而是：
+
+- 把高频题讲顺
+- 把项目故事讲稳
+- 把系统设计答题结构固定下来
+- 明确弱项，只做针对性修补
 
 ## Repo Structure
 
