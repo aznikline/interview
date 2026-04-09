@@ -25,6 +25,12 @@
 
 这样你在现场更稳定。
 
+可以直接用：
+
+- [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+
 ## 原则 3：项目表达优先级拉满
 
 很多人最后几天还在刷题，但项目讲不顺。实际上项目表达经常决定面试上限。
@@ -56,6 +62,7 @@
 
 - 做系统设计和项目表达 mock
 - 修答案结构
+- 跑一轮 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
 
 ### Day 5
 

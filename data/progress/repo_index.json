@@ -3,10 +3,10 @@
     "topic_docs": 33,
     "question_sets": 15,
     "track_docs": 23,
-    "practice_docs": 12,
+    "practice_docs": 13,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 89
+    "total_markdown_files": 90
   },
   "domains": {
     "topics": {
@@ -24,7 +24,7 @@
       "system-design": 3
     },
     "practice": {
-      "drills": 3,
+      "drills": 4,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -142,6 +142,7 @@
     ],
     "practice": [
       "practice/drills/7-day-rescue-plan.md",
+      "practice/drills/backend-and-system-design-oral-pack.md",
       "practice/drills/daily-drill.md",
       "practice/drills/reliability-deep-dive.md",
       "practice/flashcards/high-frequency.md",

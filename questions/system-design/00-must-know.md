@@ -49,6 +49,28 @@
 - 至少补 `2` 个瓶颈点
 - 至少补 `2` 个 trade-off
 
+### 1 分钟速答表
+
+| 题目 | 最低合格回答 |
+| --- | --- |
+| 设计短链接系统 | 核心是短码生成、重定向高频读、去重和过期治理，热点要靠缓存和多级存储挡住。 |
+| 设计秒杀系统 | 核心是削峰、限流、库存保护、异步化和补偿，不是简单上 Redis 就结束。 |
+| 设计 Feed 流 | 关键是 fanout on write 和 fanout on read 的取舍，大 V 和普通用户通常不能一套方案打满。 |
+| 设计消息队列 | 关键是分区、顺序、投递语义、积压处理和消费组模型，而不是只讲 Broker 存消息。 |
+| 设计全局唯一 ID | 在唯一性、有序性、可扩展性和可用性之间取舍，号段和 Snowflake 各有成本。 |
+| 设计搜索建议系统 | 重点是低延迟前缀匹配、热点更新、排序和降级，不是只说 Trie。 |
+| 为什么容量估算不能省略？ | 因为不估算就没法判断缓存、分片、异步化和带宽成本是否真的需要。 |
+| 为什么恢复期也危险？ | 因为缓存回源、MQ 回放、数据库回灌都会在恢复阶段形成第二次洪峰。 |
+
+### 最小合格回答标准
+
+如果你只想把系统设计先答到“不失分”，最低要做到：
+
+- 先做需求澄清，再画链路，不要一上来堆组件
+- 至少给出一版粗估算，哪怕只有 QPS、存储量、对象大小
+- 每道题都补限流、降级、恢复三个点
+- 面试官问 trade-off 时，至少能说出“为什么不用更强方案”
+
 ## 面试官追问
 
 - 为什么容量估算不能省略？
@@ -70,3 +92,4 @@
 - [系统设计高频题](/Users/wizout/op/interview/questions/system-design/high-frequency.md)
 - [系统设计进阶题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
 - [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
+- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
