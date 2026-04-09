@@ -2,11 +2,11 @@
   "counts": {
     "topic_docs": 22,
     "question_sets": 15,
-    "track_docs": 6,
+    "track_docs": 8,
     "practice_docs": 10,
     "project_docs": 6,
-    "source_entries": 21,
-    "total_markdown_files": 59
+    "source_entries": 22,
+    "total_markdown_files": 61
   },
   "domains": {
     "topics": {
@@ -107,6 +107,8 @@
     "tracks": [
       "tracks/ai-infra/README.md",
       "tracks/campus/README.md",
+      "tracks/interview-university/README.md",
+      "tracks/interview-university/final-review.md",
       "tracks/social-hire/README.md",
       "tracks/sprint-30d/README.md",
       "tracks/sprint-30d/day-by-day.md",

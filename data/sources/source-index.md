@@ -1,9 +1,10 @@
 # Source Index
 
-> 说明：仓库正文内容以重写和抽象为主，下表记录题源、教程结构参考和 AI 编译器一手资料入口。
+> 说明：仓库正文内容以重写和抽象为主，下表记录题源、结构参考和 AI 编译器一手资料入口。
 
 | 类别 | 来源 | 链接 | 用途 |
 | --- | --- | --- | --- |
+| 课程结构 | jwasham/coding-interview-university | [GitHub](https://github.com/jwasham/coding-interview-university) | 本次仓库重构的主参考：README 课程化、How to use、Daily Plan、Study Plan、Optional Topics |
 | 题源 | 微信公众号文章：RTOS 面试 29 题（带答案） | [mp.weixin.qq.com](https://mp.weixin.qq.com/s/eTGSmN2Ez4mUoZW28f6QYQ) | 初版题目组织方式参考，已抽象为 questions 结构 |
 | 面经 / 综合知识库 | huihut/interview | [GitHub](https://github.com/huihut/interview) | 后端、操作系统、数据库、网络高频题索引 |
 | 面经 / 计算机基础 | CyC2018/CS-Notes | [GitHub](https://github.com/CyC2018/CS-Notes) | 计算机基础专题参考 |
@@ -28,6 +29,7 @@
 
 ## 使用原则
 
+- 课程结构优先参考成熟教程仓库，不再按散装资料堆组织
 - 后端、算法、系统设计、OS 的题目采用“统一模板重写”
 - 在线教程只参考结构和组织方式，不直接复制正文
 - AI 编译器专题优先依赖官方仓库和官方文档概念，不直接照搬二手总结

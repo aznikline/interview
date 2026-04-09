@@ -1,130 +1,275 @@
-# Interview Engineering Repo
+# Interview University
 
-这是一个面向 `通用后端八股 + 算法 + 系统设计 + 操作系统 + AI 编译器` 的系统化面试工程。
+一个面向 `通用后端 + 算法 + 系统设计 + 操作系统 + AI 编译器` 的多月面试学习计划。
 
-它现在的目标不是“收集资料”，而是尽量接近一套在线教程的使用体验：
+这个仓库现在明确按 [coding-interview-university](https://github.com/jwasham/coding-interview-university) 的骨架来组织，不再把自己伪装成“资料目录”。目标很简单：
 
-- 第一次进入仓库，知道 `先看什么`
-- 按你的方向，知道 `下一步学什么`
-- 按你的时间，知道 `这一周该怎么安排`
-- 学完一篇文档后，知道 `要输出什么`
+- 给你一条完整学习路径，而不是一堆零散链接
+- 让你知道 `为什么按这个顺序学`
+- 让你每天都知道 `看什么、练什么、输出什么`
+- 让你从“看过”推进到“能讲、能写、能过面试”
 
-## 第一次使用，按这个顺序
+## Table of Contents
 
-1. 看 [Start Here](/Users/wizout/op/interview/docs/START-HERE.md)
-2. 看 [学习指南](/Users/wizout/op/interview/docs/guides/study-guide.md)
-3. 看 [总路线图](/Users/wizout/op/interview/docs/roadmap/00-overview.md)
-4. 进入你的方向首页
-5. 刷对应方向的核心题清单
-6. 执行对应时间线的训练计划
+- [What Is It](#what-is-it)
+- [Why Use It](#why-use-it)
+- [How to Use It](#how-to-use-it)
+- [Who Is It For](#who-is-it-for)
+- [What You Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [The Study Plan](#the-study-plan)
+- [Final Review](#final-review)
+- [Optional Topics](#optional-topics)
+- [Repo Structure](#repo-structure)
+- [Sources and Inspiration](#sources-and-inspiration)
+- [Maintenance](#maintenance)
 
-## 如果你现在时间很少
+## What Is It
 
-### 只有 3 天
+这是一个偏 `大厂后端 / 基础架构 / AI Infra` 面试的系统化学习计划。
 
-直接看 [学习指南](/Users/wizout/op/interview/docs/guides/study-guide.md) 里的 `3 天版本`，按“后端/OS -> 系统设计/算法 -> AI 编译器/项目表达”推进。
+如果说 `coding-interview-university` 解决的是“从 web developer 补齐 CS 基础去冲 SDE”，那这个仓库解决的是另一类问题：
 
-### 只有 1 周
+- 你已经会写业务，但面试知识体系是碎的
+- 你刷过题，但算法、OS、系统设计、项目表达没有串成闭环
+- 你想准备后端面试，但不知道 AI 编译器这种差异化方向应该怎么纳入主线
 
-直接执行 [7 天急救计划](/Users/wizout/op/interview/practice/drills/7-day-rescue-plan.md)。
+这里不是单纯的题库，也不是单纯的知识库，而是一个 `课程型仓库`：
 
-### 有 1 个月
+1. 主入口给出完整学习顺序
+2. 每个阶段给出主题、题单、训练输出
+3. 最后用 mock、项目表达、复盘把知识变成面试能力
 
-直接执行 [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)。
+## Why Use It
 
-### 有 2 个月
+大多数中文面试仓库的问题不是资料不够，而是：
 
-从 [60 天路径](/Users/wizout/op/interview/tracks/sprint-60d/README.md) 开始，再按方向深化。
+- 只有目录，没有课程
+- 只有题目，没有顺序
+- 只有知识点，没有输出要求
+- 只有“背什么”，没有“怎么练”
 
-## 不同方向怎么入手
+这个仓库要解决的是这些问题：
 
-### 通用后端 / 社招后端
+- 先学什么，后学什么
+- 每一阶段的目标是什么
+- 看到一篇文档之后，下一步是刷题、mock、还是复盘
+- 到最后怎么做总复习，而不是临近面试才乱翻
 
-1. [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-2. [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-3. [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-4. [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-5. [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
+## How to Use It
 
-### 校招 / 算法基础补齐
+像用 `coding-interview-university` 一样用这个仓库，而不是把它当普通 README 看完就走。
 
-1. [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-2. [算法框架与训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-3. [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-4. [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-5. [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
+### 1. 从总学习计划开始
 
-### AI Infra / AI 编译器
+先看 [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)。
 
-1. [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-2. [AI 编译器入门章节](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-3. [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-4. [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
-5. [AI 编译器项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md)
+这份文档是仓库真正的主入口，它会告诉你：
 
-## 仓库是怎么组织的
+- 总共分几个阶段
+- 每个阶段为什么存在
+- 每个阶段要学哪些主题
+- 学完之后要完成什么输出
+
+### 2. 按阶段推进，不要跳着看
+
+建议顺序：
+
+1. 基础准备
+2. 后端主链路
+3. 算法与数据结构模式
+4. 操作系统与并发
+5. 系统设计与分布式取舍
+6. AI 编译器差异化专题
+7. 最终复习与 mock
+
+### 3. 每完成一个主题就做输出
+
+只看文档没有意义。至少做一个动作：
+
+- 口述 `1 分钟回答`
+- 刷对应题单
+- 做一次 mock
+- 更新你的弱项清单
+
+### 4. 用 checklist 管进度
+
+这个仓库现在推荐你直接在课程文档里打勾推进，就像 `coding-interview-university` 那样维护自己的学习状态。
+
+## Who Is It For
+
+- 准备 `通用后端` 面试的人
+- 准备 `中高级后端 / 基础架构 / 分布式` 面试的人
+- 想系统补 `算法 + OS + 系统设计` 的人
+- 想把 `AI Infra / AI 编译器 / 推理优化` 当作差异化加分项的人
+
+## What You Won't See Covered
+
+这些内容很常见，但不是这份学习计划的主线：
+
+- 前端框架细节
+- HTML / CSS / 浏览器工程化
+- Android / iOS 专项
+- DevOps 全量技能树
+- 完整机器学习训练体系
+
+这不代表它们不重要，只是这份仓库的目标是后端和基础设施面试，而不是覆盖所有岗位。
+
+## The Daily Plan
+
+有些主题一天能过完，有些主题会持续几天。一个推荐的日计划如下：
+
+### 每天固定三段
+
+1. 学习主题
+2. 刷题或口述输出
+3. 复盘和记录弱项
+
+### 每天最低输出
+
+- 说清 `1 个主题` 的 1 分钟回答
+- 刷 `2-5` 个对应问题
+- 记录 `1-3` 个不会答或答不稳的点
+
+### 每周最低输出
+
+- `1` 次 mock
+- `1` 次周复盘
+- `1` 份项目表达修订
+
+如果你只剩一周时间，看 [7 天急救计划](/Users/wizout/op/interview/practice/drills/7-day-rescue-plan.md)。
+
+如果你还有一个月，直接执行 [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)。
+
+## The Study Plan
+
+完整课程在这里：
+
+- [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)
+
+它是这套仓库的核心，总共分成 7 个阶段：
+
+### 0. Before You Start
+
+- 明确目标岗位
+- 明确时间预算
+- 明确主语言和主方向
+
+### 1. Backend Core
+
+- MySQL
+- Redis
+- MQ
+- 一致性、幂等、限流、降级
+
+### 2. Algorithms and Data Structures
+
+- 模式识别
+- 模板化表达
+- 高频题训练
+
+### 3. Operating Systems and Concurrency
+
+- 进程线程
+- 内存
+- I/O
+- 调度
+- 锁与并发
+
+### 4. System Design
+
+- 容量估算
+- 缓存
+- 高并发
+- 数据一致性
+- trade-off
+
+### 5. AI Compiler and AI Infra
+
+- IR
+- lowering
+- fusion
+- runtime
+- 性能指标
+
+### 6. Final Review
+
+- mock
+- 项目表达
+- 弱项复盘
+- 总冲刺
+
+## Final Review
+
+总复习入口放在这里：
+
+- [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
+
+这个阶段不是继续扩知识面，而是做四件事：
+
+- 把高频题讲顺
+- 把系统设计讲成有结构的答案
+- 把项目故事讲成“问题-方案-取舍-指标”
+- 把 AI 编译器专题讲成完整链路，而不是术语堆
+
+## Optional Topics
+
+如果你时间充足，或者目标是更偏基础设施/平台岗位，可以追加这些专题：
+
+- 计算机网络
+- Linux 工具链
+- 搜索与索引
+- 更深入的数据库内部机制
+- 编译原理基础
+- runtime 调度
+- 消息、序列化、队列系统
+
+这些内容后面可以继续扩，但不会先于主线阶段。
+
+## Repo Structure
 
 ```text
 interview/
-├── docs/       # 入口页、路线图、专题教程、答题方法
-├── questions/  # 核心题清单、高频题、进阶追问
-├── tracks/     # 7 天、30 天、60 天、AI Infra 路线
-├── practice/   # mock、drill、评分卡、复盘
-├── projects/   # 系统设计案例、项目表达、AI runtime 案例
-├── scripts/    # 索引、dashboard、lint、来源同步
-├── tests/      # 脚本测试
-└── data/       # 来源索引、标签、统计结果
+├── README.md
+├── docs/
+│   ├── START-HERE.md
+│   ├── roadmap/
+│   ├── guides/
+│   └── topics/
+├── questions/
+├── tracks/
+│   ├── interview-university/
+│   ├── sprint-30d/
+│   └── sprint-60d/
+├── practice/
+├── projects/
+├── scripts/
+├── tests/
+└── data/
 ```
 
-它对应的是一套固定的学习闭环：
+仓库里的职责分工：
 
-1. `docs/topics` 建立知识框架
-2. `questions` 训练高频问题回答
-3. `practice` 做口述输出、mock、复盘
-4. `projects` 把知识点变成项目表达
+- `tracks/interview-university` 负责完整课程主线
+- `docs/topics` 负责系统化讲解
+- `questions` 负责高频问题训练
+- `practice` 负责 mock、drill、复盘
+- `projects` 负责项目表达与案例
 
-## 先看哪些文件最有效
+## Sources and Inspiration
 
-- [docs/START-HERE.md](/Users/wizout/op/interview/docs/START-HERE.md)
-- [docs/guides/study-guide.md](/Users/wizout/op/interview/docs/guides/study-guide.md)
-- [docs/guides/repo-map.md](/Users/wizout/op/interview/docs/guides/repo-map.md)
-- [docs/guides/review-checklists.md](/Users/wizout/op/interview/docs/guides/review-checklists.md)
-- [tracks/sprint-30d/day-by-day.md](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)
+这次重构明确参考了这些仓库和文档：
 
-## 这次改版参考了哪些在线教程结构
-
-这次入口和内容组织，明确参考了几类成熟教程的结构，不再按“资料堆”来写：
-
-- [roadmap.sh Get Started](https://roadmap.sh/get-started) 和 [Backend Roadmap](https://roadmap.sh/backend)
-  参考它的 `角色入口 + 路线图导航`
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-  参考它的 `学习顺序 + 高频题 + 系统设计答题法`
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [roadmap.sh Backend](https://roadmap.sh/backend)
 - [labuladong 算法小抄](https://labuladong.online/zh/algo/home/)
-  参考它的 `理论 -> 框架 -> 例题 -> 练习`
-- [MLIR Getting Started](https://mlir.llvm.org/getting_started/) 和 [Toy Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
-  参考它的 `前置要求 -> 章节化入门 -> 从 IR 到 lowering 的教程感`
+- [MLIR Getting Started](https://mlir.llvm.org/getting_started/)
+- [MLIR Toy Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
 
-仓库里对应的落地说明见 [在线教程结构参考](/Users/wizout/op/interview/docs/guides/online-tutorial-patterns.md)。
+来源索引见 [data/sources/source-index.md](/Users/wizout/op/interview/data/sources/source-index.md)。
 
-## 内容标准
-
-- 每个专题文档都包含：`1 分钟速答`、`核心机制`、`高频问法`、`深挖与误区`
-- 每道题都包含：`题目`、`一句话回答`、`展开回答`、`面试官追问`
-- 每个训练路线都尽量给出：`今天看什么`、`今天练什么`、`今天输出什么`
-- 每个系统设计案例都覆盖：`需求澄清`、`容量估算`、`核心链路`、`瓶颈与 trade-off`
-- AI 编译器部分同时覆盖：`IR`、`lowering`、`fusion`、`runtime`、`性能指标`
-
-## 数据来源策略
-
-仓库正文以 `统一重写和抽象` 为主，不直接复制外部内容。
-
-- GitHub 面经和知识库用于建立题源与主题索引
-- 官方文档与官方仓库用于 AI 编译器一手信息
-- 微信文章与零散面经只作为问题池补充
-
-来源总表见 [data/sources/source-index.md](/Users/wizout/op/interview/data/sources/source-index.md)。
-
-## 本地维护
+## Maintenance
 
 ```bash
 python3 -m venv .venv
