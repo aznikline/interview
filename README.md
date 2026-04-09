@@ -63,6 +63,13 @@ pytest
 - 操作系统：进程线程、内存、I/O、多路复用、锁、调度
 - AI 编译器：MLIR / XLA / TVM / Triton / 推理优化基础
 
+## 当前 V2 覆盖
+
+- 主题文档已扩展到：总览 + 专题深挖
+- 题库已扩展到：基础高频 + 进阶追问
+- 训练闭环已包含：30 天逐日执行表、4 份 mock、秒杀与 LLM 推理案例
+- AI 编译器来源已补充为：官方仓库 + 官方文档双索引
+
 ## 数据来源策略
 
 仓库内容以 `重新整理和抽象` 为主，不直接复制外部仓库。
@@ -72,4 +79,3 @@ pytest
 - 微信文章中的题目用于补充初版问题池，已纳入题目组织结构
 
 来源见 [data/sources/source-index.md](/Users/wizout/op/interview/data/sources/source-index.md)。
-

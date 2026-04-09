@@ -12,9 +12,13 @@
 | 系统设计 | donnemartin/system-design-primer | [GitHub](https://github.com/donnemartin/system-design-primer) | 系统设计问题池和表达框架 |
 | 校招面经 | 0voice/Campus_recruitment_interview_questions | [GitHub](https://github.com/0voice/Campus_recruitment_interview_questions) | 高频面经索引补充 |
 | AI 编译器 | llvm/llvm-project | [GitHub](https://github.com/llvm/llvm-project) | MLIR 一手仓库 |
+| AI 编译器 | MLIR 官方文档 | [mlir.llvm.org/docs](https://mlir.llvm.org/docs/) | IR、dialect、pass、conversion 官方资料 |
 | AI 编译器 | openxla/xla | [GitHub](https://github.com/openxla/xla) | XLA 一手仓库 |
+| AI 编译器 | OpenXLA 官方站点 | [openxla.org](https://openxla.org/) | XLA / StableHLO / Shardy 生态入口 |
 | AI 编译器 | apache/tvm | [GitHub](https://github.com/apache/tvm) | TVM 一手仓库 |
+| AI 编译器 | Apache TVM Docs | [tvm.apache.org/docs](https://tvm.apache.org/docs/) | TVM 架构与 API 文档 |
 | AI 编译器 | triton-lang/triton | [GitHub](https://github.com/triton-lang/triton) | Triton 一手仓库 |
+| AI 编译器 | Triton Docs | [triton-lang.org](https://triton-lang.org/main/index) | Triton 语言、IR 与 autotune 文档 |
 | AI 编译器 | openxla/iree | [GitHub](https://github.com/openxla/iree) | 编译器与 runtime 协同参考 |
 
 ## 使用原则
@@ -22,4 +26,3 @@
 - 后端、算法、系统设计、OS 的题目采用“统一模板重写”
 - AI 编译器专题优先依赖官方仓库和官方文档概念，不直接照搬二手总结
 - 所有来源只作为索引和校验，不作为正文直接复制粘贴
-

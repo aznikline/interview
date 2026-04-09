@@ -1,31 +1,46 @@
 {
   "counts": {
-    "topic_docs": 5,
-    "question_sets": 5,
-    "track_docs": 5,
-    "practice_docs": 5,
-    "project_docs": 3
+    "topic_docs": 15,
+    "question_sets": 10,
+    "track_docs": 6,
+    "practice_docs": 7,
+    "project_docs": 4
   },
   "question_domains": {
-    "ai-compiler": 1,
-    "algorithm": 1,
-    "backend": 1,
-    "operating-system": 1,
-    "system-design": 1
+    "ai-compiler": 2,
+    "algorithm": 2,
+    "backend": 2,
+    "operating-system": 2,
+    "system-design": 2
   },
   "files": {
     "docs_topics": [
       "docs/topics/ai-compiler/01-ai-compiler-core.md",
+      "docs/topics/ai-compiler/02-ir-lowering-and-dialects.md",
+      "docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md",
       "docs/topics/algorithm/01-algorithm-methodology.md",
+      "docs/topics/algorithm/02-common-patterns.md",
       "docs/topics/backend/01-backend-fundamentals.md",
+      "docs/topics/backend/02-mysql-transactions-and-locks.md",
+      "docs/topics/backend/03-redis-and-cache-consistency.md",
+      "docs/topics/backend/04-mq-reliability-and-idempotency.md",
       "docs/topics/operating-system/01-os-core.md",
-      "docs/topics/system-design/01-system-design-methodology.md"
+      "docs/topics/operating-system/02-memory-and-io.md",
+      "docs/topics/operating-system/03-concurrency-and-scheduling.md",
+      "docs/topics/system-design/01-system-design-methodology.md",
+      "docs/topics/system-design/02-cache-consistency-and-traffic.md",
+      "docs/topics/system-design/03-seckill-and-high-concurrency.md"
     ],
     "questions": [
+      "questions/ai-compiler/deep-dive.md",
       "questions/ai-compiler/high-frequency.md",
       "questions/algorithm/high-frequency.md",
+      "questions/algorithm/patterns-and-dp.md",
+      "questions/backend/distributed-and-db.md",
       "questions/backend/high-frequency.md",
+      "questions/operating-system/concurrency-and-memory.md",
       "questions/operating-system/high-frequency.md",
+      "questions/system-design/design-cases.md",
       "questions/system-design/high-frequency.md"
     ],
     "tracks": [
@@ -33,19 +48,23 @@
       "tracks/campus/README.md",
       "tracks/social-hire/README.md",
       "tracks/sprint-30d/README.md",
+      "tracks/sprint-30d/day-by-day.md",
       "tracks/sprint-60d/README.md"
     ],
     "practice": [
       "practice/drills/daily-drill.md",
       "practice/flashcards/high-frequency.md",
+      "practice/mock-interviews/ai-compiler-deep-dive.md",
       "practice/mock-interviews/ai-infra.md",
       "practice/mock-interviews/backend-general.md",
+      "practice/mock-interviews/senior-backend.md",
       "practice/weekly-reviews/review-template.md"
     ],
     "projects": [
       "projects/ai-compiler-case-studies/llm-inference-compiler.md",
       "projects/backend-case-studies/url-shortener.md",
-      "projects/design-case-studies/feed-system.md"
+      "projects/design-case-studies/feed-system.md",
+      "projects/design-case-studies/seckill-system.md"
     ]
   }
 }
