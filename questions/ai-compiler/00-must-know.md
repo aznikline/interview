@@ -59,6 +59,30 @@ AI 编译器面试最该优先准备哪些问题，准备顺序应该怎么排�
 - 它和 runtime 或硬件有什么关系
 - 它最终影响了哪个指标
 
+### 1 分钟速答表
+
+| 题目 | 最低合格回答 |
+| --- | --- |
+| AI 编译器和传统编译器最大区别是什么？ | 前者更强依赖张量算子、硬件特性和 runtime 协同，目标通常不是“能跑”而是“更快更省”。 |
+| 为什么要多级 IR？ | 因为不同层级要表达的问题不同，高层更适合图优化，低层更适合贴近 kernel 和硬件。 |
+| lowering 在做什么？ | 它把高层抽象逐步降到更具体的表示，核心是把优化空间转成可执行实现。 |
+| 算子融合为什么能提速？ | 通常因为减少中间结果读写、kernel launch 和访存开销，但融合过头也可能让调度更差。 |
+| layout 为什么影响性能？ | 因为数据排布直接决定访存连续性、cache 命中和向量化效率。 |
+| 动态 shape 为什么难？ | 它会压缩静态优化空间，增加 shape 推断、kernel 选择和 runtime 调度复杂度。 |
+| 编译器和 runtime 怎么分工？ | 编译器更擅长提前做结构和算子层优化，runtime 更擅长根据在线输入、batch 和资源做决策。 |
+| decode 为什么常 memory bound？ | 因为每步计算量相对小，但 KV cache 访问和内存带宽压力很高。 |
+| 怎么证明优化真的有效？ | 不能只看平均耗时，要结合 TTFT、TPOT、throughput、P99 和 memory footprint 看是否真实受益。 |
+| Triton、TVM、XLA、MLIR 该怎么区分？ | 它们关注层级和定位不同，面试里重点是说清谁在 IR、谁在 codegen、谁更偏框架或 runtime 协同。 |
+
+### 最小合格回答标准
+
+如果你没有完整 compiler 项目经历，最低也要做到：
+
+- 每题都能明确它在 `图 / IR / kernel / runtime` 链路中的位置
+- 能说清一个性能瓶颈，而不是只背框架名
+- 能把答案落到一个指标，比如 TTFT、TPOT、吞吐或显存
+- 被追问时至少能继续讲 `为什么难 / 为什么没选另一种做法`
+
 ## 面试官追问
 
 - 如果只给你 30 分钟准备，你先讲哪 5 题？
@@ -79,3 +103,4 @@ AI 编译器面试最该优先准备哪些问题，准备顺序应该怎么排�
 - [AI 编译器高频题](/Users/wizout/op/interview/questions/ai-compiler/high-frequency.md)
 - [AI 编译器进阶题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
 - [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
+- [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)

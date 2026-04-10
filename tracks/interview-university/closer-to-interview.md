@@ -30,6 +30,9 @@
 - [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
 - [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
 - [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+- [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+- [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
+- [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
 
 ## 原则 3：项目表达优先级拉满
 
@@ -67,6 +70,7 @@
 ### Day 5
 
 - 做 AI Infra / AI 编译器专题收口
+- 跑一轮 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
 
 ### Day 6
 
