@@ -22,6 +22,7 @@
 - 预热 `1` 道系统设计题框架
 - 预热 `1` 个项目故事
 - 预热 `1` 组算法模式判断
+- 回看 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md) 里你最容易散的那一组
 
 ## 面试中记住的三件事
 

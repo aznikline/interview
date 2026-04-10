@@ -3,10 +3,10 @@
     "topic_docs": 33,
     "question_sets": 15,
     "track_docs": 24,
-    "practice_docs": 15,
+    "practice_docs": 16,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 93
+    "total_markdown_files": 94
   },
   "domains": {
     "topics": {
@@ -24,7 +24,7 @@
       "system-design": 3
     },
     "practice": {
-      "drills": 6,
+      "drills": 7,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -146,6 +146,7 @@
       "practice/drills/algorithm-oral-pack.md",
       "practice/drills/backend-and-system-design-oral-pack.md",
       "practice/drills/daily-drill.md",
+      "practice/drills/follow-up-pressure-pack.md",
       "practice/drills/os-and-ai-compiler-oral-pack.md",
       "practice/drills/reliability-deep-dive.md",
       "practice/flashcards/high-frequency.md",

@@ -34,6 +34,7 @@
 - [ ] 完成一次 [senior-backend.md](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
 - [ ] 完成一次 [reliability-and-infra.md](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
 - [ ] 完成一次 [ai-infra.md](/Users/wizout/op/interview/practice/mock-interviews/ai-infra.md)
+- [ ] 跑一轮 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
 - [ ] 用 [scorecard.md](/Users/wizout/op/interview/practice/mock-interviews/scorecard.md) 给自己打分
 
 ## Part 6: 弱项清单

@@ -7,7 +7,7 @@
 1. 回看你的弱项清单
 2. 过一轮高频题速答包
 3. 过一遍系统设计框架和项目故事
-4. 保持节奏，不再扩资料
+4. 跑一轮 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
 
 ## 40 分钟速看顺序
 
