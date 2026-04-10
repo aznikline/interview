@@ -2,11 +2,11 @@
   "counts": {
     "topic_docs": 33,
     "question_sets": 15,
-    "track_docs": 23,
-    "practice_docs": 14,
+    "track_docs": 24,
+    "practice_docs": 15,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 91
+    "total_markdown_files": 93
   },
   "domains": {
     "topics": {
@@ -24,7 +24,7 @@
       "system-design": 3
     },
     "practice": {
-      "drills": 5,
+      "drills": 6,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -125,6 +125,7 @@
       "tracks/interview-university/closer-to-interview.md",
       "tracks/interview-university/final-review.md",
       "tracks/interview-university/interview-day.md",
+      "tracks/interview-university/last-24-hours.md",
       "tracks/interview-university/last-3-days.md",
       "tracks/interview-university/optional-topics.md",
       "tracks/interview-university/os-week-plan.md",
@@ -142,6 +143,7 @@
     ],
     "practice": [
       "practice/drills/7-day-rescue-plan.md",
+      "practice/drills/algorithm-oral-pack.md",
       "practice/drills/backend-and-system-design-oral-pack.md",
       "practice/drills/daily-drill.md",
       "practice/drills/os-and-ai-compiler-oral-pack.md",
