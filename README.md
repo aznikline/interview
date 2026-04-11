@@ -1,4 +1,4 @@
-# 面试手册：后端 / 算法 / 系统设计 / OS / AI Infra / AI 编译器
+# 面试手册：后端 / 算法 / 系统设计 / OS / LLM / AI Infra / AI 编译器
 
 ## 简介
 
@@ -10,6 +10,7 @@
 - 算法与数据结构
 - 系统设计
 - 操作系统与性能
+- LLM 面试
 - AI Infra / AI 编译器
 
 参考过的成熟仓库组织方式包括：
@@ -111,6 +112,15 @@
 - [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
 - [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
 
+### 05A. LLM 面试
+
+- [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
+- [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
+- [LLM 高频题](/Users/wizout/op/interview/questions/llm/high-frequency.md)
+- [LLM 代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)
+- [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
+- [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+
 ### 06. Drill / Mock / 压测
 
 - [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
@@ -128,6 +138,7 @@
 - [基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
 - [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
 - [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+- [LLM 算法 / 应用工程](/Users/wizout/op/interview/docs/interviews/role-tags/llm-engineer.md)
 - [校招路线](/Users/wizout/op/interview/tracks/campus/README.md)
 - [社招路线](/Users/wizout/op/interview/tracks/social-hire/README.md)
 - [基础架构 / 平台路线](/Users/wizout/op/interview/tracks/infrastructure-platform/README.md)

@@ -15,6 +15,11 @@
 | 路线图 | roadmap.sh Get Started | [roadmap.sh](https://roadmap.sh/get-started) | 新用户入口和学习路径设计参考 |
 | 路线图 | roadmap.sh Backend | [roadmap.sh](https://roadmap.sh/backend) | 后端路线图和主题层次参考 |
 | 校招面经 | 0voice/Campus_recruitment_interview_questions | [GitHub](https://github.com/0voice/Campus_recruitment_interview_questions) | 高频面经索引补充 |
+| LLM 面试手册 | wdndev/llm_interview_note | [GitHub](https://github.com/wdndev/llm_interview_note) | LLM 章节式手册结构、题目范围、在线导航参考 |
+| LLM 实践 | wdndev/tiny-llm-zh | [GitHub](https://github.com/wdndev/tiny-llm-zh) | 小模型训练、Tokenizer、推理参数和实践项目参考 |
+| RAG 实践 | wdndev/tiny-rag | [GitHub](https://github.com/wdndev/tiny-rag) | RAG、多路召回、重排和检索链路参考 |
+| MCP 实践 | wdndev/tiny-mcp | [GitHub](https://github.com/wdndev/tiny-mcp) | MCP server/client、协议、工具调用实践参考 |
+| LLM 源码实现 | wdndev/llama3-from-scratch-zh | [GitHub](https://github.com/wdndev/llama3-from-scratch-zh) | 从零实现 Llama3 的源码与讲解参考 |
 | AI 编译器 | llvm/llvm-project | [GitHub](https://github.com/llvm/llvm-project) | MLIR 一手仓库 |
 | AI 编译器 | MLIR 官方文档 | [mlir.llvm.org/docs](https://mlir.llvm.org/docs/) | IR、dialect、pass、conversion 官方资料 |
 | AI 编译器教程 | MLIR Getting Started | [mlir.llvm.org](https://mlir.llvm.org/getting_started/) | 入门章节和前置条件设计参考 |
@@ -33,4 +38,5 @@
 - 后端、算法、系统设计、OS 的题目采用“统一模板重写”
 - 在线教程只参考结构和组织方式，不直接复制正文
 - AI 编译器专题优先依赖官方仓库和官方文档概念，不直接照搬二手总结
+- LLM 模块优先参考章节结构、项目实践和源码实现，不直接复制原仓库正文
 - 所有来源只作为索引和校验，不作为正文直接复制粘贴

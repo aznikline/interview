@@ -10,6 +10,7 @@
 - [基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
 - [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
 - [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+- [LLM 算法 / 应用工程](/Users/wizout/op/interview/docs/interviews/role-tags/llm-engineer.md)
 
 如果你更想直接按短课程走，也可以直接看：
 
@@ -17,6 +18,7 @@
 - [社招路线](/Users/wizout/op/interview/tracks/social-hire/README.md)
 - [基础架构 / 平台路线](/Users/wizout/op/interview/tracks/infrastructure-platform/README.md)
 - [AI Infra 路线](/Users/wizout/op/interview/tracks/ai-infra/README.md)
+- [LLM 路线](/Users/wizout/op/interview/tracks/llm-engineer/README.md)
 
 ## 正确起手顺序
 

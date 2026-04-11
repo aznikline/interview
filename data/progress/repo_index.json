@@ -1,18 +1,19 @@
 {
   "counts": {
-    "topic_docs": 38,
-    "question_sets": 19,
-    "track_docs": 29,
-    "practice_docs": 20,
+    "topic_docs": 44,
+    "question_sets": 22,
+    "track_docs": 31,
+    "practice_docs": 21,
     "project_docs": 6,
-    "source_entries": 22,
-    "total_markdown_files": 112
+    "source_entries": 27,
+    "total_markdown_files": 124
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
       "algorithm": 7,
       "backend": 9,
+      "llm": 6,
       "operating-system": 7,
       "system-design": 8
     },
@@ -20,11 +21,12 @@
       "ai-compiler": 3,
       "algorithm": 4,
       "backend": 4,
+      "llm": 3,
       "operating-system": 4,
       "system-design": 4
     },
     "practice": {
-      "drills": 11,
+      "drills": 12,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -50,6 +52,11 @@
       "topics": 9,
       "questions": 4,
       "projects": 1
+    },
+    "llm": {
+      "topics": 6,
+      "questions": 3,
+      "projects": 0
     },
     "operating-system": {
       "topics": 7,
@@ -87,6 +94,12 @@
       "docs/topics/backend/06-storage-engines-and-logs.md",
       "docs/topics/backend/07-distributed-transactions-and-compensation.md",
       "docs/topics/backend/08-backend-scenario-map.md",
+      "docs/topics/llm/00-index.md",
+      "docs/topics/llm/01-llm-foundations.md",
+      "docs/topics/llm/02-llm-architecture-and-training.md",
+      "docs/topics/llm/03-llm-inference-and-serving.md",
+      "docs/topics/llm/04-rag-agent-eval.md",
+      "docs/topics/llm/05-llm-local-source-map.md",
       "docs/topics/operating-system/00-index.md",
       "docs/topics/operating-system/01-os-core.md",
       "docs/topics/operating-system/02-memory-and-io.md",
@@ -115,6 +128,9 @@
       "questions/backend/distributed-and-db.md",
       "questions/backend/high-frequency.md",
       "questions/backend/representative-scenarios.md",
+      "questions/llm/00-must-know.md",
+      "questions/llm/high-frequency.md",
+      "questions/llm/representative-scenarios.md",
       "questions/operating-system/00-must-know.md",
       "questions/operating-system/concurrency-and-memory.md",
       "questions/operating-system/high-frequency.md",
@@ -148,6 +164,8 @@
       "tracks/interview-university/phase-5-ai-compiler.md",
       "tracks/interview-university/phase-6-final-review.md",
       "tracks/interview-university/system-design-week-plan.md",
+      "tracks/llm-engineer/README.md",
+      "tracks/llm-interview-21d/README.md",
       "tracks/os-14d/README.md",
       "tracks/social-hire/README.md",
       "tracks/sprint-30d/README.md",
@@ -163,6 +181,7 @@
       "practice/drills/backend-scenario-pressure-pack.md",
       "practice/drills/daily-drill.md",
       "practice/drills/follow-up-pressure-pack.md",
+      "practice/drills/llm-pressure-pack.md",
       "practice/drills/os-and-ai-compiler-oral-pack.md",
       "practice/drills/os-pressure-pack.md",
       "practice/drills/reliability-deep-dive.md",

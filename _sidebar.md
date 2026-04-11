@@ -34,6 +34,11 @@
   - [核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
   - [进阶题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
   - [答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
+- 05A. LLM 面试
+  - [专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
+  - [代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)
+  - [21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
 - 06. Drill / Mock
   - [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
   - [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
@@ -43,6 +48,7 @@
   - [基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
   - [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
   - [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+  - [LLM 算法 / 应用工程](/Users/wizout/op/interview/docs/interviews/role-tags/llm-engineer.md)
 - 08. 冲刺与复习
   - [Final Review](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
   - [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
