@@ -98,5 +98,6 @@
 - [算法进阶题](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
 - [算法框架与训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
 - [基于本地题单的算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
+- [算法代表题清单](/Users/wizout/op/interview/questions/algorithm/labuladong-representative-problems.md)
 - [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
 - [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)

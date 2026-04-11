@@ -1,24 +1,24 @@
 {
   "counts": {
-    "topic_docs": 34,
-    "question_sets": 15,
+    "topic_docs": 35,
+    "question_sets": 16,
     "track_docs": 26,
     "practice_docs": 17,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 98
+    "total_markdown_files": 100
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
-      "algorithm": 6,
+      "algorithm": 7,
       "backend": 8,
       "operating-system": 6,
       "system-design": 7
     },
     "questions": {
       "ai-compiler": 3,
-      "algorithm": 3,
+      "algorithm": 4,
       "backend": 3,
       "operating-system": 3,
       "system-design": 3
@@ -42,8 +42,8 @@
       "projects": 3
     },
     "algorithm": {
-      "topics": 6,
-      "questions": 3,
+      "topics": 7,
+      "questions": 4,
       "projects": 0
     },
     "backend": {
@@ -77,6 +77,7 @@
       "docs/topics/algorithm/03-frameworks-and-drills.md",
       "docs/topics/algorithm/04-dp-and-state-design.md",
       "docs/topics/algorithm/05-labuladong-pattern-map.md",
+      "docs/topics/algorithm/06-quick-master-index.md",
       "docs/topics/backend/00-index.md",
       "docs/topics/backend/01-backend-fundamentals.md",
       "docs/topics/backend/02-mysql-transactions-and-locks.md",
@@ -105,6 +106,7 @@
       "questions/ai-compiler/high-frequency.md",
       "questions/algorithm/00-must-know.md",
       "questions/algorithm/high-frequency.md",
+      "questions/algorithm/labuladong-representative-problems.md",
       "questions/algorithm/patterns-and-dp.md",
       "questions/backend/00-must-know.md",
       "questions/backend/distributed-and-db.md",
