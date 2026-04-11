@@ -4,5 +4,6 @@
 - [AI Infra](docs/topics/ai-infra/00-index.md)
 - [LLM](docs/topics/llm/00-index.md)
 - [References](docs/reference/00-source-layer.md)
+- [Map](docs/reference/05-handbook-to-reference-map.md)
 - [Final Review](tracks/interview-university/final-review.md)
 - [Sources](data/sources/source-index.md)

@@ -46,6 +46,9 @@
 
 - [LLM 参考源索引](01-llm-source-index.md)
 - [AI Infra 参考源索引](02-ai-infra-source-index.md)
+- [LLM 章节树](03-llm-reference-tree.md)
+- [AI Infra 章节树](04-ai-infra-reference-tree.md)
+- [手册层与原始层映射](05-handbook-to-reference-map.md)
 
 ### 如果你要重新拉取外部仓库
 

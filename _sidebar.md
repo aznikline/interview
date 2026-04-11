@@ -64,3 +64,6 @@
   - [参考源总目录](docs/reference/00-source-layer.md)
   - [LLM 参考源索引](docs/reference/01-llm-source-index.md)
   - [AI Infra 参考源索引](docs/reference/02-ai-infra-source-index.md)
+  - [LLM 章节树](docs/reference/03-llm-reference-tree.md)
+  - [AI Infra 章节树](docs/reference/04-ai-infra-reference-tree.md)
+  - [整合层与原始层映射](docs/reference/05-handbook-to-reference-map.md)
