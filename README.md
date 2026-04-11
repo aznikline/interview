@@ -77,6 +77,12 @@
 - [基础架构 / 平台路线](/Users/wizout/op/interview/tracks/infrastructure-platform/README.md)
 - [AI Infra 路线](/Users/wizout/op/interview/tracks/ai-infra/README.md)
 
+如果你本地已经有 `labuladong` 题单或插件缓存，这个仓库现在也提供了原创整理后的接入层：
+
+- [基于本地题单的算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
+- [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
+- [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
+
 ### 1. 从总学习计划开始
 
 先看 [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)。

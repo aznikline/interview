@@ -21,12 +21,15 @@
 ### Week 1：算法模式打底
 
 - 看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+- 看 [基于本地题单的算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
+- 跑 [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
 - 跑 [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
 - 配合 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
 
 最低输出：
 
 - 滑窗、双指针、二分、树/图、DP 都有基础口述版本
+- 至少完成前 `7` 天模式训练
 
 ### Week 2：后端八股主链路
 

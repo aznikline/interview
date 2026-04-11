@@ -1,17 +1,17 @@
 {
   "counts": {
-    "topic_docs": 33,
+    "topic_docs": 34,
     "question_sets": 15,
-    "track_docs": 25,
-    "practice_docs": 16,
+    "track_docs": 26,
+    "practice_docs": 17,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 95
+    "total_markdown_files": 98
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
-      "algorithm": 5,
+      "algorithm": 6,
       "backend": 8,
       "operating-system": 6,
       "system-design": 7
@@ -24,7 +24,7 @@
       "system-design": 3
     },
     "practice": {
-      "drills": 7,
+      "drills": 8,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -42,7 +42,7 @@
       "projects": 3
     },
     "algorithm": {
-      "topics": 5,
+      "topics": 6,
       "questions": 3,
       "projects": 0
     },
@@ -76,6 +76,7 @@
       "docs/topics/algorithm/02-common-patterns.md",
       "docs/topics/algorithm/03-frameworks-and-drills.md",
       "docs/topics/algorithm/04-dp-and-state-design.md",
+      "docs/topics/algorithm/05-labuladong-pattern-map.md",
       "docs/topics/backend/00-index.md",
       "docs/topics/backend/01-backend-fundamentals.md",
       "docs/topics/backend/02-mysql-transactions-and-locks.md",
@@ -117,6 +118,7 @@
     ],
     "tracks": [
       "tracks/ai-infra/README.md",
+      "tracks/algorithm-pattern-14d/README.md",
       "tracks/campus/README.md",
       "tracks/infrastructure-platform/README.md",
       "tracks/interview-university/README.md",
@@ -145,6 +147,7 @@
     "practice": [
       "practice/drills/7-day-rescue-plan.md",
       "practice/drills/algorithm-oral-pack.md",
+      "practice/drills/algorithm-pattern-pressure-pack.md",
       "practice/drills/backend-and-system-design-oral-pack.md",
       "practice/drills/daily-drill.md",
       "practice/drills/follow-up-pressure-pack.md",
