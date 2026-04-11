@@ -24,6 +24,7 @@
 - [05-network-and-protocols.md](/Users/wizout/op/interview/docs/topics/backend/05-network-and-protocols.md)
 - [06-storage-engines-and-logs.md](/Users/wizout/op/interview/docs/topics/backend/06-storage-engines-and-logs.md)
 - [07-distributed-transactions-and-compensation.md](/Users/wizout/op/interview/docs/topics/backend/07-distributed-transactions-and-compensation.md)
+- [08-backend-scenario-map.md](/Users/wizout/op/interview/docs/topics/backend/08-backend-scenario-map.md)
 - [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
 
 ### 学完这一组内容后应该具备什么能力
@@ -49,5 +50,8 @@
 ## 下一步
 
 - 刷 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+- 刷 [后端代表题清单](/Users/wizout/op/interview/questions/backend/representative-scenarios.md)
+- 跑 [后端场景 14 天计划](/Users/wizout/op/interview/tracks/backend-scenario-14d/README.md)
+- 跑 [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
 - 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
 - 做 [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)

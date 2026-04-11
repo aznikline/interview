@@ -101,5 +101,8 @@
 - [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
 - [后端高频题](/Users/wizout/op/interview/questions/backend/high-frequency.md)
 - [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
+- [后端场景地图](/Users/wizout/op/interview/docs/topics/backend/08-backend-scenario-map.md)
+- [后端代表题清单](/Users/wizout/op/interview/questions/backend/representative-scenarios.md)
 - [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
 - [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+- [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)

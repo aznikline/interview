@@ -19,6 +19,7 @@
 
 - [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
 - [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
+- [后端场景地图](/Users/wizout/op/interview/docs/topics/backend/08-backend-scenario-map.md)
 
 ### Week 2：OS 与可观测性
 
@@ -33,6 +34,7 @@
 ### Week 4：承压训练
 
 - [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
+- [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
 - [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
 
 ## 最小交付标准

@@ -1,30 +1,30 @@
 {
   "counts": {
-    "topic_docs": 35,
-    "question_sets": 16,
-    "track_docs": 26,
-    "practice_docs": 17,
+    "topic_docs": 36,
+    "question_sets": 17,
+    "track_docs": 27,
+    "practice_docs": 18,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 100
+    "total_markdown_files": 104
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
       "algorithm": 7,
-      "backend": 8,
+      "backend": 9,
       "operating-system": 6,
       "system-design": 7
     },
     "questions": {
       "ai-compiler": 3,
       "algorithm": 4,
-      "backend": 3,
+      "backend": 4,
       "operating-system": 3,
       "system-design": 3
     },
     "practice": {
-      "drills": 8,
+      "drills": 9,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -47,8 +47,8 @@
       "projects": 0
     },
     "backend": {
-      "topics": 8,
-      "questions": 3,
+      "topics": 9,
+      "questions": 4,
       "projects": 1
     },
     "operating-system": {
@@ -86,6 +86,7 @@
       "docs/topics/backend/05-network-and-protocols.md",
       "docs/topics/backend/06-storage-engines-and-logs.md",
       "docs/topics/backend/07-distributed-transactions-and-compensation.md",
+      "docs/topics/backend/08-backend-scenario-map.md",
       "docs/topics/operating-system/00-index.md",
       "docs/topics/operating-system/01-os-core.md",
       "docs/topics/operating-system/02-memory-and-io.md",
@@ -111,6 +112,7 @@
       "questions/backend/00-must-know.md",
       "questions/backend/distributed-and-db.md",
       "questions/backend/high-frequency.md",
+      "questions/backend/representative-scenarios.md",
       "questions/operating-system/00-must-know.md",
       "questions/operating-system/concurrency-and-memory.md",
       "questions/operating-system/high-frequency.md",
@@ -121,6 +123,7 @@
     "tracks": [
       "tracks/ai-infra/README.md",
       "tracks/algorithm-pattern-14d/README.md",
+      "tracks/backend-scenario-14d/README.md",
       "tracks/campus/README.md",
       "tracks/infrastructure-platform/README.md",
       "tracks/interview-university/README.md",
@@ -151,6 +154,7 @@
       "practice/drills/algorithm-oral-pack.md",
       "practice/drills/algorithm-pattern-pressure-pack.md",
       "practice/drills/backend-and-system-design-oral-pack.md",
+      "practice/drills/backend-scenario-pressure-pack.md",
       "practice/drills/daily-drill.md",
       "practice/drills/follow-up-pressure-pack.md",
       "practice/drills/os-and-ai-compiler-oral-pack.md",
