@@ -1,12 +1,12 @@
 {
   "counts": {
-    "topic_docs": 36,
-    "question_sets": 17,
-    "track_docs": 27,
-    "practice_docs": 18,
+    "topic_docs": 37,
+    "question_sets": 18,
+    "track_docs": 28,
+    "practice_docs": 19,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 104
+    "total_markdown_files": 108
   },
   "domains": {
     "topics": {
@@ -14,17 +14,17 @@
       "algorithm": 7,
       "backend": 9,
       "operating-system": 6,
-      "system-design": 7
+      "system-design": 8
     },
     "questions": {
       "ai-compiler": 3,
       "algorithm": 4,
       "backend": 4,
       "operating-system": 3,
-      "system-design": 3
+      "system-design": 4
     },
     "practice": {
-      "drills": 9,
+      "drills": 10,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -57,8 +57,8 @@
       "projects": 0
     },
     "system-design": {
-      "topics": 7,
-      "questions": 3,
+      "topics": 8,
+      "questions": 4,
       "projects": 2
     }
   },
@@ -99,7 +99,8 @@
       "docs/topics/system-design/03-seckill-and-high-concurrency.md",
       "docs/topics/system-design/04-search-and-messaging.md",
       "docs/topics/system-design/05-message-queue-and-serialization.md",
-      "docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md"
+      "docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md",
+      "docs/topics/system-design/07-system-design-scenario-map.md"
     ],
     "questions": [
       "questions/ai-compiler/00-must-know.md",
@@ -118,7 +119,8 @@
       "questions/operating-system/high-frequency.md",
       "questions/system-design/00-must-know.md",
       "questions/system-design/design-cases.md",
-      "questions/system-design/high-frequency.md"
+      "questions/system-design/high-frequency.md",
+      "questions/system-design/representative-scenarios.md"
     ],
     "tracks": [
       "tracks/ai-infra/README.md",
@@ -147,7 +149,8 @@
       "tracks/social-hire/README.md",
       "tracks/sprint-30d/README.md",
       "tracks/sprint-30d/day-by-day.md",
-      "tracks/sprint-60d/README.md"
+      "tracks/sprint-60d/README.md",
+      "tracks/system-design-14d/README.md"
     ],
     "practice": [
       "practice/drills/7-day-rescue-plan.md",
@@ -159,6 +162,7 @@
       "practice/drills/follow-up-pressure-pack.md",
       "practice/drills/os-and-ai-compiler-oral-pack.md",
       "practice/drills/reliability-deep-dive.md",
+      "practice/drills/system-design-pressure-pack.md",
       "practice/flashcards/high-frequency.md",
       "practice/mock-interviews/ai-compiler-deep-dive.md",
       "practice/mock-interviews/ai-infra.md",

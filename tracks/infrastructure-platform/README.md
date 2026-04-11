@@ -29,12 +29,14 @@
 ### Week 3：恢复与故障处理
 
 - [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+- [系统设计场景地图](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
 - [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
 
 ### Week 4：承压训练
 
 - [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
 - [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
+- [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
 - [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
 
 ## 最小交付标准

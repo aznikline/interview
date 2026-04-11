@@ -34,6 +34,8 @@
 ### Week 2：系统设计与可靠性
 
 - 看 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+- 看 [系统设计场景地图](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
+- 跑 [系统设计 14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
 - 看 [系统设计进阶题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
 - 跑 [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
 
@@ -71,7 +73,8 @@
 3. 跑 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
 4. 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
 5. 跑 [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
-6. 最后跑 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+6. 跑 [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
+7. 最后跑 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
 
 ## 社招最容易失分的地方
 
