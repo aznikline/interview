@@ -94,4 +94,7 @@
 - [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
 - [OS 高频题](/Users/wizout/op/interview/questions/operating-system/high-frequency.md)
 - [OS 进阶题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
+- [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
+- [OS 代表题清单](/Users/wizout/op/interview/questions/operating-system/representative-scenarios.md)
 - [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
+- [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)

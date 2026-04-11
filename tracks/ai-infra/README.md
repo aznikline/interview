@@ -27,6 +27,8 @@
 
 - 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
 - 看 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+- 看 [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
+- 跑 [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
 - 跑 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
 
 最低输出：

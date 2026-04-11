@@ -1,0 +1,69 @@
+# 操作系统代表题清单
+
+## 题目
+
+如果只保最值得讲的一批 OS 题，应该怎么选？
+
+## 一句话回答
+
+先保最能解释真实服务现象的题：线程切换、虚拟内存、页缺失、epoll、慢请求、零拷贝、锁竞争、false sharing、内存屏障和排障指标。目标不是覆盖所有概念，而是形成一条“机制 -> 现象 -> 观测 -> 缓解”的讲法。
+
+## 展开回答
+
+### 一组推荐代表题
+
+| 场景 | 推荐代表题 | 你要练什么 |
+| --- | --- | --- |
+| 调度与切换 | 进程 vs 线程、线程切换为什么贵、协程为什么更轻 | 调度成本、cache/TLB 抖动 |
+| 内存层次 | 虚拟内存、page fault、TLB miss、cache miss | 访存层次、尾延迟 |
+| I/O 模型 | select/poll/epoll、为什么 epoll 服务也会慢 | 就绪发现 vs 业务处理 |
+| 数据搬运 | zero-copy、sendfile、mmap | copy 成本、协议加工边界 |
+| 锁与共享 | 死锁、锁竞争、false sharing | 共享资源和一致性同步 |
+| 并发语义 | 内存屏障、volatile、原子操作、happens-before | 可见性、顺序语义 |
+| 排障与观测 | 上下文切换高、CPU 高吞吐低、尾延迟变差怎么查 | 指标、定位顺序 |
+
+### 最小刷题路径
+
+如果你时间很少，先保下面这 `10` 题：
+
+- 进程和线程区别是什么？
+- 线程切换为什么贵？
+- 虚拟内存解决了什么？
+- page fault 为什么会放大尾延迟？
+- select / poll / epoll 最大差别是什么？
+- 为什么 epoll 服务仍然可能被慢请求拖垮？
+- 零拷贝减少了什么成本？
+- false sharing 是什么？
+- 内存屏障为什么重要？
+- 如果上下文切换高、CPU 忙但吞吐低，你先看什么？
+
+### 每题最低输出标准
+
+每道题至少要能说出：
+
+- 这题解释的是什么系统现象
+- 机制为什么会导致这个现象
+- 一个可观测指标
+- 一个缓解动作
+
+## 面试官追问
+
+- 为什么协程不是万能方案？
+- 为什么 epoll 只解决了一部分问题？
+- 为什么 false sharing 和锁竞争要分开讲？
+- 为什么零拷贝在 HTTPS 下收益可能受限？
+- 如果继续追问到底层实现，你先展开哪层？
+
+## 易错点
+
+- 只会教材定义，不会讲现象
+- 只会讲原理，不会讲指标
+- 一被追问就脱离真实服务场景
+
+## 关联知识点
+
+- [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+- [操作系统进阶题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
+- [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
+- [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
+- [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)

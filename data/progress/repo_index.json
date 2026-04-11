@@ -1,30 +1,30 @@
 {
   "counts": {
-    "topic_docs": 37,
-    "question_sets": 18,
-    "track_docs": 28,
-    "practice_docs": 19,
+    "topic_docs": 38,
+    "question_sets": 19,
+    "track_docs": 29,
+    "practice_docs": 20,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 108
+    "total_markdown_files": 112
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
       "algorithm": 7,
       "backend": 9,
-      "operating-system": 6,
+      "operating-system": 7,
       "system-design": 8
     },
     "questions": {
       "ai-compiler": 3,
       "algorithm": 4,
       "backend": 4,
-      "operating-system": 3,
+      "operating-system": 4,
       "system-design": 4
     },
     "practice": {
-      "drills": 10,
+      "drills": 11,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -52,8 +52,8 @@
       "projects": 1
     },
     "operating-system": {
-      "topics": 6,
-      "questions": 3,
+      "topics": 7,
+      "questions": 4,
       "projects": 0
     },
     "system-design": {
@@ -93,6 +93,7 @@
       "docs/topics/operating-system/03-concurrency-and-scheduling.md",
       "docs/topics/operating-system/04-linux-observability-and-tuning.md",
       "docs/topics/operating-system/05-network-io-and-epoll.md",
+      "docs/topics/operating-system/06-os-scenario-map.md",
       "docs/topics/system-design/00-index.md",
       "docs/topics/system-design/01-system-design-methodology.md",
       "docs/topics/system-design/02-cache-consistency-and-traffic.md",
@@ -117,6 +118,7 @@
       "questions/operating-system/00-must-know.md",
       "questions/operating-system/concurrency-and-memory.md",
       "questions/operating-system/high-frequency.md",
+      "questions/operating-system/representative-scenarios.md",
       "questions/system-design/00-must-know.md",
       "questions/system-design/design-cases.md",
       "questions/system-design/high-frequency.md",
@@ -146,6 +148,7 @@
       "tracks/interview-university/phase-5-ai-compiler.md",
       "tracks/interview-university/phase-6-final-review.md",
       "tracks/interview-university/system-design-week-plan.md",
+      "tracks/os-14d/README.md",
       "tracks/social-hire/README.md",
       "tracks/sprint-30d/README.md",
       "tracks/sprint-30d/day-by-day.md",
@@ -161,6 +164,7 @@
       "practice/drills/daily-drill.md",
       "practice/drills/follow-up-pressure-pack.md",
       "practice/drills/os-and-ai-compiler-oral-pack.md",
+      "practice/drills/os-pressure-pack.md",
       "practice/drills/reliability-deep-dive.md",
       "practice/drills/system-design-pressure-pack.md",
       "practice/flashcards/high-frequency.md",

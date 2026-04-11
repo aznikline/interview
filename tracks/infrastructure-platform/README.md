@@ -24,6 +24,8 @@
 ### Week 2：OS 与可观测性
 
 - [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+- [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
+- [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
 - [Linux 可观测性与性能排障](/Users/wizout/op/interview/docs/topics/operating-system/04-linux-observability-and-tuning.md)
 
 ### Week 3：恢复与故障处理
@@ -37,6 +39,7 @@
 - [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
 - [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
 - [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
+- [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)
 - [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
 
 ## 最小交付标准
