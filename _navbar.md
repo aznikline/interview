@@ -3,5 +3,6 @@
 - [Study Plan](/Users/wizout/op/interview/tracks/interview-university/README.md)
 - [AI Infra](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
 - [LLM](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
+- [References](/Users/wizout/op/interview/docs/reference/00-source-layer.md)
 - [Final Review](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
 - [Sources](/Users/wizout/op/interview/data/sources/source-index.md)

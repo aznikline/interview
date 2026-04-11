@@ -1,0 +1,21 @@
+[submodule "references/tiny-llm-zh"]
+	path = references/tiny-llm-zh
+	url = https://github.com/wdndev/tiny-llm-zh.git
+[submodule "references/tiny-mcp"]
+	path = references/tiny-mcp
+	url = https://github.com/wdndev/tiny-mcp.git
+[submodule "references/tiny-rag"]
+	path = references/tiny-rag
+	url = https://github.com/wdndev/tiny-rag.git
+[submodule "references/llm_interview_note"]
+	path = references/llm_interview_note
+	url = https://github.com/wdndev/llm_interview_note.git
+[submodule "references/llama3-from-scratch-zh"]
+	path = references/llama3-from-scratch-zh
+	url = https://github.com/wdndev/llama3-from-scratch-zh.git
+[submodule "references/ai-infra-hpc"]
+	path = references/ai-infra-hpc
+	url = https://github.com/jinbooooom/ai-infra-hpc.git
+[submodule "references/OriginDL"]
+	path = references/OriginDL
+	url = https://github.com/jinbooooom/OriginDL.git

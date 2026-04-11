@@ -61,3 +61,6 @@
 - 99. 参考资料
   - [来源索引](/Users/wizout/op/interview/data/sources/source-index.md)
   - [仓库地图](/Users/wizout/op/interview/docs/guides/repo-map.md)
+  - [参考源总目录](/Users/wizout/op/interview/docs/reference/00-source-layer.md)
+  - [LLM 参考源索引](/Users/wizout/op/interview/docs/reference/01-llm-source-index.md)
+  - [AI Infra 参考源索引](/Users/wizout/op/interview/docs/reference/02-ai-infra-source-index.md)

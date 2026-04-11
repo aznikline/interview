@@ -48,6 +48,24 @@
 - [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)
 - [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
 
+## 双层结构
+
+### 01. 手册整合层
+
+也就是 `docs/topics`、`questions`、`tracks`、`practice`。这里负责：
+
+- 把知识点讲清
+- 把题目按逻辑收口
+- 把路线和 drill 跑通
+
+### 02. 原始参考层
+
+也就是 `references/`。这里直接挂接外部原始仓库，保留它们完整目录结构：
+
+- [参考源总目录](/Users/wizout/op/interview/docs/reference/00-source-layer.md)
+- [LLM 参考源索引](/Users/wizout/op/interview/docs/reference/01-llm-source-index.md)
+- [AI Infra 参考源索引](/Users/wizout/op/interview/docs/reference/02-ai-infra-source-index.md)
+
 ## 目录
 
 ### 00. 使用说明
@@ -166,6 +184,9 @@
 - [来源索引](/Users/wizout/op/interview/data/sources/source-index.md)
 - [仓库地图](/Users/wizout/op/interview/docs/guides/repo-map.md)
 - [在线教程结构参考](/Users/wizout/op/interview/docs/guides/online-tutorial-patterns.md)
+- [参考源总目录](/Users/wizout/op/interview/docs/reference/00-source-layer.md)
+- [LLM 参考源索引](/Users/wizout/op/interview/docs/reference/01-llm-source-index.md)
+- [AI Infra 参考源索引](/Users/wizout/op/interview/docs/reference/02-ai-infra-source-index.md)
 
 ## 推荐使用方式
 
