@@ -61,6 +61,15 @@
 
 像用 `coding-interview-university` 一样用这个仓库，而不是把它当普通 README 看完就走。
 
+### 0. 先选岗位入口
+
+第一次进仓库，先选最接近你的目标岗位，不要直接在目录里乱翻：
+
+- [通用后端](/Users/wizout/op/interview/docs/interviews/role-tags/backend.md)
+- [基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
+- [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
+- [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+
 ### 1. 从总学习计划开始
 
 先看 [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)。

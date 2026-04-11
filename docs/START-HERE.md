@@ -2,6 +2,15 @@
 
 第一次进仓库，先不要看目录。先走主线。
 
+## 第 0 步：先选岗位入口
+
+如果你是第一次进这个仓库，不要先在 `topics/` 里乱翻。先选最接近你的目标岗位：
+
+- [通用后端](/Users/wizout/op/interview/docs/interviews/role-tags/backend.md)
+- [基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
+- [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
+- [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+
 ## 正确起手顺序
 
 1. [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)
@@ -20,6 +29,20 @@
 4. [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
 5. [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md) 的阶段 1-4
 
+更明确的岗位入口看：
+
+- [角色标签：通用后端](/Users/wizout/op/interview/docs/interviews/role-tags/backend.md)
+
+## 如果你是基础架构 / 平台
+
+先走：
+
+1. [角色标签：基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
+2. [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+3. [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+4. [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+5. [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
+
 ## 如果你是校招 / 想补齐算法
 
 先走：
@@ -34,10 +57,10 @@
 
 先走：
 
-1. [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-2. [AI 编译器入门章节](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-3. [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-4. [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
+1. [AI Infra 角色入口](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
+2. [AI 编译器角色入口](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+3. [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
+4. [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
 5. [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md) 的阶段 5-6
 
 ## 如果你时间很少
