@@ -1,0 +1,52 @@
+- [首页](/Users/wizout/op/interview/README.md)
+- [Start Here](/Users/wizout/op/interview/docs/START-HERE.md)
+- [总路线图](/Users/wizout/op/interview/docs/roadmap/00-overview.md)
+- 00. 使用说明
+  - [学习指南](/Users/wizout/op/interview/docs/guides/study-guide.md)
+  - [答题方法论](/Users/wizout/op/interview/docs/guides/answer-methodology.md)
+- 01. 后端主线
+  - [专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+  - [代表题清单](/Users/wizout/op/interview/questions/backend/representative-scenarios.md)
+  - [场景地图](/Users/wizout/op/interview/docs/topics/backend/08-backend-scenario-map.md)
+  - [14 天计划](/Users/wizout/op/interview/tracks/backend-scenario-14d/README.md)
+- 02. 算法与数据结构
+  - [专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+  - [代表题清单](/Users/wizout/op/interview/questions/algorithm/labuladong-representative-problems.md)
+  - [模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
+  - [Quick Master](/Users/wizout/op/interview/docs/topics/algorithm/06-quick-master-index.md)
+  - [14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
+- 03. 操作系统与性能
+  - [专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+  - [代表题清单](/Users/wizout/op/interview/questions/operating-system/representative-scenarios.md)
+  - [场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
+  - [14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
+- 04. 系统设计
+  - [专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+  - [代表题清单](/Users/wizout/op/interview/questions/system-design/representative-scenarios.md)
+  - [场景地图](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
+  - [14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
+- 05. AI Infra / AI 编译器
+  - [专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
+  - [进阶题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
+  - [答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
+- 06. Drill / Mock
+  - [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
+  - [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+  - [评分卡](/Users/wizout/op/interview/practice/mock-interviews/scorecard.md)
+- 07. 岗位与路线
+  - [通用后端](/Users/wizout/op/interview/docs/interviews/role-tags/backend.md)
+  - [基础架构 / 平台](/Users/wizout/op/interview/docs/interviews/role-tags/infrastructure-platform.md)
+  - [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
+  - [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+- 08. 冲刺与复习
+  - [Final Review](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
+  - [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
+  - [Interview Day](/Users/wizout/op/interview/tracks/interview-university/interview-day.md)
+- 99. 参考资料
+  - [来源索引](/Users/wizout/op/interview/data/sources/source-index.md)
+  - [仓库地图](/Users/wizout/op/interview/docs/guides/repo-map.md)
