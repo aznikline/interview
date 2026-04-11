@@ -16,12 +16,12 @@
 
 ## 推荐学习顺序
 
-1. [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
-2. [Closer To The Interview](/Users/wizout/op/interview/tracks/interview-university/closer-to-interview.md)
-3. [Last 3 Days](/Users/wizout/op/interview/tracks/interview-university/last-3-days.md)
-4. [Interview Day Checklist](/Users/wizout/op/interview/tracks/interview-university/interview-day.md)
-5. [Mock 评分卡](/Users/wizout/op/interview/practice/mock-interviews/scorecard.md)
-6. [复习检查清单](/Users/wizout/op/interview/docs/guides/review-checklists.md)
+1. [Final Review Checklist](final-review.md)
+2. [Closer To The Interview](closer-to-interview.md)
+3. [Last 3 Days](last-3-days.md)
+4. [Interview Day Checklist](interview-day.md)
+5. [Mock 评分卡](../../practice/mock-interviews/scorecard.md)
+6. [复习检查清单](../../docs/guides/review-checklists.md)
 
 ## 这阶段必须完成的动作
 

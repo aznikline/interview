@@ -85,8 +85,8 @@ LLM serving 的很多真实瓶颈都和 runtime、batching、KV cache、调度�
 
 ## 推荐和仓库里的这些内容串起来看
 
-1. [01-ai-compiler-core.md](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)
-2. [02-ir-lowering-and-dialects.md](/Users/wizout/op/interview/docs/topics/ai-compiler/02-ir-lowering-and-dialects.md)
-3. [03-kernel-fusion-and-runtime.md](/Users/wizout/op/interview/docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
-4. [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
-5. [AI 编译器项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md)
+1. [01-ai-compiler-core.md](01-ai-compiler-core.md)
+2. [02-ir-lowering-and-dialects.md](02-ir-lowering-and-dialects.md)
+3. [03-kernel-fusion-and-runtime.md](03-kernel-fusion-and-runtime.md)
+4. [AI 编译器答题法](../../guides/how-to-approach-ai-compiler-interview.md)
+5. [AI 编译器项目表达稿](../../../projects/ai-compiler-case-studies/project-storytelling.md)

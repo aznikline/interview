@@ -11,10 +11,10 @@
 
 ## 适合重点刷的内容
 
-- [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
-- [系统设计进阶题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
-- [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
-- [秒杀系统案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
+- [后端进阶题](../../../questions/backend/distributed-and-db.md)
+- [系统设计进阶题](../../../questions/system-design/design-cases.md)
+- [资深后端 Mock](../../../practice/mock-interviews/senior-backend.md)
+- [秒杀系统案例](../../../projects/design-case-studies/seckill-system.md)
 
 ## 回答风格建议
 

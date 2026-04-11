@@ -34,12 +34,12 @@
 
 ### 第三层：建议刷题顺序
 
-1. 先看 [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-2. 再看 [OS 核心](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
-3. 再看 [内存与 I/O](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
-4. 再看 [并发与调度](/Users/wizout/op/interview/docs/topics/operating-system/03-concurrency-and-scheduling.md)
-5. 然后刷 [OS 高频题](/Users/wizout/op/interview/questions/operating-system/high-frequency.md)
-6. 最后刷 [并发与内存题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
+1. 先看 [操作系统专题首页](../../docs/topics/operating-system/00-index.md)
+2. 再看 [OS 核心](../../docs/topics/operating-system/01-os-core.md)
+3. 再看 [内存与 I/O](../../docs/topics/operating-system/02-memory-and-io.md)
+4. 再看 [并发与调度](../../docs/topics/operating-system/03-concurrency-and-scheduling.md)
+5. 然后刷 [OS 高频题](high-frequency.md)
+6. 最后刷 [并发与内存题](concurrency-and-memory.md)
 
 ### 第四层：最小交付标准
 
@@ -91,10 +91,10 @@
 
 ## 关联知识点
 
-- [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-- [OS 高频题](/Users/wizout/op/interview/questions/operating-system/high-frequency.md)
-- [OS 进阶题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
-- [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
-- [OS 代表题清单](/Users/wizout/op/interview/questions/operating-system/representative-scenarios.md)
-- [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
-- [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)
+- [操作系统专题首页](../../docs/topics/operating-system/00-index.md)
+- [OS 高频题](high-frequency.md)
+- [OS 进阶题](concurrency-and-memory.md)
+- [OS 场景地图](../../docs/topics/operating-system/06-os-scenario-map.md)
+- [OS 代表题清单](representative-scenarios.md)
+- [OS 与 AI 编译器口述速答包](../../practice/drills/os-and-ai-compiler-oral-pack.md)
+- [OS 压测包](../../practice/drills/os-pressure-pack.md)

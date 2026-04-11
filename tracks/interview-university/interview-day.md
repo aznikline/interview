@@ -7,7 +7,7 @@
 - 回看你的一页纸弱项清单
 - 回看 `1` 份系统设计框架
 - 回看 `1` 份项目表达稿
-- 回看 [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
+- 回看 [Last 24 Hours](last-24-hours.md)
 
 ## 不要做什么
 
@@ -22,7 +22,7 @@
 - 预热 `1` 道系统设计题框架
 - 预热 `1` 个项目故事
 - 预热 `1` 组算法模式判断
-- 回看 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md) 里你最容易散的那一组
+- 回看 [追问压测包](../../practice/drills/follow-up-pressure-pack.md) 里你最容易散的那一组
 
 ## 面试中记住的三件事
 

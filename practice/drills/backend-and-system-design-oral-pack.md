@@ -73,7 +73,7 @@
 
 ## 推荐搭配
 
-- 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- 看 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
-- 做 [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
+- 看 [后端核心题清单](../../questions/backend/00-must-know.md)
+- 看 [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- 做 [资深后端 Mock](../mock-interviews/senior-backend.md)
+- 做 [可靠性与基础架构深挖 Mock](../mock-interviews/reliability-and-infra.md)

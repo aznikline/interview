@@ -16,12 +16,12 @@
 
 ### 必读文档
 
-- [01-algorithm-methodology.md](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
-- [02-common-patterns.md](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
-- [03-frameworks-and-drills.md](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-- [04-dp-and-state-design.md](/Users/wizout/op/interview/docs/topics/algorithm/04-dp-and-state-design.md)
-- [05-labuladong-pattern-map.md](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
-- [06-quick-master-index.md](/Users/wizout/op/interview/docs/topics/algorithm/06-quick-master-index.md)
+- [01-algorithm-methodology.md](01-algorithm-methodology.md)
+- [02-common-patterns.md](02-common-patterns.md)
+- [03-frameworks-and-drills.md](03-frameworks-and-drills.md)
+- [04-dp-and-state-design.md](04-dp-and-state-design.md)
+- [05-labuladong-pattern-map.md](05-labuladong-pattern-map.md)
+- [06-quick-master-index.md](06-quick-master-index.md)
 
 ### 学完这一组内容后应该具备什么能力
 
@@ -45,8 +45,8 @@
 
 ## 下一步
 
-- 刷 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- 刷 [算法代表题清单](/Users/wizout/op/interview/questions/algorithm/labuladong-representative-problems.md)
-- 跑 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
-- 跑 [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
-- 跑 [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
+- 刷 [算法核心题清单](../../../questions/algorithm/00-must-know.md)
+- 刷 [算法代表题清单](../../../questions/algorithm/labuladong-representative-problems.md)
+- 跑 [每日 Drill](../../../practice/drills/daily-drill.md)
+- 跑 [算法模式 14 天计划](../../../tracks/algorithm-pattern-14d/README.md)
+- 跑 [算法模式压测包](../../../practice/drills/algorithm-pattern-pressure-pack.md)

@@ -20,11 +20,11 @@
 
 ### Week 1：算法模式打底
 
-- 看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- 看 [基于本地题单的算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
-- 跑 [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
-- 跑 [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
-- 配合 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
+- 看 [算法核心题清单](../../questions/algorithm/00-must-know.md)
+- 看 [基于本地题单的算法模式地图](../../docs/topics/algorithm/05-labuladong-pattern-map.md)
+- 跑 [算法模式 14 天计划](../algorithm-pattern-14d/README.md)
+- 跑 [算法口述速答包](../../practice/drills/algorithm-oral-pack.md)
+- 配合 [每日 Drill](../../practice/drills/daily-drill.md)
 
 最低输出：
 
@@ -33,9 +33,9 @@
 
 ### Week 2：后端八股主链路
 
-- 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- 看 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- 跑 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+- 看 [后端核心题清单](../../questions/backend/00-must-know.md)
+- 看 [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
+- 跑 [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
 
 最低输出：
 
@@ -43,8 +43,8 @@
 
 ### Week 3：基础系统设计与项目表达
 
-- 看 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- 看 [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
+- 看 [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- 看 [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
 - 修自己的项目故事
 
 最低输出：
@@ -54,9 +54,9 @@
 
 ### Week 4：Mock 与总复习
 
-- 做 [backend-general mock](/Users/wizout/op/interview/practice/mock-interviews/backend-general.md)
-- 跑 [7 天急救计划](/Users/wizout/op/interview/practice/drills/7-day-rescue-plan.md) 或 [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
-- 用 [scorecard.md](/Users/wizout/op/interview/practice/mock-interviews/scorecard.md) 打分
+- 做 [backend-general mock](../../practice/mock-interviews/backend-general.md)
+- 跑 [7 天急救计划](../../practice/drills/7-day-rescue-plan.md) 或 [Last 24 Hours](../interview-university/last-24-hours.md)
+- 用 [scorecard.md](../../practice/mock-interviews/scorecard.md) 打分
 
 最低输出：
 

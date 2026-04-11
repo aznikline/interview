@@ -67,7 +67,7 @@
 
 ## 推荐搭配
 
-- 看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- 看 [算法进阶题](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
-- 看 [算法框架与训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-- 搭配 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
+- 看 [算法核心题清单](../../questions/algorithm/00-must-know.md)
+- 看 [算法进阶题](../../questions/algorithm/patterns-and-dp.md)
+- 看 [算法框架与训练法](../../docs/topics/algorithm/03-frameworks-and-drills.md)
+- 搭配 [每日 Drill](daily-drill.md)

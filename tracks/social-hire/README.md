@@ -20,11 +20,11 @@
 
 ### Week 1：后端主链路收口
 
-- 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- 看 [后端场景地图](/Users/wizout/op/interview/docs/topics/backend/08-backend-scenario-map.md)
-- 跑 [后端场景 14 天计划](/Users/wizout/op/interview/tracks/backend-scenario-14d/README.md)
-- 看 [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
-- 跑 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+- 看 [后端核心题清单](../../questions/backend/00-must-know.md)
+- 看 [后端场景地图](../../docs/topics/backend/08-backend-scenario-map.md)
+- 跑 [后端场景 14 天计划](../backend-scenario-14d/README.md)
+- 看 [后端进阶题](../../questions/backend/distributed-and-db.md)
+- 跑 [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
 
 最低输出：
 
@@ -33,11 +33,11 @@
 
 ### Week 2：系统设计与可靠性
 
-- 看 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- 看 [系统设计场景地图](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
-- 跑 [系统设计 14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
-- 看 [系统设计进阶题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
-- 跑 [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
+- 看 [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- 看 [系统设计场景地图](../../docs/topics/system-design/07-system-design-scenario-map.md)
+- 跑 [系统设计 14 天计划](../system-design-14d/README.md)
+- 看 [系统设计进阶题](../../questions/system-design/design-cases.md)
+- 跑 [可靠性与高并发深水区 Drill](../../practice/drills/reliability-deep-dive.md)
 
 最低输出：
 
@@ -46,9 +46,9 @@
 
 ### Week 3：OS、性能与项目表达
 
-- 看 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- 看 [Linux 可观测性与性能排障](/Users/wizout/op/interview/docs/topics/operating-system/04-linux-observability-and-tuning.md)
-- 修 [项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md) 的结构，哪怕你讲的是后端项目
+- 看 [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
+- 看 [Linux 可观测性与性能排障](../../docs/topics/operating-system/04-linux-observability-and-tuning.md)
+- 修 [项目表达稿](../../projects/ai-compiler-case-studies/project-storytelling.md) 的结构，哪怕你讲的是后端项目
 
 最低输出：
 
@@ -57,24 +57,24 @@
 
 ### Week 4：Mock 与追问承压
 
-- 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
-- 做 [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
-- 跑 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+- 做 [资深后端 Mock](../../practice/mock-interviews/senior-backend.md)
+- 做 [可靠性与基础架构深挖 Mock](../../practice/mock-interviews/reliability-and-infra.md)
+- 跑 [追问压测包](../../practice/drills/follow-up-pressure-pack.md)
 
 最低输出：
 
 - 至少 `2` 次完整 mock
-- 按 [scorecard.md](/Users/wizout/op/interview/practice/mock-interviews/scorecard.md) 打分并列弱项清单
+- 按 [scorecard.md](../../practice/mock-interviews/scorecard.md) 打分并列弱项清单
 
 ## 只剩 7 天怎么压缩
 
-1. 先过 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-2. 再过 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-3. 跑 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-4. 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
-5. 跑 [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
-6. 跑 [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
-7. 最后跑 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+1. 先过 [后端核心题清单](../../questions/backend/00-must-know.md)
+2. 再过 [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+3. 跑 [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
+4. 做 [资深后端 Mock](../../practice/mock-interviews/senior-backend.md)
+5. 跑 [后端场景压测包](../../practice/drills/backend-scenario-pressure-pack.md)
+6. 跑 [系统设计压测包](../../practice/drills/system-design-pressure-pack.md)
+7. 最后跑 [追问压测包](../../practice/drills/follow-up-pressure-pack.md)
 
 ## 社招最容易失分的地方
 

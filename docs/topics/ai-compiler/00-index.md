@@ -16,13 +16,13 @@ AI 编译器方向的关键不是框架名，而是你是否理解 `IR`、`lower
 
 ### 必读文档
 
-- [01-ai-compiler-core.md](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)
-- [02-ir-lowering-and-dialects.md](/Users/wizout/op/interview/docs/topics/ai-compiler/02-ir-lowering-and-dialects.md)
-- [03-kernel-fusion-and-runtime.md](/Users/wizout/op/interview/docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
-- [04-getting-started-and-chapters.md](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-- [05-serving-and-runtime-systems.md](/Users/wizout/op/interview/docs/topics/ai-compiler/05-serving-and-runtime-systems.md)
-- [06-compiler-fundamentals-and-ssa.md](/Users/wizout/op/interview/docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
-- [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
+- [01-ai-compiler-core.md](01-ai-compiler-core.md)
+- [02-ir-lowering-and-dialects.md](02-ir-lowering-and-dialects.md)
+- [03-kernel-fusion-and-runtime.md](03-kernel-fusion-and-runtime.md)
+- [04-getting-started-and-chapters.md](04-getting-started-and-chapters.md)
+- [05-serving-and-runtime-systems.md](05-serving-and-runtime-systems.md)
+- [06-compiler-fundamentals-and-ssa.md](06-compiler-fundamentals-and-ssa.md)
+- [AI 编译器答题法](../../guides/how-to-approach-ai-compiler-interview.md)
 
 ### 学完这一组内容后应该具备什么能力
 
@@ -46,5 +46,5 @@ AI 编译器方向的关键不是框架名，而是你是否理解 `IR`、`lower
 
 ## 下一步
 
-- 刷 [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-- 看 [项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md)
+- 刷 [AI 编译器核心题清单](../../../questions/ai-compiler/00-must-know.md)
+- 看 [项目表达稿](../../../projects/ai-compiler-case-studies/project-storytelling.md)

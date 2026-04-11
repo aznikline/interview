@@ -2,7 +2,7 @@
 
 ## 如果你是 30 天冲刺
 
-- 先看 [30 天计划](/Users/wizout/op/interview/tracks/sprint-30d/README.md)
+- 先看 [30 天计划](../../tracks/sprint-30d/README.md)
 - 每天 1 个 topic + 1 份 question set + 1 轮 mock
 - 每周做一次复盘，记录不会讲、讲不深、不会延展的点
 

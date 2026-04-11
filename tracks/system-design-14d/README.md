@@ -14,7 +14,7 @@
 
 ## Day 1：总框架
 
-- 看 [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
+- 看 [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
 - 练 `需求 -> 估算 -> 架构 -> 瓶颈 -> trade-off -> 故障`
 
 输出：
@@ -119,7 +119,7 @@
 
 ## Day 14：压测与复盘
 
-- 跑 [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
+- 跑 [系统设计压测包](../../practice/drills/system-design-pressure-pack.md)
 - 做一次 mock
 
 输出：

@@ -7,7 +7,7 @@
 
 ## Day 1：滑动窗口与双指针
 
-- 阅读 [02-common-patterns.md](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
+- 阅读 [02-common-patterns.md](../../docs/topics/algorithm/02-common-patterns.md)
 - 聚焦：
   - 最长无重复子串
   - 最小覆盖子串
@@ -16,7 +16,7 @@
 
 ## Day 2：二分与边界
 
-- 回看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+- 回看 [算法核心题清单](../../questions/algorithm/00-must-know.md)
 - 聚焦：
   - 标准二分
   - 左右边界
@@ -25,7 +25,7 @@
 
 ## Day 3：树与图搜索
 
-- 刷 [算法高频题](/Users/wizout/op/interview/questions/algorithm/high-frequency.md)
+- 刷 [算法高频题](../../questions/algorithm/high-frequency.md)
 - 聚焦：
   - 二叉树层序遍历
   - 路径和
@@ -35,7 +35,7 @@
 
 ## Day 4：回溯与组合枚举
 
-- 刷 [模式与 DP](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
+- 刷 [模式与 DP](../../questions/algorithm/patterns-and-dp.md)
 - 聚焦：
   - 全排列
   - 子集
@@ -44,7 +44,7 @@
 
 ## Day 5：堆、并查集与 Top K
 
-- 回看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+- 回看 [算法核心题清单](../../questions/algorithm/00-must-know.md)
 - 聚焦：
   - top k
   - 合并 k 个有序链表
@@ -53,7 +53,7 @@
 
 ## Day 6：动态规划
 
-- 刷 [模式与 DP](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
+- 刷 [模式与 DP](../../questions/algorithm/patterns-and-dp.md)
 - 聚焦：
   - 爬楼梯
   - 打家劫舍
@@ -62,7 +62,7 @@
 
 ## Day 7：Mock 与复盘
 
-- 用 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md) 做集中口述
+- 用 [每日 Drill](../../practice/drills/daily-drill.md) 做集中口述
 - 输出：
   - `5` 个 1 分钟回答
   - `2` 个 5 分钟深挖

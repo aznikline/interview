@@ -15,14 +15,14 @@
 
 ## 推荐学习顺序
 
-1. [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-2. [算法方法论](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
-3. [高频模式](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
-4. [框架、例题和训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-5. [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-6. [算法高频题](/Users/wizout/op/interview/questions/algorithm/high-frequency.md)
-7. [模式与 DP](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
-8. [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
+1. [算法专题首页](../../docs/topics/algorithm/00-index.md)
+2. [算法方法论](../../docs/topics/algorithm/01-algorithm-methodology.md)
+3. [高频模式](../../docs/topics/algorithm/02-common-patterns.md)
+4. [框架、例题和训练法](../../docs/topics/algorithm/03-frameworks-and-drills.md)
+5. [算法核心题清单](../../questions/algorithm/00-must-know.md)
+6. [算法高频题](../../questions/algorithm/high-frequency.md)
+7. [模式与 DP](../../questions/algorithm/patterns-and-dp.md)
+8. [每日 Drill](../../practice/drills/daily-drill.md)
 
 ## 这阶段必须拿下的模式
 

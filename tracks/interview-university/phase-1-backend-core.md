@@ -17,14 +17,14 @@
 
 ## 推荐学习顺序
 
-1. [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-2. [后端基础总览](/Users/wizout/op/interview/docs/topics/backend/01-backend-fundamentals.md)
-3. [MySQL 事务、锁与 MVCC](/Users/wizout/op/interview/docs/topics/backend/02-mysql-transactions-and-locks.md)
-4. [Redis 与缓存一致性](/Users/wizout/op/interview/docs/topics/backend/03-redis-and-cache-consistency.md)
-5. [MQ 可靠性与幂等](/Users/wizout/op/interview/docs/topics/backend/04-mq-reliability-and-idempotency.md)
-6. [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-7. [后端高频题](/Users/wizout/op/interview/questions/backend/high-frequency.md)
-8. [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
+1. [后端专题首页](../../docs/topics/backend/00-index.md)
+2. [后端基础总览](../../docs/topics/backend/01-backend-fundamentals.md)
+3. [MySQL 事务、锁与 MVCC](../../docs/topics/backend/02-mysql-transactions-and-locks.md)
+4. [Redis 与缓存一致性](../../docs/topics/backend/03-redis-and-cache-consistency.md)
+5. [MQ 可靠性与幂等](../../docs/topics/backend/04-mq-reliability-and-idempotency.md)
+6. [后端核心题清单](../../questions/backend/00-must-know.md)
+7. [后端高频题](../../questions/backend/high-frequency.md)
+8. [后端进阶题](../../questions/backend/distributed-and-db.md)
 
 ## 这阶段必须拿下的核心问题
 
@@ -56,7 +56,7 @@
 
 ### 输出 3：mock
 
-至少完成一次 [backend-general.md](/Users/wizout/op/interview/practice/mock-interviews/backend-general.md) 或 [senior-backend.md](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)。
+至少完成一次 [backend-general.md](../../practice/mock-interviews/backend-general.md) 或 [senior-backend.md](../../practice/mock-interviews/senior-backend.md)。
 
 ## 退出条件
 

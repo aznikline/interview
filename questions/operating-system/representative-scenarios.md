@@ -62,8 +62,8 @@
 
 ## 关联知识点
 
-- [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- [操作系统进阶题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
-- [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
-- [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
-- [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)
+- [操作系统核心题清单](00-must-know.md)
+- [操作系统进阶题](concurrency-and-memory.md)
+- [OS 场景地图](../../docs/topics/operating-system/06-os-scenario-map.md)
+- [OS 14 天计划](../../tracks/os-14d/README.md)
+- [OS 压测包](../../practice/drills/os-pressure-pack.md)

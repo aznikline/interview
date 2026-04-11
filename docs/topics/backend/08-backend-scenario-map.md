@@ -138,9 +138,9 @@
 
 ## 推荐搭配
 
-- [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- [后端高频题](/Users/wizout/op/interview/questions/backend/high-frequency.md)
-- [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
-- [后端代表题清单](/Users/wizout/op/interview/questions/backend/representative-scenarios.md)
-- [后端场景 14 天计划](/Users/wizout/op/interview/tracks/backend-scenario-14d/README.md)
-- [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
+- [后端核心题清单](../../../questions/backend/00-must-know.md)
+- [后端高频题](../../../questions/backend/high-frequency.md)
+- [后端进阶题](../../../questions/backend/distributed-and-db.md)
+- [后端代表题清单](../../../questions/backend/representative-scenarios.md)
+- [后端场景 14 天计划](../../../tracks/backend-scenario-14d/README.md)
+- [后端场景压测包](../../../practice/drills/backend-scenario-pressure-pack.md)

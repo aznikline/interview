@@ -16,17 +16,17 @@
 
 ## 推荐学习顺序
 
-1. [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
-2. [系统设计方法论](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
-3. [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-4. [缓存一致性与流量治理](/Users/wizout/op/interview/docs/topics/system-design/02-cache-consistency-and-traffic.md)
-5. [秒杀与高并发](/Users/wizout/op/interview/docs/topics/system-design/03-seckill-and-high-concurrency.md)
-6. [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-7. [系统设计高频题](/Users/wizout/op/interview/questions/system-design/high-frequency.md)
-8. [系统设计案例题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
-9. [短链接案例](/Users/wizout/op/interview/projects/backend-case-studies/url-shortener.md)
-10. [Feed 系统案例](/Users/wizout/op/interview/projects/design-case-studies/feed-system.md)
-11. [秒杀系统案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
+1. [系统设计专题首页](../../docs/topics/system-design/00-index.md)
+2. [系统设计方法论](../../docs/topics/system-design/01-system-design-methodology.md)
+3. [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
+4. [缓存一致性与流量治理](../../docs/topics/system-design/02-cache-consistency-and-traffic.md)
+5. [秒杀与高并发](../../docs/topics/system-design/03-seckill-and-high-concurrency.md)
+6. [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+7. [系统设计高频题](../../questions/system-design/high-frequency.md)
+8. [系统设计案例题](../../questions/system-design/design-cases.md)
+9. [短链接案例](../../projects/backend-case-studies/url-shortener.md)
+10. [Feed 系统案例](../../projects/design-case-studies/feed-system.md)
+11. [秒杀系统案例](../../projects/design-case-studies/seckill-system.md)
 
 ## 这阶段必须拿下的代表题
 

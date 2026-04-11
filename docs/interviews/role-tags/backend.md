@@ -16,19 +16,19 @@
 
 ## 推荐入口
 
-- [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-- [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
-- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-- [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
+- [后端专题首页](../../topics/backend/00-index.md)
+- [后端核心题清单](../../../questions/backend/00-must-know.md)
+- [后端进阶题](../../../questions/backend/distributed-and-db.md)
+- [后端与系统设计口述速答包](../../../practice/drills/backend-and-system-design-oral-pack.md)
+- [资深后端 Mock](../../../practice/mock-interviews/senior-backend.md)
 
 ## 正确起手顺序
 
-1. 先过 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md) 的主链路
-2. 再补 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md) 里和服务性能最相关的部分
-3. 再刷 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-4. 然后跑 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-5. 最后做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md) 和 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+1. 先过 [后端核心题清单](../../../questions/backend/00-must-know.md) 的主链路
+2. 再补 [操作系统核心题清单](../../../questions/operating-system/00-must-know.md) 里和服务性能最相关的部分
+3. 再刷 [系统设计核心题清单](../../../questions/system-design/00-must-know.md)
+4. 然后跑 [后端与系统设计口述速答包](../../../practice/drills/backend-and-system-design-oral-pack.md)
+5. 最后做 [资深后端 Mock](../../../practice/mock-interviews/senior-backend.md) 和 [追问压测包](../../../practice/drills/follow-up-pressure-pack.md)
 
 ## 必须先保住的题
 

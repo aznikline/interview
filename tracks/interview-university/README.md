@@ -26,7 +26,7 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 - [ ] 明确你的主语言：`Java / Go / C++ / Python` 选一个作为面试主语言
 - [ ] 明确你的时间预算：`1 周 / 1 个月 / 2 个月+`
 - [ ] 建立一个弱项清单，后面每周更新一次
-- [ ] 阅读 [总路线图](/Users/wizout/op/interview/docs/roadmap/00-overview.md)
+- [ ] 阅读 [总路线图](../../docs/roadmap/00-overview.md)
 
 ## How to Study
 
@@ -56,18 +56,18 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 阶段指南：
 
-- [Phase 1: Backend Core](/Users/wizout/op/interview/tracks/interview-university/phase-1-backend-core.md)
-- [Backend Week Plan](/Users/wizout/op/interview/tracks/interview-university/backend-week-plan.md)
+- [Phase 1: Backend Core](phase-1-backend-core.md)
+- [Backend Week Plan](backend-week-plan.md)
 
-- [ ] 阅读 [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-- [ ] 阅读 [后端基础总览](/Users/wizout/op/interview/docs/topics/backend/01-backend-fundamentals.md)
-- [ ] 阅读 [MySQL 事务、锁与 MVCC](/Users/wizout/op/interview/docs/topics/backend/02-mysql-transactions-and-locks.md)
-- [ ] 阅读 [Redis 与缓存一致性](/Users/wizout/op/interview/docs/topics/backend/03-redis-and-cache-consistency.md)
-- [ ] 阅读 [MQ 可靠性与幂等](/Users/wizout/op/interview/docs/topics/backend/04-mq-reliability-and-idempotency.md)
-- [ ] 刷 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- [ ] 刷 [后端高频题](/Users/wizout/op/interview/questions/backend/high-frequency.md)
-- [ ] 刷 [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
-- [ ] 完成一次 [后端基础 Mock](/Users/wizout/op/interview/practice/mock-interviews/backend-general.md)
+- [ ] 阅读 [后端专题首页](../../docs/topics/backend/00-index.md)
+- [ ] 阅读 [后端基础总览](../../docs/topics/backend/01-backend-fundamentals.md)
+- [ ] 阅读 [MySQL 事务、锁与 MVCC](../../docs/topics/backend/02-mysql-transactions-and-locks.md)
+- [ ] 阅读 [Redis 与缓存一致性](../../docs/topics/backend/03-redis-and-cache-consistency.md)
+- [ ] 阅读 [MQ 可靠性与幂等](../../docs/topics/backend/04-mq-reliability-and-idempotency.md)
+- [ ] 刷 [后端核心题清单](../../questions/backend/00-must-know.md)
+- [ ] 刷 [后端高频题](../../questions/backend/high-frequency.md)
+- [ ] 刷 [后端进阶题](../../questions/backend/distributed-and-db.md)
+- [ ] 完成一次 [后端基础 Mock](../../practice/mock-interviews/backend-general.md)
 
 阶段验收：
 
@@ -83,17 +83,17 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 阶段指南：
 
-- [Phase 2: Algorithms And Data Structures](/Users/wizout/op/interview/tracks/interview-university/phase-2-algorithms.md)
-- [Algorithm Week Plan](/Users/wizout/op/interview/tracks/interview-university/algorithm-week-plan.md)
+- [Phase 2: Algorithms And Data Structures](phase-2-algorithms.md)
+- [Algorithm Week Plan](algorithm-week-plan.md)
 
-- [ ] 阅读 [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-- [ ] 阅读 [算法方法论](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
-- [ ] 阅读 [高频模式](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
-- [ ] 阅读 [框架、例题和训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-- [ ] 刷 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- [ ] 刷 [算法高频题](/Users/wizout/op/interview/questions/algorithm/high-frequency.md)
-- [ ] 刷 [模式与 DP](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
-- [ ] 执行 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md)
+- [ ] 阅读 [算法专题首页](../../docs/topics/algorithm/00-index.md)
+- [ ] 阅读 [算法方法论](../../docs/topics/algorithm/01-algorithm-methodology.md)
+- [ ] 阅读 [高频模式](../../docs/topics/algorithm/02-common-patterns.md)
+- [ ] 阅读 [框架、例题和训练法](../../docs/topics/algorithm/03-frameworks-and-drills.md)
+- [ ] 刷 [算法核心题清单](../../questions/algorithm/00-must-know.md)
+- [ ] 刷 [算法高频题](../../questions/algorithm/high-frequency.md)
+- [ ] 刷 [模式与 DP](../../questions/algorithm/patterns-and-dp.md)
+- [ ] 执行 [每日 Drill](../../practice/drills/daily-drill.md)
 
 阶段验收：
 
@@ -109,16 +109,16 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 阶段指南：
 
-- [Phase 3: Operating Systems And Concurrency](/Users/wizout/op/interview/tracks/interview-university/phase-3-operating-systems.md)
-- [Operating Systems Week Plan](/Users/wizout/op/interview/tracks/interview-university/os-week-plan.md)
+- [Phase 3: Operating Systems And Concurrency](phase-3-operating-systems.md)
+- [Operating Systems Week Plan](os-week-plan.md)
 
-- [ ] 阅读 [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-- [ ] 阅读 [OS 核心](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
-- [ ] 阅读 [内存与 I/O](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
-- [ ] 阅读 [并发与调度](/Users/wizout/op/interview/docs/topics/operating-system/03-concurrency-and-scheduling.md)
-- [ ] 刷 [OS 核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- [ ] 刷 [OS 高频题](/Users/wizout/op/interview/questions/operating-system/high-frequency.md)
-- [ ] 刷 [并发与内存题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
+- [ ] 阅读 [操作系统专题首页](../../docs/topics/operating-system/00-index.md)
+- [ ] 阅读 [OS 核心](../../docs/topics/operating-system/01-os-core.md)
+- [ ] 阅读 [内存与 I/O](../../docs/topics/operating-system/02-memory-and-io.md)
+- [ ] 阅读 [并发与调度](../../docs/topics/operating-system/03-concurrency-and-scheduling.md)
+- [ ] 刷 [OS 核心题清单](../../questions/operating-system/00-must-know.md)
+- [ ] 刷 [OS 高频题](../../questions/operating-system/high-frequency.md)
+- [ ] 刷 [并发与内存题](../../questions/operating-system/concurrency-and-memory.md)
 
 阶段验收：
 
@@ -134,20 +134,20 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 阶段指南：
 
-- [Phase 4: System Design And Distributed Trade-offs](/Users/wizout/op/interview/tracks/interview-university/phase-4-system-design.md)
-- [System Design Week Plan](/Users/wizout/op/interview/tracks/interview-university/system-design-week-plan.md)
+- [Phase 4: System Design And Distributed Trade-offs](phase-4-system-design.md)
+- [System Design Week Plan](system-design-week-plan.md)
 
-- [ ] 阅读 [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
-- [ ] 阅读 [系统设计方法论](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
-- [ ] 阅读 [缓存一致性与流量治理](/Users/wizout/op/interview/docs/topics/system-design/02-cache-consistency-and-traffic.md)
-- [ ] 阅读 [秒杀与高并发](/Users/wizout/op/interview/docs/topics/system-design/03-seckill-and-high-concurrency.md)
-- [ ] 阅读 [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-- [ ] 刷 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- [ ] 刷 [系统设计高频题](/Users/wizout/op/interview/questions/system-design/high-frequency.md)
-- [ ] 刷 [系统设计案例题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
-- [ ] 阅读 [短链接案例](/Users/wizout/op/interview/projects/backend-case-studies/url-shortener.md)
-- [ ] 阅读 [Feed 系统案例](/Users/wizout/op/interview/projects/design-case-studies/feed-system.md)
-- [ ] 阅读 [秒杀系统案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
+- [ ] 阅读 [系统设计专题首页](../../docs/topics/system-design/00-index.md)
+- [ ] 阅读 [系统设计方法论](../../docs/topics/system-design/01-system-design-methodology.md)
+- [ ] 阅读 [缓存一致性与流量治理](../../docs/topics/system-design/02-cache-consistency-and-traffic.md)
+- [ ] 阅读 [秒杀与高并发](../../docs/topics/system-design/03-seckill-and-high-concurrency.md)
+- [ ] 阅读 [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
+- [ ] 刷 [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- [ ] 刷 [系统设计高频题](../../questions/system-design/high-frequency.md)
+- [ ] 刷 [系统设计案例题](../../questions/system-design/design-cases.md)
+- [ ] 阅读 [短链接案例](../../projects/backend-case-studies/url-shortener.md)
+- [ ] 阅读 [Feed 系统案例](../../projects/design-case-studies/feed-system.md)
+- [ ] 阅读 [秒杀系统案例](../../projects/design-case-studies/seckill-system.md)
 
 阶段验收：
 
@@ -163,23 +163,23 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 阶段指南：
 
-- [Phase 5: AI Compiler And AI Infra](/Users/wizout/op/interview/tracks/interview-university/phase-5-ai-compiler.md)
-- [AI Compiler Week Plan](/Users/wizout/op/interview/tracks/interview-university/ai-compiler-week-plan.md)
+- [Phase 5: AI Compiler And AI Infra](phase-5-ai-compiler.md)
+- [AI Compiler Week Plan](ai-compiler-week-plan.md)
 
-- [ ] 阅读 [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-- [ ] 阅读 [AI 编译器整体链路](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)
-- [ ] 阅读 [IR、lowering 与 dialect](/Users/wizout/op/interview/docs/topics/ai-compiler/02-ir-lowering-and-dialects.md)
-- [ ] 阅读 [kernel、fusion 与 runtime](/Users/wizout/op/interview/docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
-- [ ] 阅读 [入门与章节推进](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-- [ ] 阅读 [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
-- [ ] 刷 [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-- [ ] 刷 [AI 编译器高频题](/Users/wizout/op/interview/questions/ai-compiler/high-frequency.md)
-- [ ] 刷 [AI 编译器深挖题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
-- [ ] 阅读 [LLM 推理编译案例](/Users/wizout/op/interview/projects/ai-compiler-case-studies/llm-inference-compiler.md)
-- [ ] 阅读 [runtime 调度案例](/Users/wizout/op/interview/projects/ai-compiler-case-studies/runtime-scheduling.md)
-- [ ] 阅读 [项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md)
-- [ ] 完成一次 [AI Infra Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-infra.md)
-- [ ] 完成一次 [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
+- [ ] 阅读 [AI 编译器专题首页](../../docs/topics/ai-compiler/00-index.md)
+- [ ] 阅读 [AI 编译器整体链路](../../docs/topics/ai-compiler/01-ai-compiler-core.md)
+- [ ] 阅读 [IR、lowering 与 dialect](../../docs/topics/ai-compiler/02-ir-lowering-and-dialects.md)
+- [ ] 阅读 [kernel、fusion 与 runtime](../../docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
+- [ ] 阅读 [入门与章节推进](../../docs/topics/ai-compiler/04-getting-started-and-chapters.md)
+- [ ] 阅读 [AI 编译器答题法](../../docs/guides/how-to-approach-ai-compiler-interview.md)
+- [ ] 刷 [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md)
+- [ ] 刷 [AI 编译器高频题](../../questions/ai-compiler/high-frequency.md)
+- [ ] 刷 [AI 编译器深挖题](../../questions/ai-compiler/deep-dive.md)
+- [ ] 阅读 [LLM 推理编译案例](../../projects/ai-compiler-case-studies/llm-inference-compiler.md)
+- [ ] 阅读 [runtime 调度案例](../../projects/ai-compiler-case-studies/runtime-scheduling.md)
+- [ ] 阅读 [项目表达稿](../../projects/ai-compiler-case-studies/project-storytelling.md)
+- [ ] 完成一次 [AI Infra Mock](../../practice/mock-interviews/ai-infra.md)
+- [ ] 完成一次 [AI 编译器深挖 Mock](../../practice/mock-interviews/ai-compiler-deep-dive.md)
 
 阶段验收：
 
@@ -195,12 +195,12 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 阶段指南：
 
-- [Phase 6: Final Review](/Users/wizout/op/interview/tracks/interview-university/phase-6-final-review.md)
+- [Phase 6: Final Review](phase-6-final-review.md)
 
-- [ ] 执行 [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
-- [ ] 完成一次 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
-- [ ] 回看 [review-checklists.md](/Users/wizout/op/interview/docs/guides/review-checklists.md)
-- [ ] 回看 [answer-methodology.md](/Users/wizout/op/interview/docs/guides/answer-methodology.md)
+- [ ] 执行 [Final Review Checklist](final-review.md)
+- [ ] 完成一次 [资深后端 Mock](../../practice/mock-interviews/senior-backend.md)
+- [ ] 回看 [review-checklists.md](../../docs/guides/review-checklists.md)
+- [ ] 回看 [answer-methodology.md](../../docs/guides/answer-methodology.md)
 - [ ] 更新一版你自己的项目表达稿
 
 阶段验收：
@@ -211,19 +211,19 @@ AI 编译器是差异化模块，不是拿来替代主线短板的。
 
 ## If You Only Have 1 Month
 
-- [ ] 执行 [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)
+- [ ] 执行 [30 天逐日执行表](../sprint-30d/day-by-day.md)
 
 ## If You Only Have 1 Week
 
-- [ ] 执行 [7 天急救计划](/Users/wizout/op/interview/practice/drills/7-day-rescue-plan.md)
+- [ ] 执行 [7 天急救计划](../../practice/drills/7-day-rescue-plan.md)
 
 ## Optional Topics
 
-- [ ] 阅读 [Optional Topics](/Users/wizout/op/interview/tracks/interview-university/optional-topics.md)
+- [ ] 阅读 [Optional Topics](optional-topics.md)
 
 ## Once You're Closer To The Interview
 
-- [ ] 阅读 [Closer To The Interview](/Users/wizout/op/interview/tracks/interview-university/closer-to-interview.md)
-- [ ] 阅读 [Last 3 Days](/Users/wizout/op/interview/tracks/interview-university/last-3-days.md)
-- [ ] 阅读 [Interview Day Checklist](/Users/wizout/op/interview/tracks/interview-university/interview-day.md)
+- [ ] 阅读 [Closer To The Interview](closer-to-interview.md)
+- [ ] 阅读 [Last 3 Days](last-3-days.md)
+- [ ] 阅读 [Interview Day Checklist](interview-day.md)
 - [ ] 只围绕弱项清单和 mock 结果做最后修补

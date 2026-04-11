@@ -15,19 +15,19 @@
 
 ## 推荐入口
 
-- [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
-- [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
-- [AI Infra 代表题清单](/Users/wizout/op/interview/questions/ai-infra/representative-scenarios.md)
-- [AI Infra 21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
-- [AI Infra 压测包](/Users/wizout/op/interview/practice/drills/ai-infra-pressure-pack.md)
+- [AI Infra 专题首页](../../topics/ai-infra/00-index.md)
+- [AI Infra 核心题清单](../../../questions/ai-infra/00-must-know.md)
+- [AI Infra 代表题清单](../../../questions/ai-infra/representative-scenarios.md)
+- [AI Infra 21 天计划](../../../tracks/ai-infra-21d/README.md)
+- [AI Infra 压测包](../../../practice/drills/ai-infra-pressure-pack.md)
 
 ## 正确起手顺序
 
-1. 先保住 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md) 里和性能现象最相关的题
-2. 再过 [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
-3. 再补 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md) 里容量、限流、恢复这些 Serving 相关问题
-4. 跑 [AI Infra 21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
-5. 最后跑 [AI Infra 压测包](/Users/wizout/op/interview/practice/drills/ai-infra-pressure-pack.md) 和 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+1. 先保住 [操作系统核心题清单](../../../questions/operating-system/00-must-know.md) 里和性能现象最相关的题
+2. 再过 [AI Infra 核心题清单](../../../questions/ai-infra/00-must-know.md)
+3. 再补 [系统设计核心题清单](../../../questions/system-design/00-must-know.md) 里容量、限流、恢复这些 Serving 相关问题
+4. 跑 [AI Infra 21 天计划](../../../tracks/ai-infra-21d/README.md)
+5. 最后跑 [AI Infra 压测包](../../../practice/drills/ai-infra-pressure-pack.md) 和 [追问压测包](../../../practice/drills/follow-up-pressure-pack.md)
 
 ## 必须先保住的题
 

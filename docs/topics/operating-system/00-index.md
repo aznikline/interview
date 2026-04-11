@@ -15,12 +15,12 @@
 
 ### 必读文档
 
-- [01-os-core.md](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
-- [02-memory-and-io.md](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
-- [03-concurrency-and-scheduling.md](/Users/wizout/op/interview/docs/topics/operating-system/03-concurrency-and-scheduling.md)
-- [04-linux-observability-and-tuning.md](/Users/wizout/op/interview/docs/topics/operating-system/04-linux-observability-and-tuning.md)
-- [05-network-io-and-epoll.md](/Users/wizout/op/interview/docs/topics/operating-system/05-network-io-and-epoll.md)
-- [06-os-scenario-map.md](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
+- [01-os-core.md](01-os-core.md)
+- [02-memory-and-io.md](02-memory-and-io.md)
+- [03-concurrency-and-scheduling.md](03-concurrency-and-scheduling.md)
+- [04-linux-observability-and-tuning.md](04-linux-observability-and-tuning.md)
+- [05-network-io-and-epoll.md](05-network-io-and-epoll.md)
+- [06-os-scenario-map.md](06-os-scenario-map.md)
 
 ## 高频问法
 
@@ -37,8 +37,8 @@
 
 ## 下一步
 
-- 刷 [OS 核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- 刷 [OS 代表题清单](/Users/wizout/op/interview/questions/operating-system/representative-scenarios.md)
-- 跑 [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
-- 跑 [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)
-- 配合 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md) 一起练
+- 刷 [OS 核心题清单](../../../questions/operating-system/00-must-know.md)
+- 刷 [OS 代表题清单](../../../questions/operating-system/representative-scenarios.md)
+- 跑 [OS 14 天计划](../../../tracks/os-14d/README.md)
+- 跑 [OS 压测包](../../../practice/drills/os-pressure-pack.md)
+- 配合 [后端核心题清单](../../../questions/backend/00-must-know.md) 一起练

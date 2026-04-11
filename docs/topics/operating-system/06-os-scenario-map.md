@@ -135,8 +135,8 @@
 
 ## 推荐搭配
 
-- [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- [操作系统进阶题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
-- [操作系统代表题清单](/Users/wizout/op/interview/questions/operating-system/representative-scenarios.md)
-- [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
-- [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)
+- [操作系统核心题清单](../../../questions/operating-system/00-must-know.md)
+- [操作系统进阶题](../../../questions/operating-system/concurrency-and-memory.md)
+- [操作系统代表题清单](../../../questions/operating-system/representative-scenarios.md)
+- [OS 14 天计划](../../../tracks/os-14d/README.md)
+- [OS 压测包](../../../practice/drills/os-pressure-pack.md)

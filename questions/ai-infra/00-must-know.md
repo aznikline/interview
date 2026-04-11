@@ -47,8 +47,8 @@ AI Infra 面试最应该优先准备哪些题，顺序应该怎么排？
 
 ## 关联知识点
 
-- [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
-- [AI Infra 高频题](/Users/wizout/op/interview/questions/ai-infra/high-frequency.md)
-- [AI Infra 代表题清单](/Users/wizout/op/interview/questions/ai-infra/representative-scenarios.md)
-- [AI Infra 21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
-- [AI Infra 压测包](/Users/wizout/op/interview/practice/drills/ai-infra-pressure-pack.md)
+- [AI Infra 专题首页](../../docs/topics/ai-infra/00-index.md)
+- [AI Infra 高频题](high-frequency.md)
+- [AI Infra 代表题清单](representative-scenarios.md)
+- [AI Infra 21 天计划](../../tracks/ai-infra-21d/README.md)
+- [AI Infra 压测包](../../practice/drills/ai-infra-pressure-pack.md)

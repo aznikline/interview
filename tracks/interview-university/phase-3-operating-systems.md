@@ -15,13 +15,13 @@
 
 ## 推荐学习顺序
 
-1. [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-2. [OS 核心](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
-3. [内存与 I/O](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
-4. [并发与调度](/Users/wizout/op/interview/docs/topics/operating-system/03-concurrency-and-scheduling.md)
-5. [OS 核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-6. [OS 高频题](/Users/wizout/op/interview/questions/operating-system/high-frequency.md)
-7. [并发与内存题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
+1. [操作系统专题首页](../../docs/topics/operating-system/00-index.md)
+2. [OS 核心](../../docs/topics/operating-system/01-os-core.md)
+3. [内存与 I/O](../../docs/topics/operating-system/02-memory-and-io.md)
+4. [并发与调度](../../docs/topics/operating-system/03-concurrency-and-scheduling.md)
+5. [OS 核心题清单](../../questions/operating-system/00-must-know.md)
+6. [OS 高频题](../../questions/operating-system/high-frequency.md)
+7. [并发与内存题](../../questions/operating-system/concurrency-and-memory.md)
 
 ## 这阶段必须拿下的核心问题
 

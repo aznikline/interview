@@ -4,7 +4,7 @@
 
 本地路径：
 
-- [references/ai-infra-hpc](/Users/wizout/op/interview/references/ai-infra-hpc)
+- [references/ai-infra-hpc](../../references/ai-infra-hpc)
 
 核心目录：
 
@@ -29,7 +29,7 @@
 
 本地路径：
 
-- [references/OriginDL](/Users/wizout/op/interview/references/OriginDL)
+- [references/OriginDL](../../references/OriginDL)
 
 核心目录：
 

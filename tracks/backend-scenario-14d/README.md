@@ -14,7 +14,7 @@
 
 ## Day 1：MySQL 索引与写链路
 
-- 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+- 看 [后端核心题清单](../../questions/backend/00-must-know.md)
 - 练 B+ 树、聚簇索引、回表、自增主键
 
 输出：
@@ -23,7 +23,7 @@
 
 ## Day 2：事务、锁与 MVCC
 
-- 看 [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
+- 看 [后端进阶题](../../questions/backend/distributed-and-db.md)
 - 练 Read View、快照读、当前读、next-key lock
 
 输出：
@@ -122,8 +122,8 @@
 
 ## Day 14：压测与 mock
 
-- 跑 [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
-- 做 [资深后端 Mock](/Users/wizout/op/interview/practice/mock-interviews/senior-backend.md)
+- 跑 [后端场景压测包](../../practice/drills/backend-scenario-pressure-pack.md)
+- 做 [资深后端 Mock](../../practice/mock-interviews/senior-backend.md)
 
 输出：
 

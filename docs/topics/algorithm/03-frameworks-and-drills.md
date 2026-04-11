@@ -72,7 +72,7 @@
 
 ## 推荐怎么配合仓库使用
 
-1. 先看 [01-algorithm-methodology.md](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
-2. 再看 [02-common-patterns.md](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
-3. 然后刷 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-4. 最后用 [每日 Drill](/Users/wizout/op/interview/practice/drills/daily-drill.md) 做口述训练
+1. 先看 [01-algorithm-methodology.md](01-algorithm-methodology.md)
+2. 再看 [02-common-patterns.md](02-common-patterns.md)
+3. 然后刷 [算法核心题清单](../../../questions/algorithm/00-must-know.md)
+4. 最后用 [每日 Drill](../../../practice/drills/daily-drill.md) 做口述训练

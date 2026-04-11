@@ -16,19 +16,19 @@
 
 ## 推荐入口
 
-- [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-- [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-- [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
-- [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
-- [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md)
+- [后端专题首页](../../topics/backend/00-index.md)
+- [操作系统专题首页](../../topics/operating-system/00-index.md)
+- [系统设计专题首页](../../topics/system-design/00-index.md)
+- [可靠性与高并发深水区 Drill](../../../practice/drills/reliability-deep-dive.md)
+- [可靠性与基础架构深挖 Mock](../../../practice/mock-interviews/reliability-and-infra.md)
 
 ## 正确起手顺序
 
-1. 先过 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-2. 再过 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-3. 再补 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-4. 跑 [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
-5. 做 [可靠性与基础架构深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/reliability-and-infra.md) 和 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+1. 先过 [后端核心题清单](../../../questions/backend/00-must-know.md)
+2. 再过 [操作系统核心题清单](../../../questions/operating-system/00-must-know.md)
+3. 再补 [系统设计核心题清单](../../../questions/system-design/00-must-know.md)
+4. 跑 [可靠性与高并发深水区 Drill](../../../practice/drills/reliability-deep-dive.md)
+5. 做 [可靠性与基础架构深挖 Mock](../../../practice/mock-interviews/reliability-and-infra.md) 和 [追问压测包](../../../practice/drills/follow-up-pressure-pack.md)
 
 ## 必须先保住的题
 

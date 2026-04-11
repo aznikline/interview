@@ -49,8 +49,8 @@ LLM 面试最应该优先准备哪些题，顺序应该怎么排？
 
 ## 关联知识点
 
-- [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
-- [LLM 高频题](/Users/wizout/op/interview/questions/llm/high-frequency.md)
-- [LLM 代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)
-- [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
-- [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+- [LLM 面试专题首页](../../docs/topics/llm/00-index.md)
+- [LLM 高频题](high-frequency.md)
+- [LLM 代表题清单](representative-scenarios.md)
+- [LLM 21 天计划](../../tracks/llm-interview-21d/README.md)
+- [LLM 压测包](../../practice/drills/llm-pressure-pack.md)

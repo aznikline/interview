@@ -75,6 +75,6 @@
 
 ## 推荐搭配文档
 
-- [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)
-- [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)
-- [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
+- [Interview University 学习计划](../interview-university/README.md)
+- [30 天逐日执行表](../sprint-30d/day-by-day.md)
+- [Final Review Checklist](../interview-university/final-review.md)

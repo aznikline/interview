@@ -26,7 +26,7 @@
 
 ## 针对性补法
 
-- 结构化低分：回看 [answer-methodology.md](/Users/wizout/op/interview/docs/guides/answer-methodology.md)
+- 结构化低分：回看 [answer-methodology.md](../../docs/guides/answer-methodology.md)
 - 深度低分：回看对应 topic 文档里的 `深挖与误区`
 - 工程感低分：补项目表达和系统设计案例
 - 追问承压低分：减少新题，增加 mock 和口述
@@ -35,7 +35,7 @@
 
 如果你的问题主要出在“第一问能答，第二问开始乱”，优先做：
 
-- [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
-- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-- [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
-- [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
+- [追问压测包](../drills/follow-up-pressure-pack.md)
+- [后端与系统设计口述速答包](../drills/backend-and-system-design-oral-pack.md)
+- [OS 与 AI 编译器口述速答包](../drills/os-and-ai-compiler-oral-pack.md)
+- [算法口述速答包](../drills/algorithm-oral-pack.md)

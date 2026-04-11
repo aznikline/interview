@@ -16,8 +16,8 @@
 
 先看：
 
-- [分布式事务、补偿与一致性取舍](/Users/wizout/op/interview/docs/topics/backend/07-distributed-transactions-and-compensation.md)
-- [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+- [分布式事务、补偿与一致性取舍](../../docs/topics/backend/07-distributed-transactions-and-compensation.md)
+- [后端核心题清单](../../questions/backend/00-must-know.md)
 
 最小输出：
 
@@ -35,8 +35,8 @@
 
 先看：
 
-- [动态规划与状态设计](/Users/wizout/op/interview/docs/topics/algorithm/04-dp-and-state-design.md)
-- [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+- [动态规划与状态设计](../../docs/topics/algorithm/04-dp-and-state-design.md)
+- [算法核心题清单](../../questions/algorithm/00-must-know.md)
 
 最小输出：
 
@@ -54,8 +54,8 @@
 
 先看：
 
-- [网络 I/O、epoll 与零拷贝](/Users/wizout/op/interview/docs/topics/operating-system/05-network-io-and-epoll.md)
-- [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+- [网络 I/O、epoll 与零拷贝](../../docs/topics/operating-system/05-network-io-and-epoll.md)
+- [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
 
 最小输出：
 
@@ -73,8 +73,8 @@
 
 先看：
 
-- [限流、降级与故障恢复](/Users/wizout/op/interview/docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md)
-- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+- [限流、降级与故障恢复](../../docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md)
+- [系统设计核心题清单](../../questions/system-design/00-must-know.md)
 
 最小输出：
 

@@ -26,6 +26,6 @@
 
 ## 关联知识点
 
-- [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
-- [AI Infra 高频题](/Users/wizout/op/interview/questions/ai-infra/high-frequency.md)
-- [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
+- [AI Infra 核心题清单](00-must-know.md)
+- [AI Infra 高频题](high-frequency.md)
+- [AI Infra 专题首页](../../docs/topics/ai-infra/00-index.md)

@@ -4,8 +4,8 @@
 
 如果你第一次使用，建议先看：
 
-1. [Start Here](/Users/wizout/op/interview/docs/START-HERE.md)
-2. [总路线图](/Users/wizout/op/interview/docs/roadmap/00-overview.md)
+1. [Start Here](../START-HERE.md)
+2. [总路线图](../roadmap/00-overview.md)
 3. 你的方向首页
 4. 对应方向的核心题清单
 
@@ -19,9 +19,9 @@
 
 建议入口：
 
-- [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-- [操作系统专题首页](/Users/wizout/op/interview/docs/topics/operating-system/00-index.md)
-- [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+- [后端专题首页](../topics/backend/00-index.md)
+- [操作系统专题首页](../topics/operating-system/00-index.md)
+- [后端核心题清单](../../questions/backend/00-must-know.md)
 
 ### Day 2
 
@@ -31,9 +31,9 @@
 
 建议入口：
 
-- [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-- [算法框架与训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
+- [系统设计答题法](how-to-approach-system-design.md)
+- [算法框架与训练法](../topics/algorithm/03-frameworks-and-drills.md)
+- [系统设计核心题清单](../../questions/system-design/00-must-know.md)
 
 ### Day 3
 
@@ -43,13 +43,13 @@
 
 建议入口：
 
-- [AI 编译器入门章节](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-- [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
-- [AI 编译器项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md)
+- [AI 编译器入门章节](../topics/ai-compiler/04-getting-started-and-chapters.md)
+- [AI 编译器答题法](how-to-approach-ai-compiler-interview.md)
+- [AI 编译器项目表达稿](../../projects/ai-compiler-case-studies/project-storytelling.md)
 
 ## 如果你有 1 周
 
-直接跑 [7 天急救计划](/Users/wizout/op/interview/practice/drills/7-day-rescue-plan.md)。
+直接跑 [7 天急救计划](../../practice/drills/7-day-rescue-plan.md)。
 
 这一周的目标不是“覆盖一切”，而是完成最小闭环：
 
@@ -61,7 +61,7 @@
 
 ## 如果你有 1 个月
 
-直接跑 [30 天逐日执行表](/Users/wizout/op/interview/tracks/sprint-30d/day-by-day.md)。
+直接跑 [30 天逐日执行表](../../tracks/sprint-30d/day-by-day.md)。
 
 这 30 天的输出标准应该是：
 
@@ -72,7 +72,7 @@
 
 ## 如果你有 2 个月
 
-从 [60 天路径](/Users/wizout/op/interview/tracks/sprint-60d/README.md) 开始。
+从 [60 天路径](../../tracks/sprint-60d/README.md) 开始。
 
 这条路径更适合：
 

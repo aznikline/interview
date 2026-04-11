@@ -15,11 +15,11 @@
 
 ## 起手顺序
 
-1. [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
-2. [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
-3. [LLM 代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)
-4. [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
-5. [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+1. [LLM 面试专题首页](../../docs/topics/llm/00-index.md)
+2. [LLM 核心题清单](../../questions/llm/00-must-know.md)
+3. [LLM 代表题清单](../../questions/llm/representative-scenarios.md)
+4. [LLM 21 天计划](../llm-interview-21d/README.md)
+5. [LLM 压测包](../../practice/drills/llm-pressure-pack.md)
 
 ## 本地参考层
 

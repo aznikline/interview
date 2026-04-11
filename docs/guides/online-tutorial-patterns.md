@@ -17,8 +17,8 @@
 
 在本仓库里的落地：
 
-- [Start Here](/Users/wizout/op/interview/docs/START-HERE.md)
-- [学习指南](/Users/wizout/op/interview/docs/guides/study-guide.md)
+- [Start Here](../START-HERE.md)
+- [学习指南](study-guide.md)
 - 五个方向的 `00-index`
 
 ## 参考 2：system-design-primer
@@ -35,9 +35,9 @@
 
 在本仓库里的落地：
 
-- [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- [系统设计案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
+- [系统设计答题法](how-to-approach-system-design.md)
+- [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- [系统设计案例](../../projects/design-case-studies/seckill-system.md)
 
 ## 参考 3：labuladong
 
@@ -53,9 +53,9 @@
 
 在本仓库里的落地：
 
-- [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-- [算法框架与训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-- [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+- [算法专题首页](../topics/algorithm/00-index.md)
+- [算法框架与训练法](../topics/algorithm/03-frameworks-and-drills.md)
+- [算法核心题清单](../../questions/algorithm/00-must-know.md)
 
 ## 参考 4：MLIR Getting Started / Toy Tutorial
 
@@ -72,9 +72,9 @@
 
 在本仓库里的落地：
 
-- [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-- [AI 编译器入门章节](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-- [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
+- [AI 编译器专题首页](../topics/ai-compiler/00-index.md)
+- [AI 编译器入门章节](../topics/ai-compiler/04-getting-started-and-chapters.md)
+- [AI 编译器答题法](how-to-approach-ai-compiler-interview.md)
 
 ## 改版原则
 

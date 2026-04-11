@@ -36,12 +36,12 @@
 
 ### 第三层：建议刷题顺序
 
-1. 先看 [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-2. 再看 [算法方法论](/Users/wizout/op/interview/docs/topics/algorithm/01-algorithm-methodology.md)
-3. 再看 [高频模式](/Users/wizout/op/interview/docs/topics/algorithm/02-common-patterns.md)
-4. 再看 [框架、例题和训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-5. 然后刷 [算法高频题](/Users/wizout/op/interview/questions/algorithm/high-frequency.md)
-6. 最后刷 [模式与 DP](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
+1. 先看 [算法专题首页](../../docs/topics/algorithm/00-index.md)
+2. 再看 [算法方法论](../../docs/topics/algorithm/01-algorithm-methodology.md)
+3. 再看 [高频模式](../../docs/topics/algorithm/02-common-patterns.md)
+4. 再看 [框架、例题和训练法](../../docs/topics/algorithm/03-frameworks-and-drills.md)
+5. 然后刷 [算法高频题](high-frequency.md)
+6. 最后刷 [模式与 DP](patterns-and-dp.md)
 
 ### 第四层：最小交付标准
 
@@ -93,11 +93,11 @@
 
 ## 关联知识点
 
-- [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-- [算法高频题](/Users/wizout/op/interview/questions/algorithm/high-frequency.md)
-- [算法进阶题](/Users/wizout/op/interview/questions/algorithm/patterns-and-dp.md)
-- [算法框架与训练法](/Users/wizout/op/interview/docs/topics/algorithm/03-frameworks-and-drills.md)
-- [基于本地题单的算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
-- [算法代表题清单](/Users/wizout/op/interview/questions/algorithm/labuladong-representative-problems.md)
-- [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
-- [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
+- [算法专题首页](../../docs/topics/algorithm/00-index.md)
+- [算法高频题](high-frequency.md)
+- [算法进阶题](patterns-and-dp.md)
+- [算法框架与训练法](../../docs/topics/algorithm/03-frameworks-and-drills.md)
+- [基于本地题单的算法模式地图](../../docs/topics/algorithm/05-labuladong-pattern-map.md)
+- [算法代表题清单](labuladong-representative-problems.md)
+- [算法口述速答包](../../practice/drills/algorithm-oral-pack.md)
+- [算法模式压测包](../../practice/drills/algorithm-pattern-pressure-pack.md)

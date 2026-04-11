@@ -118,8 +118,8 @@
 
 ## Day 14：压测与复盘
 
-- 跑 [OS 压测包](/Users/wizout/op/interview/practice/drills/os-pressure-pack.md)
-- 回看 [操作系统代表题清单](/Users/wizout/op/interview/questions/operating-system/representative-scenarios.md)
+- 跑 [OS 压测包](../../practice/drills/os-pressure-pack.md)
+- 回看 [操作系统代表题清单](../../questions/operating-system/representative-scenarios.md)
 
 输出：
 

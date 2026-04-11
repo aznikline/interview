@@ -44,7 +44,7 @@
 
 ## 关联知识点
 
-- [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
-- [LLM 高频题](/Users/wizout/op/interview/questions/llm/high-frequency.md)
-- [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
-- [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
+- [LLM 核心题清单](00-must-know.md)
+- [LLM 高频题](high-frequency.md)
+- [LLM 面试专题首页](../../docs/topics/llm/00-index.md)
+- [LLM 21 天计划](../../tracks/llm-interview-21d/README.md)

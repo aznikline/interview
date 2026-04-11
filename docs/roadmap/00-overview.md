@@ -1,6 +1,6 @@
 # 总路线图
 
-这份路线图不再只是“主题罗列”，而是和 [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md) 对齐的阶段图。
+这份路线图不再只是“主题罗列”，而是和 [Interview University 学习计划](../../tracks/interview-university/README.md) 对齐的阶段图。
 
 ## 适用岗位
 

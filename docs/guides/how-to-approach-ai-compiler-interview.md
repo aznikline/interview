@@ -87,7 +87,7 @@ runtime 更适合做在线决策和动态调度，但很多全局静态优化，
 
 ## 推荐结合仓库里的这些内容一起看
 
-- [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-- [AI 编译器入门章节](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-- [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-- [LLM 推理编译案例](/Users/wizout/op/interview/projects/ai-compiler-case-studies/llm-inference-compiler.md)
+- [AI 编译器专题首页](../topics/ai-compiler/00-index.md)
+- [AI 编译器入门章节](../topics/ai-compiler/04-getting-started-and-chapters.md)
+- [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md)
+- [LLM 推理编译案例](../../projects/ai-compiler-case-studies/llm-inference-compiler.md)

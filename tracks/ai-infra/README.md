@@ -25,11 +25,11 @@
 
 ### Week 1：先保底座
 
-- 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- 看 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- 看 [OS 场景地图](/Users/wizout/op/interview/docs/topics/operating-system/06-os-scenario-map.md)
-- 跑 [OS 14 天计划](/Users/wizout/op/interview/tracks/os-14d/README.md)
-- 跑 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
+- 看 [后端核心题清单](../../questions/backend/00-must-know.md)
+- 看 [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
+- 看 [OS 场景地图](../../docs/topics/operating-system/06-os-scenario-map.md)
+- 跑 [OS 14 天计划](../os-14d/README.md)
+- 跑 [OS 与 AI 编译器口述速答包](../../practice/drills/os-and-ai-compiler-oral-pack.md)
 
 最低输出：
 
@@ -38,9 +38,9 @@
 
 ### Week 2：AI Infra 主链路
 
-- 看 [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
-- 看 [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
-- 跑 [AI Infra 21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
+- 看 [AI Infra 专题首页](../../docs/topics/ai-infra/00-index.md)
+- 看 [AI Infra 核心题清单](../../questions/ai-infra/00-must-know.md)
+- 跑 [AI Infra 21 天计划](../ai-infra-21d/README.md)
 
 最低输出：
 
@@ -49,8 +49,8 @@
 
 ### Week 3：Serving 与系统设计
 
-- 看 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- 看 [LLM 推理与 Serving](/Users/wizout/op/interview/docs/topics/llm/03-llm-inference-and-serving.md)
+- 看 [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- 看 [LLM 推理与 Serving](../../docs/topics/llm/03-llm-inference-and-serving.md)
 - 对照 `external/ai-infra-sources/ai-infra-hpc` 和 `external/ai-infra-sources/OriginDL`
 
 最低输出：
@@ -60,9 +60,9 @@
 
 ### Week 4：Mock 与指标承压
 
-- 做 [AI Infra Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-infra.md)
-- 做 [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
-- 跑 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+- 做 [AI Infra Mock](../../practice/mock-interviews/ai-infra.md)
+- 做 [AI 编译器深挖 Mock](../../practice/mock-interviews/ai-compiler-deep-dive.md)
+- 跑 [追问压测包](../../practice/drills/follow-up-pressure-pack.md)
 
 最低输出：
 
@@ -77,11 +77,11 @@
 
 ## 只剩 7 天怎么压缩
 
-1. 先过 [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-2. 再过 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-3. 跑 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
-4. 做 [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
-5. 最后跑 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+1. 先过 [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md)
+2. 再过 [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
+3. 跑 [OS 与 AI 编译器口述速答包](../../practice/drills/os-and-ai-compiler-oral-pack.md)
+4. 做 [AI 编译器深挖 Mock](../../practice/mock-interviews/ai-compiler-deep-dive.md)
+5. 最后跑 [追问压测包](../../practice/drills/follow-up-pressure-pack.md)
 
 ## 最容易失分的地方
 

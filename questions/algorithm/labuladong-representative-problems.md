@@ -70,8 +70,8 @@
 
 ## 关联知识点
 
-- [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- [算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
-- [Quick Master 冲刺索引](/Users/wizout/op/interview/docs/topics/algorithm/06-quick-master-index.md)
-- [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
-- [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
+- [算法核心题清单](00-must-know.md)
+- [算法模式地图](../../docs/topics/algorithm/05-labuladong-pattern-map.md)
+- [Quick Master 冲刺索引](../../docs/topics/algorithm/06-quick-master-index.md)
+- [算法模式 14 天计划](../../tracks/algorithm-pattern-14d/README.md)
+- [算法模式压测包](../../practice/drills/algorithm-pattern-pressure-pack.md)

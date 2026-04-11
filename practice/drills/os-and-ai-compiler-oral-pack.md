@@ -76,7 +76,7 @@
 
 ## 推荐搭配
 
-- 看 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- 看 [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-- 做 [AI Infra Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-infra.md)
-- 做 [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
+- 看 [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
+- 看 [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md)
+- 做 [AI Infra Mock](../mock-interviews/ai-infra.md)
+- 做 [AI 编译器深挖 Mock](../mock-interviews/ai-compiler-deep-dive.md)

@@ -27,15 +27,15 @@
 
 可以直接用：
 
-- [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
-- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-- [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
-- [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
-- [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-- [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
-- [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
+- [后端核心题清单](../../questions/backend/00-must-know.md)
+- [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
+- [算法核心题清单](../../questions/algorithm/00-must-know.md)
+- [算法口述速答包](../../practice/drills/algorithm-oral-pack.md)
+- [操作系统核心题清单](../../questions/operating-system/00-must-know.md)
+- [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md)
+- [OS 与 AI 编译器口述速答包](../../practice/drills/os-and-ai-compiler-oral-pack.md)
+- [Last 24 Hours](last-24-hours.md)
 
 ## 原则 3：项目表达优先级拉满
 
@@ -68,12 +68,12 @@
 
 - 做系统设计和项目表达 mock
 - 修答案结构
-- 跑一轮 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+- 跑一轮 [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
 
 ### Day 5
 
 - 做 AI Infra / AI 编译器专题收口
-- 跑一轮 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
+- 跑一轮 [OS 与 AI 编译器口述速答包](../../practice/drills/os-and-ai-compiler-oral-pack.md)
 
 ### Day 6
 
@@ -92,7 +92,7 @@
 
 ## 最后 24 小时应该做什么
 
-- 回看 [Final Review Checklist](/Users/wizout/op/interview/tracks/interview-university/final-review.md)
+- 回看 [Final Review Checklist](final-review.md)
 - 回看核心题清单
 - 回看项目表达稿
 - 做一轮轻量口述

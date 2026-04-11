@@ -133,8 +133,8 @@
 
 ## 推荐搭配
 
-- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- [系统设计进阶题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
-- [系统设计代表题清单](/Users/wizout/op/interview/questions/system-design/representative-scenarios.md)
-- [系统设计 14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
-- [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
+- [系统设计核心题清单](../../../questions/system-design/00-must-know.md)
+- [系统设计进阶题](../../../questions/system-design/design-cases.md)
+- [系统设计代表题清单](../../../questions/system-design/representative-scenarios.md)
+- [系统设计 14 天计划](../../../tracks/system-design-14d/README.md)
+- [系统设计压测包](../../../practice/drills/system-design-pressure-pack.md)

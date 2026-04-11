@@ -16,19 +16,19 @@
 
 ## 推荐入口
 
-- [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-- [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-- [AI 编译器进阶题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
-- [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
-- [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
+- [AI 编译器专题首页](../../topics/ai-compiler/00-index.md)
+- [AI 编译器核心题清单](../../../questions/ai-compiler/00-must-know.md)
+- [AI 编译器进阶题](../../../questions/ai-compiler/deep-dive.md)
+- [OS 与 AI 编译器口述速答包](../../../practice/drills/os-and-ai-compiler-oral-pack.md)
+- [AI 编译器深挖 Mock](../../../practice/mock-interviews/ai-compiler-deep-dive.md)
 
 ## 正确起手顺序
 
-1. 先保住 [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-2. 再补 [编译原理基础、SSA 与数据流](/Users/wizout/op/interview/docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
-3. 再看 [IR、Lowering 与 Dialect](/Users/wizout/op/interview/docs/topics/ai-compiler/02-ir-lowering-and-dialects.md) 和 [Serving Runtime 与在线调度](/Users/wizout/op/interview/docs/topics/ai-compiler/05-serving-and-runtime-systems.md)
-4. 跑 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
-5. 做 [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md) 和 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+1. 先保住 [AI 编译器核心题清单](../../../questions/ai-compiler/00-must-know.md)
+2. 再补 [编译原理基础、SSA 与数据流](../../topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
+3. 再看 [IR、Lowering 与 Dialect](../../topics/ai-compiler/02-ir-lowering-and-dialects.md) 和 [Serving Runtime 与在线调度](../../topics/ai-compiler/05-serving-and-runtime-systems.md)
+4. 跑 [OS 与 AI 编译器口述速答包](../../../practice/drills/os-and-ai-compiler-oral-pack.md)
+5. 做 [AI 编译器深挖 Mock](../../../practice/mock-interviews/ai-compiler-deep-dive.md) 和 [追问压测包](../../../practice/drills/follow-up-pressure-pack.md)
 
 ## 必须先保住的题
 

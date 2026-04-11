@@ -7,26 +7,26 @@
 1. 回看你的弱项清单
 2. 过一轮高频题速答包
 3. 过一遍系统设计框架和项目故事
-4. 跑一轮 [追问压测包](/Users/wizout/op/interview/practice/drills/follow-up-pressure-pack.md)
+4. 跑一轮 [追问压测包](../../practice/drills/follow-up-pressure-pack.md)
 
 ## 40 分钟速看顺序
 
 ### 第 1 轮：后端与系统设计
 
-- 看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md) 的 `1 分钟速答表`
-- 看 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md) 的 `1 分钟速答表`
-- 跑一轮 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
+- 看 [后端核心题清单](../../questions/backend/00-must-know.md) 的 `1 分钟速答表`
+- 看 [系统设计核心题清单](../../questions/system-design/00-must-know.md) 的 `1 分钟速答表`
+- 跑一轮 [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
 
 ### 第 2 轮：算法
 
-- 看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md) 的 `1 分钟速答表`
-- 跑一轮 [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
+- 看 [算法核心题清单](../../questions/algorithm/00-must-know.md) 的 `1 分钟速答表`
+- 跑一轮 [算法口述速答包](../../practice/drills/algorithm-oral-pack.md)
 
 ### 第 3 轮：OS 与 AI 编译器
 
-- 看 [操作系统核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md) 的 `1 分钟速答表`
-- 看 [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md) 的 `1 分钟速答表`
-- 跑一轮 [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
+- 看 [操作系统核心题清单](../../questions/operating-system/00-must-know.md) 的 `1 分钟速答表`
+- 看 [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md) 的 `1 分钟速答表`
+- 跑一轮 [OS 与 AI 编译器口述速答包](../../practice/drills/os-and-ai-compiler-oral-pack.md)
 
 ## 现场前最后检查
 

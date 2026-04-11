@@ -10,12 +10,12 @@
 
 ### Day 1-2
 
-- [LLM 基础与术语](/Users/wizout/op/interview/docs/topics/llm/01-llm-foundations.md)
-- [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
+- [LLM 基础与术语](../../docs/topics/llm/01-llm-foundations.md)
+- [LLM 核心题清单](../../questions/llm/00-must-know.md)
 
 ### Day 3-4
 
-- [LLM 架构与训练](/Users/wizout/op/interview/docs/topics/llm/02-llm-architecture-and-training.md)
+- [LLM 架构与训练](../../docs/topics/llm/02-llm-architecture-and-training.md)
 - 对照 `external/llm-sources/llm_interview_note/02.大语言模型架构`
 
 ### Day 5-7
@@ -27,7 +27,7 @@
 
 ### Day 8-10
 
-- [LLM 推理与 Serving](/Users/wizout/op/interview/docs/topics/llm/03-llm-inference-and-serving.md)
+- [LLM 推理与 Serving](../../docs/topics/llm/03-llm-inference-and-serving.md)
 - 对照 `external/llm-sources/llm_interview_note/06.推理`
 
 ### Day 11-12
@@ -37,7 +37,7 @@
 
 ### Day 13-14
 
-- [RAG、Agent、MCP 与评估](/Users/wizout/op/interview/docs/topics/llm/04-rag-agent-eval.md)
+- [RAG、Agent、MCP 与评估](../../docs/topics/llm/04-rag-agent-eval.md)
 - 对照 `external/llm-sources/llm_interview_note/09.大语言模型评估`
 
 ## Week 3：RAG / Agent / MCP / 项目表达
@@ -54,7 +54,7 @@
 
 ### Day 20-21
 
-- 跑 [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+- 跑 [LLM 压测包](../../practice/drills/llm-pressure-pack.md)
 - 整理自己的项目表达和弱项清单
 
 ## 最小验收标准

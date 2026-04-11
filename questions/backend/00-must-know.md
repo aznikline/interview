@@ -44,10 +44,10 @@
 
 ### 建议刷题顺序
 
-1. 先看 [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
+1. 先看 [后端专题首页](../../docs/topics/backend/00-index.md)
 2. 再看 MySQL、Redis、MQ 三篇专题
-3. 再刷 [后端高频题](/Users/wizout/op/interview/questions/backend/high-frequency.md)
-4. 再刷 [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
+3. 再刷 [后端高频题](high-frequency.md)
+4. 再刷 [后端进阶题](distributed-and-db.md)
 5. 最后做 1 次 mock，把这些题串成链路
 
 ### 每题最低输出标准
@@ -98,11 +98,11 @@
 
 ## 关联知识点
 
-- [后端专题首页](/Users/wizout/op/interview/docs/topics/backend/00-index.md)
-- [后端高频题](/Users/wizout/op/interview/questions/backend/high-frequency.md)
-- [后端进阶题](/Users/wizout/op/interview/questions/backend/distributed-and-db.md)
-- [后端场景地图](/Users/wizout/op/interview/docs/topics/backend/08-backend-scenario-map.md)
-- [后端代表题清单](/Users/wizout/op/interview/questions/backend/representative-scenarios.md)
-- [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-- [后端场景压测包](/Users/wizout/op/interview/practice/drills/backend-scenario-pressure-pack.md)
+- [后端专题首页](../../docs/topics/backend/00-index.md)
+- [后端高频题](high-frequency.md)
+- [后端进阶题](distributed-and-db.md)
+- [后端场景地图](../../docs/topics/backend/08-backend-scenario-map.md)
+- [后端代表题清单](representative-scenarios.md)
+- [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
+- [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
+- [后端场景压测包](../../practice/drills/backend-scenario-pressure-pack.md)

@@ -33,11 +33,11 @@
 
 ### 第三层：建议练题顺序
 
-1. 先看 [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
-2. 再看 [系统设计方法论](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
-3. 再看 [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-4. 然后刷 [系统设计高频题](/Users/wizout/op/interview/questions/system-design/high-frequency.md)
-5. 再刷 [系统设计案例题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
+1. 先看 [系统设计专题首页](../../docs/topics/system-design/00-index.md)
+2. 再看 [系统设计方法论](../../docs/topics/system-design/01-system-design-methodology.md)
+3. 再看 [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
+4. 然后刷 [系统设计高频题](high-frequency.md)
+5. 再刷 [系统设计案例题](design-cases.md)
 6. 最后回到项目案例，补真实链路表达
 
 ### 第四层：最小交付标准
@@ -88,11 +88,11 @@
 
 ## 关联知识点
 
-- [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
-- [系统设计高频题](/Users/wizout/op/interview/questions/system-design/high-frequency.md)
-- [系统设计进阶题](/Users/wizout/op/interview/questions/system-design/design-cases.md)
-- [系统设计场景地图](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
-- [系统设计代表题清单](/Users/wizout/op/interview/questions/system-design/representative-scenarios.md)
-- [系统设计答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-system-design.md)
-- [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-- [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
+- [系统设计专题首页](../../docs/topics/system-design/00-index.md)
+- [系统设计高频题](high-frequency.md)
+- [系统设计进阶题](design-cases.md)
+- [系统设计场景地图](../../docs/topics/system-design/07-system-design-scenario-map.md)
+- [系统设计代表题清单](representative-scenarios.md)
+- [系统设计答题法](../../docs/guides/how-to-approach-system-design.md)
+- [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
+- [系统设计压测包](../../practice/drills/system-design-pressure-pack.md)

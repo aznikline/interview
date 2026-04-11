@@ -15,13 +15,13 @@
 
 ### 必读文档
 
-- [01-system-design-methodology.md](/Users/wizout/op/interview/docs/topics/system-design/01-system-design-methodology.md)
-- [02-cache-consistency-and-traffic.md](/Users/wizout/op/interview/docs/topics/system-design/02-cache-consistency-and-traffic.md)
-- [03-seckill-and-high-concurrency.md](/Users/wizout/op/interview/docs/topics/system-design/03-seckill-and-high-concurrency.md)
-- [04-search-and-messaging.md](/Users/wizout/op/interview/docs/topics/system-design/04-search-and-messaging.md)
-- [05-message-queue-and-serialization.md](/Users/wizout/op/interview/docs/topics/system-design/05-message-queue-and-serialization.md)
-- [06-rate-limiting-degradation-and-recovery.md](/Users/wizout/op/interview/docs/topics/system-design/06-rate-limiting-degradation-and-recovery.md)
-- [07-system-design-scenario-map.md](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
+- [01-system-design-methodology.md](01-system-design-methodology.md)
+- [02-cache-consistency-and-traffic.md](02-cache-consistency-and-traffic.md)
+- [03-seckill-and-high-concurrency.md](03-seckill-and-high-concurrency.md)
+- [04-search-and-messaging.md](04-search-and-messaging.md)
+- [05-message-queue-and-serialization.md](05-message-queue-and-serialization.md)
+- [06-rate-limiting-degradation-and-recovery.md](06-rate-limiting-degradation-and-recovery.md)
+- [07-system-design-scenario-map.md](07-system-design-scenario-map.md)
 
 ## 高频问法
 
@@ -38,8 +38,8 @@
 
 ## 下一步
 
-- 刷 [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- 刷 [系统设计代表题清单](/Users/wizout/op/interview/questions/system-design/representative-scenarios.md)
-- 跑 [系统设计 14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
-- 跑 [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
-- 看 [系统设计案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
+- 刷 [系统设计核心题清单](../../../questions/system-design/00-must-know.md)
+- 刷 [系统设计代表题清单](../../../questions/system-design/representative-scenarios.md)
+- 跑 [系统设计 14 天计划](../../../tracks/system-design-14d/README.md)
+- 跑 [系统设计压测包](../../../practice/drills/system-design-pressure-pack.md)
+- 看 [系统设计案例](../../../projects/design-case-studies/seckill-system.md)

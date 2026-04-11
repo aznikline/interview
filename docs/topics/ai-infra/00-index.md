@@ -16,10 +16,10 @@ AI Infra 面试不等于 LLM 八股，也不等于 AI 编译器。它更像一�
 
 ### 必读文档
 
-- [01-cuda-and-gpu-basics.md](/Users/wizout/op/interview/docs/topics/ai-infra/01-cuda-and-gpu-basics.md)
-- [02-communication-and-parallelism.md](/Users/wizout/op/interview/docs/topics/ai-infra/02-communication-and-parallelism.md)
-- [03-training-and-serving-systems.md](/Users/wizout/op/interview/docs/topics/ai-infra/03-training-and-serving-systems.md)
-- [04-local-source-map.md](/Users/wizout/op/interview/docs/topics/ai-infra/04-local-source-map.md)
+- [01-cuda-and-gpu-basics.md](01-cuda-and-gpu-basics.md)
+- [02-communication-and-parallelism.md](02-communication-and-parallelism.md)
+- [03-training-and-serving-systems.md](03-training-and-serving-systems.md)
+- [04-local-source-map.md](04-local-source-map.md)
 
 ### 学完后应该具备什么能力
 
@@ -44,7 +44,7 @@ AI Infra 面试不等于 LLM 八股，也不等于 AI 编译器。它更像一�
 
 ## 下一步
 
-- 刷 [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
-- 刷 [AI Infra 代表题清单](/Users/wizout/op/interview/questions/ai-infra/representative-scenarios.md)
-- 跑 [AI Infra 21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
-- 跑 [AI Infra 压测包](/Users/wizout/op/interview/practice/drills/ai-infra-pressure-pack.md)
+- 刷 [AI Infra 核心题清单](../../../questions/ai-infra/00-must-know.md)
+- 刷 [AI Infra 代表题清单](../../../questions/ai-infra/representative-scenarios.md)
+- 跑 [AI Infra 21 天计划](../../../tracks/ai-infra-21d/README.md)
+- 跑 [AI Infra 压测包](../../../practice/drills/ai-infra-pressure-pack.md)

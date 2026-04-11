@@ -16,11 +16,11 @@ LLM 面试不是只问 Transformer 结构，也不是只问推理框架。真正
 
 ### 必读文档
 
-- [01-llm-foundations.md](/Users/wizout/op/interview/docs/topics/llm/01-llm-foundations.md)
-- [02-llm-architecture-and-training.md](/Users/wizout/op/interview/docs/topics/llm/02-llm-architecture-and-training.md)
-- [03-llm-inference-and-serving.md](/Users/wizout/op/interview/docs/topics/llm/03-llm-inference-and-serving.md)
-- [04-rag-agent-eval.md](/Users/wizout/op/interview/docs/topics/llm/04-rag-agent-eval.md)
-- [05-llm-local-source-map.md](/Users/wizout/op/interview/docs/topics/llm/05-llm-local-source-map.md)
+- [01-llm-foundations.md](01-llm-foundations.md)
+- [02-llm-architecture-and-training.md](02-llm-architecture-and-training.md)
+- [03-llm-inference-and-serving.md](03-llm-inference-and-serving.md)
+- [04-rag-agent-eval.md](04-rag-agent-eval.md)
+- [05-llm-local-source-map.md](05-llm-local-source-map.md)
 
 ### 学完后应该具备什么能力
 
@@ -44,7 +44,7 @@ LLM 面试不是只问 Transformer 结构，也不是只问推理框架。真正
 
 ## 下一步
 
-- 刷 [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
-- 刷 [LLM 代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)
-- 跑 [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
-- 跑 [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+- 刷 [LLM 核心题清单](../../../questions/llm/00-must-know.md)
+- 刷 [LLM 代表题清单](../../../questions/llm/representative-scenarios.md)
+- 跑 [LLM 21 天计划](../../../tracks/llm-interview-21d/README.md)
+- 跑 [LLM 压测包](../../../practice/drills/llm-pressure-pack.md)

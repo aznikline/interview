@@ -19,16 +19,16 @@
 
 ### 01. LLM / RAG / MCP / 从零实现
 
-- [llm_interview_note](/Users/wizout/op/interview/references/llm_interview_note)
-- [tiny-llm-zh](/Users/wizout/op/interview/references/tiny-llm-zh)
-- [tiny-rag](/Users/wizout/op/interview/references/tiny-rag)
-- [tiny-mcp](/Users/wizout/op/interview/references/tiny-mcp)
-- [llama3-from-scratch-zh](/Users/wizout/op/interview/references/llama3-from-scratch-zh)
+- [llm_interview_note](../../references/llm_interview_note)
+- [tiny-llm-zh](../../references/tiny-llm-zh)
+- [tiny-rag](../../references/tiny-rag)
+- [tiny-mcp](../../references/tiny-mcp)
+- [llama3-from-scratch-zh](../../references/llama3-from-scratch-zh)
 
 ### 02. CUDA / AI Infra / 框架实现
 
-- [ai-infra-hpc](/Users/wizout/op/interview/references/ai-infra-hpc)
-- [OriginDL](/Users/wizout/op/interview/references/OriginDL)
+- [ai-infra-hpc](../../references/ai-infra-hpc)
+- [OriginDL](../../references/OriginDL)
 
 ## 推荐使用方式
 
@@ -36,18 +36,18 @@
 
 先走手册层：
 
-- [Start Here](/Users/wizout/op/interview/docs/START-HERE.md)
-- [总路线图](/Users/wizout/op/interview/docs/roadmap/00-overview.md)
+- [Start Here](../START-HERE.md)
+- [总路线图](../roadmap/00-overview.md)
 - 对应领域的 `专题首页 -> 核心题清单 -> 代表题清单 -> 路线 -> 压测包`
 
 ### 如果你要看完整原始目录
 
 直接走参考层：
 
-- [LLM 参考源索引](/Users/wizout/op/interview/docs/reference/01-llm-source-index.md)
-- [AI Infra 参考源索引](/Users/wizout/op/interview/docs/reference/02-ai-infra-source-index.md)
+- [LLM 参考源索引](01-llm-source-index.md)
+- [AI Infra 参考源索引](02-ai-infra-source-index.md)
 
 ### 如果你要重新拉取外部仓库
 
-- [bootstrap_llm_sources.sh](/Users/wizout/op/interview/scripts/bootstrap_llm_sources.sh)
-- [bootstrap_ai_infra_sources.sh](/Users/wizout/op/interview/scripts/bootstrap_ai_infra_sources.sh)
+- [bootstrap_llm_sources.sh](../../scripts/bootstrap_llm_sources.sh)
+- [bootstrap_ai_infra_sources.sh](../../scripts/bootstrap_ai_infra_sources.sh)

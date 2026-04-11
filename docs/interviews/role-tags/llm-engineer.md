@@ -14,16 +14,16 @@
 
 ## 推荐入口
 
-- [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
-- [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
-- [LLM 代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)
-- [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
-- [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+- [LLM 面试专题首页](../../topics/llm/00-index.md)
+- [LLM 核心题清单](../../../questions/llm/00-must-know.md)
+- [LLM 代表题清单](../../../questions/llm/representative-scenarios.md)
+- [LLM 21 天计划](../../../tracks/llm-interview-21d/README.md)
+- [LLM 压测包](../../../practice/drills/llm-pressure-pack.md)
 
 ## 正确起手顺序
 
-1. 先过 [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
-2. 再过 [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
+1. 先过 [LLM 核心题清单](../../../questions/llm/00-must-know.md)
+2. 再过 [LLM 面试专题首页](../../topics/llm/00-index.md)
 3. 再对照本地 `external/llm-sources` 里的参考仓库补源码和案例
-4. 跑 [LLM 21 天计划](/Users/wizout/op/interview/tracks/llm-interview-21d/README.md)
-5. 最后跑 [LLM 压测包](/Users/wizout/op/interview/practice/drills/llm-pressure-pack.md)
+4. 跑 [LLM 21 天计划](../../../tracks/llm-interview-21d/README.md)
+5. 最后跑 [LLM 压测包](../../../practice/drills/llm-pressure-pack.md)

@@ -7,7 +7,7 @@
 
 ## Day 1：进程、线程、调度
 
-- 阅读 [01-os-core.md](/Users/wizout/op/interview/docs/topics/operating-system/01-os-core.md)
+- 阅读 [01-os-core.md](../../docs/topics/operating-system/01-os-core.md)
 - 聚焦：
   - 进程 vs 线程
   - 上下文切换
@@ -16,7 +16,7 @@
 
 ## Day 2：虚拟内存
 
-- 阅读 [02-memory-and-io.md](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
+- 阅读 [02-memory-and-io.md](../../docs/topics/operating-system/02-memory-and-io.md)
 - 聚焦：
   - 虚拟内存
   - 页表
@@ -26,7 +26,7 @@
 
 ## Day 3：I/O 与多路复用
 
-- 阅读 [02-memory-and-io.md](/Users/wizout/op/interview/docs/topics/operating-system/02-memory-and-io.md)
+- 阅读 [02-memory-and-io.md](../../docs/topics/operating-system/02-memory-and-io.md)
 - 聚焦：
   - 阻塞 / 非阻塞
   - select / poll / epoll
@@ -35,7 +35,7 @@
 
 ## Day 4：零拷贝与大流量
 
-- 回看 [OS 核心题清单](/Users/wizout/op/interview/questions/operating-system/00-must-know.md)
+- 回看 [OS 核心题清单](../../questions/operating-system/00-must-know.md)
 - 聚焦：
   - zero-copy
   - sendfile
@@ -44,7 +44,7 @@
 
 ## Day 5：锁、内存模型、false sharing
 
-- 阅读 [03-concurrency-and-scheduling.md](/Users/wizout/op/interview/docs/topics/operating-system/03-concurrency-and-scheduling.md)
+- 阅读 [03-concurrency-and-scheduling.md](../../docs/topics/operating-system/03-concurrency-and-scheduling.md)
 - 聚焦：
   - 锁竞争
   - 内存屏障
@@ -53,7 +53,7 @@
 
 ## Day 6：和后端问题联动
 
-- 回看 [后端核心题清单](/Users/wizout/op/interview/questions/backend/00-must-know.md)
+- 回看 [后端核心题清单](../../questions/backend/00-must-know.md)
 - 把 OS 问题挂到：
   - 网络服务
   - 高并发请求
@@ -63,8 +63,8 @@
 
 ## Day 7：口述与复盘
 
-- 刷 [OS 高频题](/Users/wizout/op/interview/questions/operating-system/high-frequency.md)
-- 刷 [并发与内存题](/Users/wizout/op/interview/questions/operating-system/concurrency-and-memory.md)
+- 刷 [OS 高频题](../../questions/operating-system/high-frequency.md)
+- 刷 [并发与内存题](../../questions/operating-system/concurrency-and-memory.md)
 - 输出：
   - `8-10` 个 OS 高频题答案
   - 一份最薄弱 OS 概念清单

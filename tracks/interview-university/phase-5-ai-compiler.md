@@ -16,18 +16,18 @@
 
 ## 推荐学习顺序
 
-1. [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-2. [AI 编译器整体链路](/Users/wizout/op/interview/docs/topics/ai-compiler/01-ai-compiler-core.md)
-3. [IR、lowering 与 dialect](/Users/wizout/op/interview/docs/topics/ai-compiler/02-ir-lowering-and-dialects.md)
-4. [kernel、fusion 与 runtime](/Users/wizout/op/interview/docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
-5. [入门与章节推进](/Users/wizout/op/interview/docs/topics/ai-compiler/04-getting-started-and-chapters.md)
-6. [AI 编译器答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
-7. [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-8. [AI 编译器高频题](/Users/wizout/op/interview/questions/ai-compiler/high-frequency.md)
-9. [AI 编译器深挖题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
-10. [LLM 推理编译案例](/Users/wizout/op/interview/projects/ai-compiler-case-studies/llm-inference-compiler.md)
-11. [runtime 调度案例](/Users/wizout/op/interview/projects/ai-compiler-case-studies/runtime-scheduling.md)
-12. [项目表达稿](/Users/wizout/op/interview/projects/ai-compiler-case-studies/project-storytelling.md)
+1. [AI 编译器专题首页](../../docs/topics/ai-compiler/00-index.md)
+2. [AI 编译器整体链路](../../docs/topics/ai-compiler/01-ai-compiler-core.md)
+3. [IR、lowering 与 dialect](../../docs/topics/ai-compiler/02-ir-lowering-and-dialects.md)
+4. [kernel、fusion 与 runtime](../../docs/topics/ai-compiler/03-kernel-fusion-and-runtime.md)
+5. [入门与章节推进](../../docs/topics/ai-compiler/04-getting-started-and-chapters.md)
+6. [AI 编译器答题法](../../docs/guides/how-to-approach-ai-compiler-interview.md)
+7. [AI 编译器核心题清单](../../questions/ai-compiler/00-must-know.md)
+8. [AI 编译器高频题](../../questions/ai-compiler/high-frequency.md)
+9. [AI 编译器深挖题](../../questions/ai-compiler/deep-dive.md)
+10. [LLM 推理编译案例](../../projects/ai-compiler-case-studies/llm-inference-compiler.md)
+11. [runtime 调度案例](../../projects/ai-compiler-case-studies/runtime-scheduling.md)
+12. [项目表达稿](../../projects/ai-compiler-case-studies/project-storytelling.md)
 
 ## 这阶段必须拿下的核心问题
 
@@ -56,7 +56,7 @@
 
 ### 输出 3：mock
 
-至少完成一次 [ai-infra.md](/Users/wizout/op/interview/practice/mock-interviews/ai-infra.md) 或 [ai-compiler-deep-dive.md](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)。
+至少完成一次 [ai-infra.md](../../practice/mock-interviews/ai-infra.md) 或 [ai-compiler-deep-dive.md](../../practice/mock-interviews/ai-compiler-deep-dive.md)。
 
 ## 退出条件
 

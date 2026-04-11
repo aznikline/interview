@@ -7,8 +7,8 @@
 - 后端核心题清单
 - OS 核心题清单
 - 算法核心题清单
-- 跑 [后端与系统设计口述速答包](/Users/wizout/op/interview/practice/drills/backend-and-system-design-oral-pack.md)
-- 跑 [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
+- 跑 [后端与系统设计口述速答包](../../practice/drills/backend-and-system-design-oral-pack.md)
+- 跑 [算法口述速答包](../../practice/drills/algorithm-oral-pack.md)
 
 输出：
 
@@ -29,7 +29,7 @@
 
 - 做一轮 mock
 - 只看弱项清单
-- 看 [Last 24 Hours](/Users/wizout/op/interview/tracks/interview-university/last-24-hours.md)
+- 看 [Last 24 Hours](last-24-hours.md)
 
 输出：
 

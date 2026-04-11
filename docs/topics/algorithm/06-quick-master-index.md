@@ -2,7 +2,7 @@
 
 ## 1 分钟速答
 
-如果说 [算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md) 解决的是“先学什么”，那这份 `Quick Master` 冲刺索引解决的是“最后一轮怎么压缩”。它更像算法冲刺版目录，题型更集中，适合面试前反复口述和做代表题。
+如果说 [算法模式地图](05-labuladong-pattern-map.md) 解决的是“先学什么”，那这份 `Quick Master` 冲刺索引解决的是“最后一轮怎么压缩”。它更像算法冲刺版目录，题型更集中，适合面试前反复口述和做代表题。
 
 ## 核心机制
 
@@ -74,7 +74,7 @@
 
 ## 推荐搭配
 
-- [基于本地题单的算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
-- [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
-- [算法代表题清单](/Users/wizout/op/interview/questions/algorithm/labuladong-representative-problems.md)
-- [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
+- [基于本地题单的算法模式地图](05-labuladong-pattern-map.md)
+- [算法模式 14 天计划](../../../tracks/algorithm-pattern-14d/README.md)
+- [算法代表题清单](../../../questions/algorithm/labuladong-representative-problems.md)
+- [算法模式压测包](../../../practice/drills/algorithm-pattern-pressure-pack.md)

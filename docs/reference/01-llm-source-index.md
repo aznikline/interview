@@ -4,7 +4,7 @@
 
 本地路径：
 
-- [references/llm_interview_note](/Users/wizout/op/interview/references/llm_interview_note)
+- [references/llm_interview_note](../../references/llm_interview_note)
 
 核心章节：
 
@@ -30,7 +30,7 @@
 
 本地路径：
 
-- [references/tiny-llm-zh](/Users/wizout/op/interview/references/tiny-llm-zh)
+- [references/tiny-llm-zh](../../references/tiny-llm-zh)
 
 核心目录：
 
@@ -48,7 +48,7 @@
 
 本地路径：
 
-- [references/tiny-rag](/Users/wizout/op/interview/references/tiny-rag)
+- [references/tiny-rag](../../references/tiny-rag)
 
 核心目录：
 
@@ -64,7 +64,7 @@
 
 本地路径：
 
-- [references/tiny-mcp](/Users/wizout/op/interview/references/tiny-mcp)
+- [references/tiny-mcp](../../references/tiny-mcp)
 
 核心目录：
 
@@ -80,7 +80,7 @@
 
 本地路径：
 
-- [references/llama3-from-scratch-zh](/Users/wizout/op/interview/references/llama3-from-scratch-zh)
+- [references/llama3-from-scratch-zh](../../references/llama3-from-scratch-zh)
 
 核心目录：
 

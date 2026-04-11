@@ -29,7 +29,7 @@
 
 建议入口：
 
-- [网络与协议基础](/Users/wizout/op/interview/docs/topics/backend/05-network-and-protocols.md)
+- [网络与协议基础](../../docs/topics/backend/05-network-and-protocols.md)
 
 ## Topic 2: 搜索与索引
 
@@ -47,7 +47,7 @@
 
 建议入口：
 
-- [搜索、索引与消息系统设计](/Users/wizout/op/interview/docs/topics/system-design/04-search-and-messaging.md)
+- [搜索、索引与消息系统设计](../../docs/topics/system-design/04-search-and-messaging.md)
 
 ## Topic 3: 更深入的数据库内部机制
 
@@ -65,7 +65,7 @@
 
 建议入口：
 
-- [存储引擎、日志与刷盘机制](/Users/wizout/op/interview/docs/topics/backend/06-storage-engines-and-logs.md)
+- [存储引擎、日志与刷盘机制](../../docs/topics/backend/06-storage-engines-and-logs.md)
 
 ## Topic 4: 消息、序列化与队列系统
 
@@ -83,7 +83,7 @@
 
 建议入口：
 
-- [消息队列、消费模型与序列化](/Users/wizout/op/interview/docs/topics/system-design/05-message-queue-and-serialization.md)
+- [消息队列、消费模型与序列化](../../docs/topics/system-design/05-message-queue-and-serialization.md)
 
 ## Topic 5: 编译原理基础
 
@@ -100,7 +100,7 @@
 
 建议入口：
 
-- [编译原理基础、SSA 与数据流](/Users/wizout/op/interview/docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
+- [编译原理基础、SSA 与数据流](../../docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md)
 
 ## Topic 6: Linux 工具链与排障
 
@@ -119,7 +119,7 @@
 
 建议入口：
 
-- [Linux 可观测性与性能排障](/Users/wizout/op/interview/docs/topics/operating-system/04-linux-observability-and-tuning.md)
+- [Linux 可观测性与性能排障](../../docs/topics/operating-system/04-linux-observability-and-tuning.md)
 
 ## Topic 7: Runtime 调度与 Serving
 
@@ -137,7 +137,7 @@
 
 建议入口：
 
-- [Serving Runtime 与在线调度](/Users/wizout/op/interview/docs/topics/ai-compiler/05-serving-and-runtime-systems.md)
+- [Serving Runtime 与在线调度](../../docs/topics/ai-compiler/05-serving-and-runtime-systems.md)
 
 ## 学 Optional Topics 的顺序建议
 
@@ -150,8 +150,8 @@
 
 建议继续延伸：
 
-- [分布式事务、补偿与一致性取舍](/Users/wizout/op/interview/docs/topics/backend/07-distributed-transactions-and-compensation.md)
-- [可靠性与高并发深水区 Drill](/Users/wizout/op/interview/practice/drills/reliability-deep-dive.md)
+- [分布式事务、补偿与一致性取舍](../../docs/topics/backend/07-distributed-transactions-and-compensation.md)
+- [可靠性与高并发深水区 Drill](../../practice/drills/reliability-deep-dive.md)
 
 ### 如果你偏 AI Infra / AI 编译器
 

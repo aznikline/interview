@@ -14,7 +14,7 @@
 
 ## Day 1：数组双指针
 
-- 看 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
+- 看 [算法核心题清单](../../questions/algorithm/00-must-know.md)
 - 练两端夹逼、快慢指针、原地去重
 - 代表题：两数之和、三数之和、移除重复元素
 
@@ -24,7 +24,7 @@
 
 ## Day 2：滑动窗口
 
-- 看 [算法模式地图](/Users/wizout/op/interview/docs/topics/algorithm/05-labuladong-pattern-map.md)
+- 看 [算法模式地图](../../docs/topics/algorithm/05-labuladong-pattern-map.md)
 - 练最小覆盖子串、无重复最长子串
 - 补窗口合法性和收缩条件
 
@@ -133,8 +133,8 @@
 
 ## Day 14：口述与压测
 
-- 跑 [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
-- 跑 [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
+- 跑 [算法口述速答包](../../practice/drills/algorithm-oral-pack.md)
+- 跑 [算法模式压测包](../../practice/drills/algorithm-pattern-pressure-pack.md)
 - 只看你的弱项清单
 
 输出：

@@ -7,20 +7,20 @@
 
 ## Week 1：CUDA 与 GPU 基础
 
-- [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
-- [CUDA 与 GPU 基础](/Users/wizout/op/interview/docs/topics/ai-infra/01-cuda-and-gpu-basics.md)
-- [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
+- [AI Infra 专题首页](../../docs/topics/ai-infra/00-index.md)
+- [CUDA 与 GPU 基础](../../docs/topics/ai-infra/01-cuda-and-gpu-basics.md)
+- [AI Infra 核心题清单](../../questions/ai-infra/00-must-know.md)
 
 ## Week 2：通信、并行、训练
 
-- [通信、互联与训练并行](/Users/wizout/op/interview/docs/topics/ai-infra/02-communication-and-parallelism.md)
+- [通信、互联与训练并行](../../docs/topics/ai-infra/02-communication-and-parallelism.md)
 - 对照 `external/ai-infra-sources/ai-infra-hpc`
 - 对照 `external/ai-infra-sources/OriginDL`
 
 ## Week 3：推理、Serving 与项目表达
 
-- [训练系统与 Serving](/Users/wizout/op/interview/docs/topics/ai-infra/03-training-and-serving-systems.md)
-- [AI Infra 压测包](/Users/wizout/op/interview/practice/drills/ai-infra-pressure-pack.md)
+- [训练系统与 Serving](../../docs/topics/ai-infra/03-training-and-serving-systems.md)
+- [AI Infra 压测包](../../practice/drills/ai-infra-pressure-pack.md)
 
 ## 最小验收标准
 

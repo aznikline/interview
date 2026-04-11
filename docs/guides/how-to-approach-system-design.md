@@ -98,7 +98,7 @@
 
 ## 推荐结合仓库里的这些内容一起练
 
-- [系统设计专题首页](/Users/wizout/op/interview/docs/topics/system-design/00-index.md)
-- [系统设计核心题清单](/Users/wizout/op/interview/questions/system-design/00-must-know.md)
-- [秒杀系统案例](/Users/wizout/op/interview/projects/design-case-studies/seckill-system.md)
-- [Feed 系统案例](/Users/wizout/op/interview/projects/design-case-studies/feed-system.md)
+- [系统设计专题首页](../topics/system-design/00-index.md)
+- [系统设计核心题清单](../../questions/system-design/00-must-know.md)
+- [秒杀系统案例](../../projects/design-case-studies/seckill-system.md)
+- [Feed 系统案例](../../projects/design-case-studies/feed-system.md)

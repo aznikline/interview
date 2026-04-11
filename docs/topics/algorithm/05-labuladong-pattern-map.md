@@ -70,7 +70,7 @@
 9. 经典 DP
 10. 贪心、分治、数学补漏
 
-这条线和你仓库里现有的 [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md) 是一致的，只是现在更明确了“按什么顺序刷模式”。
+这条线和你仓库里现有的 [算法核心题清单](../../../questions/algorithm/00-must-know.md) 是一致的，只是现在更明确了“按什么顺序刷模式”。
 
 ## 高频问法
 
@@ -88,8 +88,8 @@
 
 ## 推荐搭配
 
-- [算法专题首页](/Users/wizout/op/interview/docs/topics/algorithm/00-index.md)
-- [算法核心题清单](/Users/wizout/op/interview/questions/algorithm/00-must-know.md)
-- [算法口述速答包](/Users/wizout/op/interview/practice/drills/algorithm-oral-pack.md)
-- [算法模式压测包](/Users/wizout/op/interview/practice/drills/algorithm-pattern-pressure-pack.md)
-- [算法模式 14 天计划](/Users/wizout/op/interview/tracks/algorithm-pattern-14d/README.md)
+- [算法专题首页](00-index.md)
+- [算法核心题清单](../../../questions/algorithm/00-must-know.md)
+- [算法口述速答包](../../../practice/drills/algorithm-oral-pack.md)
+- [算法模式压测包](../../../practice/drills/algorithm-pattern-pressure-pack.md)
+- [算法模式 14 天计划](../../../tracks/algorithm-pattern-14d/README.md)
