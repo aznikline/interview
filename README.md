@@ -70,6 +70,13 @@
 - [AI Infra](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
 - [AI 编译器](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
 
+如果你更想直接按短课程开练，也可以走这些路线：
+
+- [校招路线](/Users/wizout/op/interview/tracks/campus/README.md)
+- [社招路线](/Users/wizout/op/interview/tracks/social-hire/README.md)
+- [基础架构 / 平台路线](/Users/wizout/op/interview/tracks/infrastructure-platform/README.md)
+- [AI Infra 路线](/Users/wizout/op/interview/tracks/ai-infra/README.md)
+
 ### 1. 从总学习计划开始
 
 先看 [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md)。

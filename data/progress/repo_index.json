@@ -2,11 +2,11 @@
   "counts": {
     "topic_docs": 33,
     "question_sets": 15,
-    "track_docs": 24,
+    "track_docs": 25,
     "practice_docs": 16,
     "project_docs": 6,
     "source_entries": 22,
-    "total_markdown_files": 94
+    "total_markdown_files": 95
   },
   "domains": {
     "topics": {
@@ -118,6 +118,7 @@
     "tracks": [
       "tracks/ai-infra/README.md",
       "tracks/campus/README.md",
+      "tracks/infrastructure-platform/README.md",
       "tracks/interview-university/README.md",
       "tracks/interview-university/ai-compiler-week-plan.md",
       "tracks/interview-university/algorithm-week-plan.md",
