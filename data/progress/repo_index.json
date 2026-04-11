@@ -1,16 +1,17 @@
 {
   "counts": {
-    "topic_docs": 44,
-    "question_sets": 22,
-    "track_docs": 31,
-    "practice_docs": 21,
+    "topic_docs": 49,
+    "question_sets": 25,
+    "track_docs": 32,
+    "practice_docs": 22,
     "project_docs": 6,
-    "source_entries": 27,
-    "total_markdown_files": 124
+    "source_entries": 29,
+    "total_markdown_files": 134
   },
   "domains": {
     "topics": {
       "ai-compiler": 7,
+      "ai-infra": 5,
       "algorithm": 7,
       "backend": 9,
       "llm": 6,
@@ -19,6 +20,7 @@
     },
     "questions": {
       "ai-compiler": 3,
+      "ai-infra": 3,
       "algorithm": 4,
       "backend": 4,
       "llm": 3,
@@ -26,7 +28,7 @@
       "system-design": 4
     },
     "practice": {
-      "drills": 12,
+      "drills": 13,
       "flashcards": 1,
       "mock-interviews": 6,
       "weekly-reviews": 2
@@ -42,6 +44,11 @@
       "topics": 7,
       "questions": 3,
       "projects": 3
+    },
+    "ai-infra": {
+      "topics": 5,
+      "questions": 3,
+      "projects": 0
     },
     "algorithm": {
       "topics": 7,
@@ -78,6 +85,11 @@
       "docs/topics/ai-compiler/04-getting-started-and-chapters.md",
       "docs/topics/ai-compiler/05-serving-and-runtime-systems.md",
       "docs/topics/ai-compiler/06-compiler-fundamentals-and-ssa.md",
+      "docs/topics/ai-infra/00-index.md",
+      "docs/topics/ai-infra/01-cuda-and-gpu-basics.md",
+      "docs/topics/ai-infra/02-communication-and-parallelism.md",
+      "docs/topics/ai-infra/03-training-and-serving-systems.md",
+      "docs/topics/ai-infra/04-local-source-map.md",
       "docs/topics/algorithm/00-index.md",
       "docs/topics/algorithm/01-algorithm-methodology.md",
       "docs/topics/algorithm/02-common-patterns.md",
@@ -120,6 +132,9 @@
       "questions/ai-compiler/00-must-know.md",
       "questions/ai-compiler/deep-dive.md",
       "questions/ai-compiler/high-frequency.md",
+      "questions/ai-infra/00-must-know.md",
+      "questions/ai-infra/high-frequency.md",
+      "questions/ai-infra/representative-scenarios.md",
       "questions/algorithm/00-must-know.md",
       "questions/algorithm/high-frequency.md",
       "questions/algorithm/labuladong-representative-problems.md",
@@ -142,6 +157,7 @@
     ],
     "tracks": [
       "tracks/ai-infra/README.md",
+      "tracks/ai-infra-21d/README.md",
       "tracks/algorithm-pattern-14d/README.md",
       "tracks/backend-scenario-14d/README.md",
       "tracks/campus/README.md",
@@ -175,6 +191,7 @@
     ],
     "practice": [
       "practice/drills/7-day-rescue-plan.md",
+      "practice/drills/ai-infra-pressure-pack.md",
       "practice/drills/algorithm-oral-pack.md",
       "practice/drills/algorithm-pattern-pressure-pack.md",
       "practice/drills/backend-and-system-design-oral-pack.md",

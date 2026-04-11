@@ -29,12 +29,17 @@
   - [代表题清单](/Users/wizout/op/interview/questions/system-design/representative-scenarios.md)
   - [场景地图](/Users/wizout/op/interview/docs/topics/system-design/07-system-design-scenario-map.md)
   - [14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
-- 05. AI Infra / AI 编译器
+- 05. AI Infra
+  - [专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
+  - [核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
+  - [代表题清单](/Users/wizout/op/interview/questions/ai-infra/representative-scenarios.md)
+  - [21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
+- 05A. AI 编译器
   - [专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
   - [核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
   - [进阶题](/Users/wizout/op/interview/questions/ai-compiler/deep-dive.md)
   - [答题法](/Users/wizout/op/interview/docs/guides/how-to-approach-ai-compiler-interview.md)
-- 05A. LLM 面试
+- 05B. LLM 面试
   - [专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
   - [核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
   - [代表题清单](/Users/wizout/op/interview/questions/llm/representative-scenarios.md)

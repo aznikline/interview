@@ -67,10 +67,10 @@
 先走：
 
 1. [AI Infra 角色入口](/Users/wizout/op/interview/docs/interviews/role-tags/ai-infra.md)
-2. [AI 编译器角色入口](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
-3. [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
-4. [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
-5. [Interview University 学习计划](/Users/wizout/op/interview/tracks/interview-university/README.md) 的阶段 5-6
+2. [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
+3. [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
+4. [AI 编译器角色入口](/Users/wizout/op/interview/docs/interviews/role-tags/ai-compiler.md)
+5. [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
 
 ## 如果你时间很少
 

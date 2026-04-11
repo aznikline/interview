@@ -20,6 +20,8 @@
 | RAG 实践 | wdndev/tiny-rag | [GitHub](https://github.com/wdndev/tiny-rag) | RAG、多路召回、重排和检索链路参考 |
 | MCP 实践 | wdndev/tiny-mcp | [GitHub](https://github.com/wdndev/tiny-mcp) | MCP server/client、协议、工具调用实践参考 |
 | LLM 源码实现 | wdndev/llama3-from-scratch-zh | [GitHub](https://github.com/wdndev/llama3-from-scratch-zh) | 从零实现 Llama3 的源码与讲解参考 |
+| AI Infra / CUDA | jinbooooom/ai-infra-hpc | [GitHub](https://github.com/jinbooooom/ai-infra-hpc) | CUDA、通信、HPC、AI Infra 训练实践参考 |
+| AI Infra / 框架实现 | jinbooooom/OriginDL | [GitHub](https://github.com/jinbooooom/OriginDL) | 从零实现深度学习框架、自动微分、CUDA matmul 参考 |
 | AI 编译器 | llvm/llvm-project | [GitHub](https://github.com/llvm/llvm-project) | MLIR 一手仓库 |
 | AI 编译器 | MLIR 官方文档 | [mlir.llvm.org/docs](https://mlir.llvm.org/docs/) | IR、dialect、pass、conversion 官方资料 |
 | AI 编译器教程 | MLIR Getting Started | [mlir.llvm.org](https://mlir.llvm.org/getting_started/) | 入门章节和前置条件设计参考 |
@@ -39,4 +41,5 @@
 - 在线教程只参考结构和组织方式，不直接复制正文
 - AI 编译器专题优先依赖官方仓库和官方文档概念，不直接照搬二手总结
 - LLM 模块优先参考章节结构、项目实践和源码实现，不直接复制原仓库正文
+- AI Infra 模块优先参考 CUDA / HPC / 框架实现与训练推理工程实践，不直接复制原仓库正文
 - 所有来源只作为索引和校验，不作为正文直接复制粘贴

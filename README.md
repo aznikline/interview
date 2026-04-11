@@ -102,7 +102,16 @@
 - [系统设计 14 天计划](/Users/wizout/op/interview/tracks/system-design-14d/README.md)
 - [系统设计压测包](/Users/wizout/op/interview/practice/drills/system-design-pressure-pack.md)
 
-### 05. AI Infra / AI 编译器
+### 05. AI Infra
+
+- [AI Infra 专题首页](/Users/wizout/op/interview/docs/topics/ai-infra/00-index.md)
+- [AI Infra 核心题清单](/Users/wizout/op/interview/questions/ai-infra/00-must-know.md)
+- [AI Infra 高频题](/Users/wizout/op/interview/questions/ai-infra/high-frequency.md)
+- [AI Infra 代表题清单](/Users/wizout/op/interview/questions/ai-infra/representative-scenarios.md)
+- [AI Infra 21 天计划](/Users/wizout/op/interview/tracks/ai-infra-21d/README.md)
+- [AI Infra 压测包](/Users/wizout/op/interview/practice/drills/ai-infra-pressure-pack.md)
+
+### 05A. AI 编译器
 
 - [AI 编译器专题首页](/Users/wizout/op/interview/docs/topics/ai-compiler/00-index.md)
 - [AI 编译器核心题清单](/Users/wizout/op/interview/questions/ai-compiler/00-must-know.md)
@@ -112,7 +121,7 @@
 - [OS 与 AI 编译器口述速答包](/Users/wizout/op/interview/practice/drills/os-and-ai-compiler-oral-pack.md)
 - [AI 编译器深挖 Mock](/Users/wizout/op/interview/practice/mock-interviews/ai-compiler-deep-dive.md)
 
-### 05A. LLM 面试
+### 05B. LLM 面试
 
 - [LLM 面试专题首页](/Users/wizout/op/interview/docs/topics/llm/00-index.md)
 - [LLM 核心题清单](/Users/wizout/op/interview/questions/llm/00-must-know.md)
