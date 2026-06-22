@@ -4,7 +4,7 @@
 
 本地路径：
 
-- [references/llm_interview_note](../../references/llm_interview_note)
+- [external/llm-sources/llm_interview_note](../../external/llm-sources/llm_interview_note)
 
 核心章节：
 
@@ -30,7 +30,7 @@
 
 本地路径：
 
-- [references/tiny-llm-zh](../../references/tiny-llm-zh)
+- [external/llm-sources/tiny-llm-zh](../../external/llm-sources/tiny-llm-zh)
 
 核心目录：
 
@@ -48,7 +48,7 @@
 
 本地路径：
 
-- [references/tiny-rag](../../references/tiny-rag)
+- [external/llm-sources/tiny-rag](../../external/llm-sources/tiny-rag)
 
 核心目录：
 
@@ -64,7 +64,7 @@
 
 本地路径：
 
-- [references/tiny-mcp](../../references/tiny-mcp)
+- [external/llm-sources/tiny-mcp](../../external/llm-sources/tiny-mcp)
 
 核心目录：
 
@@ -80,7 +80,7 @@
 
 本地路径：
 
-- [references/llama3-from-scratch-zh](../../references/llama3-from-scratch-zh)
+- [external/llm-sources/llama3-from-scratch-zh](../../external/llm-sources/llama3-from-scratch-zh)
 
 核心目录：
 

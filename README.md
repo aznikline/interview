@@ -1,5 +1,12 @@
 # 面试总手册
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Stars](https://img.shields.io/github/stars/aznikline/interview?style=social)](https://github.com/aznikline/interview)
+[![Tests](https://img.shields.io/badge/tests-6%20passed-brightgreen.svg)](./tests)
+
+> 一个带工程化（内容索引 / 文档 lint / 进度看板）的中文面试工程库，不是资料堆：手册层原创整理 + 训练路线，参考层挂接外部原始仓库。
+
 一个面向 `后端 / 算法 / 系统设计 / 操作系统 / LLM / AI Infra / AI 编译器` 的长期面试工程。
 
 这个仓库现在不是“资料堆”，而是两层结构：
@@ -7,7 +14,7 @@
 - `手册整合层`
   负责把知识点、题单、路线、drill、mock 组织成可学习、可输出、可复习的手册。
 - `原始参考层`
-  负责把外部原始仓库一比一挂接在 `references/` 下，保留完整目录结构，避免只剩二手摘要。
+  负责把外部原始仓库通过 bootstrap 脚本拉到 `external/` 下，保留完整目录结构，避免只剩二手摘要。
 
 ## 先看什么
 
@@ -60,7 +67,7 @@
 
 ### 原始参考层
 
-这一层是你要求的“原始仓库完整接入层”，现在在 `references/`：
+这一层是外部原始仓库的完整接入层，通过 bootstrap 脚本拉到 `external/` 下（首次使用前先跑 `bash scripts/bootstrap_llm_sources.sh` / `bash scripts/bootstrap_ai_infra_sources.sh`）：
 
 - [参考源总目录](docs/reference/00-source-layer.md)
 - [LLM 参考源索引](docs/reference/01-llm-source-index.md)
@@ -152,5 +159,27 @@
 ## 使用边界
 
 - 手册正文以原创整理和结构化重写为主
-- `references/` 保留原始仓库结构，作为原始层
+- `external/` 保留原始仓库结构，作为原始层（由 bootstrap 脚本拉取，不进 git）
 - 原始仓库是参考源，不直接等于你的面试答案
+
+## 工程化与测试
+
+仓库不是纯 markdown 堆，带一套内容工程工具链（在 `scripts/`）：
+
+- `build_index.py` — 扫描内容生成索引（counts / domains / coverage / files）
+- `lint_docs.py` — 校验每篇题目的结构完整性（1 分钟速答 / 核心机制 / 高频问法 / 深挖与误区）
+- `generate_progress.py` — 生成进度看板
+- `bootstrap_llm_sources.sh` / `bootstrap_ai_infra_sources.sh` — 拉取外部参考仓库到 `external/`
+
+测试用 pytest：
+
+```bash
+pip install -e ".[dev]"
+pytest -q
+```
+
+`tests/` 覆盖索引生成与文档 lint，6 个测试。当前 `external/` 未拉取时也可独立运行（工具链不依赖外部内容）。
+
+## License
+
+[MIT License](./LICENSE) © 2026 aznikline

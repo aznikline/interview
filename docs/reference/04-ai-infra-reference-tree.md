@@ -4,7 +4,7 @@
 
 本地路径：
 
-- [references/ai-infra-hpc](../../references/ai-infra-hpc)
+- [external/ai-infra-sources/ai-infra-hpc](../../external/ai-infra-sources/ai-infra-hpc)
 
 核心章节树：
 
@@ -38,7 +38,7 @@
 
 本地路径：
 
-- [references/OriginDL](../../references/OriginDL)
+- [external/ai-infra-sources/OriginDL](../../external/ai-infra-sources/OriginDL)
 
 核心目录：
 
